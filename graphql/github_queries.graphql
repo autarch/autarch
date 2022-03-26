@@ -1,0 +1,105 @@
+fragment repos on RepositoryConnection {
+  pageInfo {
+    endCursor
+    hasNextPage
+  }
+  nodes {
+    createdAt
+    forkCount
+    isArchived
+    isDisabled
+    isEmpty
+    isFork
+    isMirror
+    isPrivate
+    nameWithOwner
+    languages(first: 100) {
+      edges {
+        size
+      }
+      nodes {
+        color
+        name
+      }
+      totalSize
+    }
+    licenseInfo {
+      nickname
+      spdxId
+      name
+    }
+    owner {
+      __typename
+      login
+    }
+    refs(
+      last: 1,
+      refPrefix: "refs/heads/",
+      orderBy: {
+        direction: DESC,
+        field: TAG_COMMIT_DATE,
+      },
+    ) {
+      nodes {
+        target {
+          __typename
+          ... on Commit {
+            pushedDate
+          }
+        }
+      }
+    }
+    stargazerCount
+    url
+  }
+}
+
+query OrganizationReposQuery($login: String!, $after: String) {
+  organization(login: $login) {
+    repositories(
+      affiliations: [OWNER],
+      after: $after,
+      orderBy: {
+        direction: ASC,
+        field: NAME,
+      },
+      privacy: PUBLIC,
+    ) {
+      ...repos
+    }
+  }
+}
+
+query UserReposQuery($login: String!, $after: String) {
+  user(login: $login) {
+    createdAt
+    repositories(
+      affiliations: [OWNER],
+      after: $after,
+      orderBy: {
+        direction: ASC,
+        field: NAME,
+      },
+      privacy: PUBLIC,
+    ) {
+      ...repos
+    }
+  }
+}
+
+# Adapted from queries in
+# https://github.com/lowlighter/metrics/blob/master/source/plugins/followup/querie/s
+query IssuesAndPrsQuery {
+  issues_created:search(query: "author:autarch is:issue", type: ISSUE, first: 0) {
+    issueCount
+  }
+  issues_closed:search(query: "author:autarch is:issue is:closed", type: ISSUE, first: 0) {
+    issueCount
+  }
+  prs_created:search(query: "author:autarch is:pr", type: ISSUE, first: 0) {
+    issueCount
+  }
+  prs_merged:search(query: "author:autarch is:pr is:merged", type: ISSUE, first: 0) {
+    issueCount
+  }
+}
