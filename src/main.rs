@@ -11,12 +11,13 @@ pub(crate) mod gql_types {
 use anyhow::Result;
 use chrono::{DateTime, Datelike, Utc};
 use github_queries::{
-    issues_and_prs_query, organization_repos_query, user_repos_query, IssuesAndPrsQuery,
-    OrganizationReposQuery, UserReposQuery,
+    issues_and_prs_query, organization_repos_query,
+    user_repos_query::{self, ReposNodesLanguages},
+    IssuesAndPrsQuery, OrganizationReposQuery, UserReposQuery,
 };
 use graphql_client::reqwest::post_graphql;
 use human_bytes::human_bytes;
-use itertools::Itertools;
+use itertools::{EitherOrBoth, Itertools};
 use once_cell::sync::Lazy;
 use reqwest::Client;
 use rss::Channel;
@@ -81,12 +82,11 @@ struct BlogPost {
 
 #[derive(Serialize)]
 struct Context<'a> {
+    blog_posts: Vec<BlogPost>,
     user_and_repo_stats: &'a UserAndRepoStats,
     top_repos: TopRepos<'a>,
     issue_and_pr_stats: IssueAndPrStats,
-    top_all_time_languages: Vec<LanguageStat<'a>>,
-    top_recent_languages: Vec<LanguageStat<'a>>,
-    blog_posts: Vec<BlogPost>,
+    top_languages: Vec<(String, String)>,
 }
 
 const README_TEMPLATE: &str = r#"
@@ -130,13 +130,12 @@ This excludes archived, disabled, empty, and private repos.
 - {issue_and_pr_stats.issues_created} issues created
   - of which {issue_and_pr_stats.issues_closed} have been closed
 
-## Past Two Years Language Stats
-{{ for lang in top_recent_languages }}- {lang.name}: {lang.percentage}%, {lang.bytes}
-{{ endfor }}
-
-## All-Time Language Stats
-{{ for lang in top_all_time_languages }}- {lang.name}: {lang.percentage}%, {lang.bytes}
-{{ endfor }}
+## Language Stats
+| Past Two Years        | All Time                |
+|-----------------------|-------------------------|
+{{ for pair in top_languages -}}
+| {pair.0}              | {pair.1}                |
+{{ endfor -}}
 "#;
 
 const API_URL: &str = "https://api.github.com/graphql";
@@ -173,12 +172,11 @@ async fn main() -> Result<()> {
     let mut tt = TinyTemplate::new();
     tt.add_template("readme", README_TEMPLATE)?;
     let context = Context {
+        blog_posts,
         user_and_repo_stats: &user_and_repo_stats,
         top_repos,
         issue_and_pr_stats,
-        top_all_time_languages,
-        top_recent_languages,
-        blog_posts,
+        top_languages: language_pairs_for_template(top_recent_languages, top_all_time_languages),
     };
 
     let mut path = PathBuf::from(env!("CARGO_MANIFEST_DIR"));
@@ -272,34 +270,10 @@ fn collect_user_repo_stats(
 
         stats.owned_repos += 1;
 
-        let lang_sizes = repo
-            .languages
-            .as_ref()
-            .unwrap()
-            .edges
-            .as_ref()
-            .unwrap()
-            .iter()
-            .map(|e| e.as_ref().unwrap().size)
-            .collect::<Vec<_>>();
-        let lang_names_and_colors = repo
-            .languages
-            .as_ref()
-            .unwrap()
-            .nodes
-            .as_ref()
-            .unwrap()
-            .iter()
-            .map(|l| {
-                let l = l.as_ref().unwrap();
-                (l.name.as_str(), l.color.as_deref())
-            })
-            .collect::<Vec<_>>();
         collect_language_stats(
             &mut stats.all_time_languages,
             repo.name_with_owner.as_str(),
-            &lang_sizes,
-            &lang_names_and_colors,
+            repo.languages.as_ref().unwrap(),
         );
 
         let default_target = repo
@@ -332,8 +306,7 @@ fn collect_user_repo_stats(
             collect_language_stats(
                 &mut stats.recent_languages,
                 repo.name_with_owner.as_str(),
-                &lang_sizes,
-                &lang_names_and_colors,
+                repo.languages.as_ref().unwrap(),
             );
 
             stats.live_repos += 1;
@@ -373,9 +346,26 @@ const REPOS_TO_IGNORE_FOR_LANGUAGE_STATS: &[&str] = &[
 fn collect_language_stats(
     stats: &mut HashMap<String, (String, i64)>,
     repo_name: &str,
-    lang_sizes: &[i64],
-    lang_names_and_colors: &[(&str, Option<&str>)],
+    languages: &ReposNodesLanguages,
 ) {
+    let lang_sizes = languages
+        .edges
+        .as_ref()
+        .unwrap()
+        .iter()
+        .map(|e| e.as_ref().unwrap().size)
+        .collect::<Vec<_>>();
+    let lang_names_and_colors = languages
+        .nodes
+        .as_ref()
+        .unwrap()
+        .iter()
+        .map(|l| {
+            let l = l.as_ref().unwrap();
+            (l.name.as_str(), l.color.as_deref())
+        })
+        .collect::<Vec<_>>();
+
     if lang_sizes.len() != lang_names_and_colors.len() {
         panic!(
             "language sizes and names differ in length: {} != {} for {}",
@@ -420,12 +410,12 @@ fn language_color<'a, 'b>(lang: &'a str, color: Option<&'b str>) -> &'b str {
 }
 
 fn top_repos(repos: &[MyRepo]) -> TopRepos<'_> {
+    let most_recent = top_n(repos, 10, |a, b| b.pushed_date.cmp(&a.pushed_date));
     let most_forked = top_n(repos, 5, |a, b| b.fork_count.cmp(&a.fork_count));
     let most_starred = top_n(repos, 5, |a, b| b.stargazer_count.cmp(&a.stargazer_count));
-    let most_recent = top_n(repos, 10, |a, b| b.pushed_date.cmp(&a.pushed_date));
     TopRepos {
-        most_forked,
         most_recent,
+        most_forked,
         most_starred,
     }
 }
@@ -512,4 +502,25 @@ async fn blog_posts() -> Result<Vec<BlogPost>> {
             })
         })
         .collect::<Result<Vec<_>>>()?)
+}
+
+fn language_pairs_for_template(
+    top_recent_languages: Vec<LanguageStat<'_>>,
+    top_all_time_languages: Vec<LanguageStat<'_>>,
+) -> Vec<(String, String)> {
+    top_recent_languages
+        .into_iter()
+        .zip_longest(top_all_time_languages)
+        .map(|l| match l {
+            EitherOrBoth::Both(a, b) => (a.string_for_template(), b.string_for_template()),
+            EitherOrBoth::Left(a) => (a.string_for_template(), String::new()),
+            EitherOrBoth::Right(b) => (String::new(), b.string_for_template()),
+        })
+        .collect()
+}
+
+impl<'a> LanguageStat<'a> {
+    fn string_for_template(&self) -> String {
+        format!("{}: {}%, {}", self.name, self.percentage, self.bytes)
+    }
 }
