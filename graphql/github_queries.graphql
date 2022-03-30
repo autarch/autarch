@@ -5,6 +5,18 @@ fragment repos on RepositoryConnection {
   }
   nodes {
     createdAt
+    defaultBranchRef {
+      target {
+        __typename
+        ... on Commit {
+          history(first: 1) {
+            nodes {
+              pushedDate
+            }
+          }
+        }
+      }
+    }
     forkCount
     isArchived
     isDisabled
@@ -31,23 +43,6 @@ fragment repos on RepositoryConnection {
     owner {
       __typename
       login
-    }
-    refs(
-      last: 1,
-      refPrefix: "refs/heads/",
-      orderBy: {
-        direction: DESC,
-        field: TAG_COMMIT_DATE,
-      },
-    ) {
-      nodes {
-        target {
-          __typename
-          ... on Commit {
-            pushedDate
-          }
-        }
-      }
     }
     stargazerCount
     url

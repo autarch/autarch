@@ -4,7 +4,7 @@ pub mod organization_repos_query {
     #![allow(dead_code)]
     use std::result::Result;
     pub const OPERATION_NAME: &str = "OrganizationReposQuery";
-    pub const QUERY : & str = "fragment repos on RepositoryConnection {\n  pageInfo {\n    endCursor\n    hasNextPage\n  }\n  nodes {\n    createdAt\n    forkCount\n    isArchived\n    isDisabled\n    isEmpty\n    isFork\n    isMirror\n    isPrivate\n    nameWithOwner\n    languages(first: 100) {\n      edges {\n        size\n      }\n      nodes {\n        color\n        name\n      }\n      totalSize\n    }\n    licenseInfo {\n      nickname\n      spdxId\n      name\n    }\n    owner {\n      __typename\n      login\n    }\n    refs(\n      last: 1,\n      refPrefix: \"refs/heads/\",\n      orderBy: {\n        direction: DESC,\n        field: TAG_COMMIT_DATE,\n      },\n    ) {\n      nodes {\n        target {\n          __typename\n          ... on Commit {\n            pushedDate\n          }\n        }\n      }\n    }\n    stargazerCount\n    url\n  }\n}\n\nquery OrganizationReposQuery($login: String!, $after: String) {\n  organization(login: $login) {\n    repositories(\n      affiliations: [OWNER],\n      after: $after,\n      orderBy: {\n        direction: ASC,\n        field: NAME,\n      },\n      privacy: PUBLIC,\n    ) {\n      ...repos\n    }\n  }\n}\n\nquery UserReposQuery($login: String!, $after: String) {\n  user(login: $login) {\n    createdAt\n    repositories(\n      affiliations: [OWNER],\n      after: $after,\n      orderBy: {\n        direction: ASC,\n        field: NAME,\n      },\n      privacy: PUBLIC,\n    ) {\n      ...repos\n    }\n  }\n}\n\n# Adapted from queries in\n# https://github.com/lowlighter/metrics/blob/master/source/plugins/followup/querie/s\nquery IssuesAndPrsQuery {\n  issues_created:search(query: \"author:autarch is:issue\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  issues_closed:search(query: \"author:autarch is:issue is:closed\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  prs_created:search(query: \"author:autarch is:pr\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  prs_merged:search(query: \"author:autarch is:pr is:merged\", type: ISSUE, first: 0) {\n    issueCount\n  }\n}\n" ;
+    pub const QUERY : & str = "fragment repos on RepositoryConnection {\n  pageInfo {\n    endCursor\n    hasNextPage\n  }\n  nodes {\n    createdAt\n    defaultBranchRef {\n      target {\n        __typename\n        ... on Commit {\n          history(first: 1) {\n            nodes {\n              pushedDate\n            }\n          }\n        }\n      }\n    }\n    forkCount\n    isArchived\n    isDisabled\n    isEmpty\n    isFork\n    isMirror\n    isPrivate\n    nameWithOwner\n    languages(first: 100) {\n      edges {\n        size\n      }\n      nodes {\n        color\n        name\n      }\n      totalSize\n    }\n    licenseInfo {\n      nickname\n      spdxId\n      name\n    }\n    owner {\n      __typename\n      login\n    }\n    stargazerCount\n    url\n  }\n}\n\nquery OrganizationReposQuery($login: String!, $after: String) {\n  organization(login: $login) {\n    repositories(\n      affiliations: [OWNER],\n      after: $after,\n      orderBy: {\n        direction: ASC,\n        field: NAME,\n      },\n      privacy: PUBLIC,\n    ) {\n      ...repos\n    }\n  }\n}\n\nquery UserReposQuery($login: String!, $after: String) {\n  user(login: $login) {\n    createdAt\n    repositories(\n      affiliations: [OWNER],\n      after: $after,\n      orderBy: {\n        direction: ASC,\n        field: NAME,\n      },\n      privacy: PUBLIC,\n    ) {\n      ...repos\n    }\n  }\n}\n\n# Adapted from queries in\n# https://github.com/lowlighter/metrics/blob/master/source/plugins/followup/querie/s\nquery IssuesAndPrsQuery {\n  issues_created:search(query: \"author:autarch is:issue\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  issues_closed:search(query: \"author:autarch is:issue is:closed\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  prs_created:search(query: \"author:autarch is:pr\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  prs_merged:search(query: \"author:autarch is:pr is:merged\", type: ISSUE, first: 0) {\n    issueCount\n  }\n}\n" ;
     use super::*;
     use serde::{Deserialize, Serialize};
     #[allow(dead_code)]
@@ -40,6 +40,8 @@ pub mod organization_repos_query {
     pub struct ReposNodes {
         #[serde(rename = "createdAt")]
         pub created_at: DateTime,
+        #[serde(rename = "defaultBranchRef")]
+        pub default_branch_ref: Option<ReposNodesDefaultBranchRef>,
         #[serde(rename = "forkCount")]
         pub fork_count: Int,
         #[serde(rename = "isArchived")]
@@ -60,10 +62,34 @@ pub mod organization_repos_query {
         #[serde(rename = "licenseInfo")]
         pub license_info: Option<ReposNodesLicenseInfo>,
         pub owner: ReposNodesOwner,
-        pub refs: Option<ReposNodesRefs>,
         #[serde(rename = "stargazerCount")]
         pub stargazer_count: Int,
         pub url: URI,
+    }
+    #[derive(Deserialize, Debug)]
+    pub struct ReposNodesDefaultBranchRef {
+        pub target: Option<ReposNodesDefaultBranchRefTarget>,
+    }
+    #[derive(Deserialize, Debug)]
+    #[serde(tag = "__typename")]
+    pub enum ReposNodesDefaultBranchRefTarget {
+        Blob,
+        Commit(ReposNodesDefaultBranchRefTargetOnCommit),
+        Tag,
+        Tree,
+    }
+    #[derive(Deserialize, Debug)]
+    pub struct ReposNodesDefaultBranchRefTargetOnCommit {
+        pub history: ReposNodesDefaultBranchRefTargetOnCommitHistory,
+    }
+    #[derive(Deserialize, Debug)]
+    pub struct ReposNodesDefaultBranchRefTargetOnCommitHistory {
+        pub nodes: Option<Vec<Option<ReposNodesDefaultBranchRefTargetOnCommitHistoryNodes>>>,
+    }
+    #[derive(Deserialize, Debug)]
+    pub struct ReposNodesDefaultBranchRefTargetOnCommitHistoryNodes {
+        #[serde(rename = "pushedDate")]
+        pub pushed_date: Option<DateTime>,
     }
     #[derive(Deserialize, Debug)]
     pub struct ReposNodesLanguages {
@@ -99,27 +125,6 @@ pub mod organization_repos_query {
     pub enum ReposNodesOwnerOn {
         Organization,
         User,
-    }
-    #[derive(Deserialize, Debug)]
-    pub struct ReposNodesRefs {
-        pub nodes: Option<Vec<Option<ReposNodesRefsNodes>>>,
-    }
-    #[derive(Deserialize, Debug)]
-    pub struct ReposNodesRefsNodes {
-        pub target: Option<ReposNodesRefsNodesTarget>,
-    }
-    #[derive(Deserialize, Debug)]
-    #[serde(tag = "__typename")]
-    pub enum ReposNodesRefsNodesTarget {
-        Blob,
-        Commit(ReposNodesRefsNodesTargetOnCommit),
-        Tag,
-        Tree,
-    }
-    #[derive(Deserialize, Debug)]
-    pub struct ReposNodesRefsNodesTargetOnCommit {
-        #[serde(rename = "pushedDate")]
-        pub pushed_date: Option<DateTime>,
     }
     #[derive(Deserialize, Debug)]
     pub struct ResponseData {
@@ -147,7 +152,7 @@ pub mod user_repos_query {
     #![allow(dead_code)]
     use std::result::Result;
     pub const OPERATION_NAME: &str = "UserReposQuery";
-    pub const QUERY : & str = "fragment repos on RepositoryConnection {\n  pageInfo {\n    endCursor\n    hasNextPage\n  }\n  nodes {\n    createdAt\n    forkCount\n    isArchived\n    isDisabled\n    isEmpty\n    isFork\n    isMirror\n    isPrivate\n    nameWithOwner\n    languages(first: 100) {\n      edges {\n        size\n      }\n      nodes {\n        color\n        name\n      }\n      totalSize\n    }\n    licenseInfo {\n      nickname\n      spdxId\n      name\n    }\n    owner {\n      __typename\n      login\n    }\n    refs(\n      last: 1,\n      refPrefix: \"refs/heads/\",\n      orderBy: {\n        direction: DESC,\n        field: TAG_COMMIT_DATE,\n      },\n    ) {\n      nodes {\n        target {\n          __typename\n          ... on Commit {\n            pushedDate\n          }\n        }\n      }\n    }\n    stargazerCount\n    url\n  }\n}\n\nquery OrganizationReposQuery($login: String!, $after: String) {\n  organization(login: $login) {\n    repositories(\n      affiliations: [OWNER],\n      after: $after,\n      orderBy: {\n        direction: ASC,\n        field: NAME,\n      },\n      privacy: PUBLIC,\n    ) {\n      ...repos\n    }\n  }\n}\n\nquery UserReposQuery($login: String!, $after: String) {\n  user(login: $login) {\n    createdAt\n    repositories(\n      affiliations: [OWNER],\n      after: $after,\n      orderBy: {\n        direction: ASC,\n        field: NAME,\n      },\n      privacy: PUBLIC,\n    ) {\n      ...repos\n    }\n  }\n}\n\n# Adapted from queries in\n# https://github.com/lowlighter/metrics/blob/master/source/plugins/followup/querie/s\nquery IssuesAndPrsQuery {\n  issues_created:search(query: \"author:autarch is:issue\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  issues_closed:search(query: \"author:autarch is:issue is:closed\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  prs_created:search(query: \"author:autarch is:pr\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  prs_merged:search(query: \"author:autarch is:pr is:merged\", type: ISSUE, first: 0) {\n    issueCount\n  }\n}\n" ;
+    pub const QUERY : & str = "fragment repos on RepositoryConnection {\n  pageInfo {\n    endCursor\n    hasNextPage\n  }\n  nodes {\n    createdAt\n    defaultBranchRef {\n      target {\n        __typename\n        ... on Commit {\n          history(first: 1) {\n            nodes {\n              pushedDate\n            }\n          }\n        }\n      }\n    }\n    forkCount\n    isArchived\n    isDisabled\n    isEmpty\n    isFork\n    isMirror\n    isPrivate\n    nameWithOwner\n    languages(first: 100) {\n      edges {\n        size\n      }\n      nodes {\n        color\n        name\n      }\n      totalSize\n    }\n    licenseInfo {\n      nickname\n      spdxId\n      name\n    }\n    owner {\n      __typename\n      login\n    }\n    stargazerCount\n    url\n  }\n}\n\nquery OrganizationReposQuery($login: String!, $after: String) {\n  organization(login: $login) {\n    repositories(\n      affiliations: [OWNER],\n      after: $after,\n      orderBy: {\n        direction: ASC,\n        field: NAME,\n      },\n      privacy: PUBLIC,\n    ) {\n      ...repos\n    }\n  }\n}\n\nquery UserReposQuery($login: String!, $after: String) {\n  user(login: $login) {\n    createdAt\n    repositories(\n      affiliations: [OWNER],\n      after: $after,\n      orderBy: {\n        direction: ASC,\n        field: NAME,\n      },\n      privacy: PUBLIC,\n    ) {\n      ...repos\n    }\n  }\n}\n\n# Adapted from queries in\n# https://github.com/lowlighter/metrics/blob/master/source/plugins/followup/querie/s\nquery IssuesAndPrsQuery {\n  issues_created:search(query: \"author:autarch is:issue\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  issues_closed:search(query: \"author:autarch is:issue is:closed\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  prs_created:search(query: \"author:autarch is:pr\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  prs_merged:search(query: \"author:autarch is:pr is:merged\", type: ISSUE, first: 0) {\n    issueCount\n  }\n}\n" ;
     use super::*;
     use serde::{Deserialize, Serialize};
     #[allow(dead_code)]
@@ -158,8 +163,8 @@ pub mod user_repos_query {
     type Int = i64;
     #[allow(dead_code)]
     type ID = String;
-    type DateTime = crate::gql_types::DateTime;
     type URI = crate::gql_types::URI;
+    type DateTime = crate::gql_types::DateTime;
     #[derive(Serialize)]
     pub struct Variables {
         pub login: String,
@@ -183,6 +188,8 @@ pub mod user_repos_query {
     pub struct ReposNodes {
         #[serde(rename = "createdAt")]
         pub created_at: DateTime,
+        #[serde(rename = "defaultBranchRef")]
+        pub default_branch_ref: Option<ReposNodesDefaultBranchRef>,
         #[serde(rename = "forkCount")]
         pub fork_count: Int,
         #[serde(rename = "isArchived")]
@@ -203,10 +210,34 @@ pub mod user_repos_query {
         #[serde(rename = "licenseInfo")]
         pub license_info: Option<ReposNodesLicenseInfo>,
         pub owner: ReposNodesOwner,
-        pub refs: Option<ReposNodesRefs>,
         #[serde(rename = "stargazerCount")]
         pub stargazer_count: Int,
         pub url: URI,
+    }
+    #[derive(Deserialize, Debug)]
+    pub struct ReposNodesDefaultBranchRef {
+        pub target: Option<ReposNodesDefaultBranchRefTarget>,
+    }
+    #[derive(Deserialize, Debug)]
+    #[serde(tag = "__typename")]
+    pub enum ReposNodesDefaultBranchRefTarget {
+        Blob,
+        Commit(ReposNodesDefaultBranchRefTargetOnCommit),
+        Tag,
+        Tree,
+    }
+    #[derive(Deserialize, Debug)]
+    pub struct ReposNodesDefaultBranchRefTargetOnCommit {
+        pub history: ReposNodesDefaultBranchRefTargetOnCommitHistory,
+    }
+    #[derive(Deserialize, Debug)]
+    pub struct ReposNodesDefaultBranchRefTargetOnCommitHistory {
+        pub nodes: Option<Vec<Option<ReposNodesDefaultBranchRefTargetOnCommitHistoryNodes>>>,
+    }
+    #[derive(Deserialize, Debug)]
+    pub struct ReposNodesDefaultBranchRefTargetOnCommitHistoryNodes {
+        #[serde(rename = "pushedDate")]
+        pub pushed_date: Option<DateTime>,
     }
     #[derive(Deserialize, Debug)]
     pub struct ReposNodesLanguages {
@@ -242,27 +273,6 @@ pub mod user_repos_query {
     pub enum ReposNodesOwnerOn {
         Organization,
         User,
-    }
-    #[derive(Deserialize, Debug)]
-    pub struct ReposNodesRefs {
-        pub nodes: Option<Vec<Option<ReposNodesRefsNodes>>>,
-    }
-    #[derive(Deserialize, Debug)]
-    pub struct ReposNodesRefsNodes {
-        pub target: Option<ReposNodesRefsNodesTarget>,
-    }
-    #[derive(Deserialize, Debug)]
-    #[serde(tag = "__typename")]
-    pub enum ReposNodesRefsNodesTarget {
-        Blob,
-        Commit(ReposNodesRefsNodesTargetOnCommit),
-        Tag,
-        Tree,
-    }
-    #[derive(Deserialize, Debug)]
-    pub struct ReposNodesRefsNodesTargetOnCommit {
-        #[serde(rename = "pushedDate")]
-        pub pushed_date: Option<DateTime>,
     }
     #[derive(Deserialize, Debug)]
     pub struct ResponseData {
@@ -292,7 +302,7 @@ pub mod issues_and_prs_query {
     #![allow(dead_code)]
     use std::result::Result;
     pub const OPERATION_NAME: &str = "IssuesAndPrsQuery";
-    pub const QUERY : & str = "fragment repos on RepositoryConnection {\n  pageInfo {\n    endCursor\n    hasNextPage\n  }\n  nodes {\n    createdAt\n    forkCount\n    isArchived\n    isDisabled\n    isEmpty\n    isFork\n    isMirror\n    isPrivate\n    nameWithOwner\n    languages(first: 100) {\n      edges {\n        size\n      }\n      nodes {\n        color\n        name\n      }\n      totalSize\n    }\n    licenseInfo {\n      nickname\n      spdxId\n      name\n    }\n    owner {\n      __typename\n      login\n    }\n    refs(\n      last: 1,\n      refPrefix: \"refs/heads/\",\n      orderBy: {\n        direction: DESC,\n        field: TAG_COMMIT_DATE,\n      },\n    ) {\n      nodes {\n        target {\n          __typename\n          ... on Commit {\n            pushedDate\n          }\n        }\n      }\n    }\n    stargazerCount\n    url\n  }\n}\n\nquery OrganizationReposQuery($login: String!, $after: String) {\n  organization(login: $login) {\n    repositories(\n      affiliations: [OWNER],\n      after: $after,\n      orderBy: {\n        direction: ASC,\n        field: NAME,\n      },\n      privacy: PUBLIC,\n    ) {\n      ...repos\n    }\n  }\n}\n\nquery UserReposQuery($login: String!, $after: String) {\n  user(login: $login) {\n    createdAt\n    repositories(\n      affiliations: [OWNER],\n      after: $after,\n      orderBy: {\n        direction: ASC,\n        field: NAME,\n      },\n      privacy: PUBLIC,\n    ) {\n      ...repos\n    }\n  }\n}\n\n# Adapted from queries in\n# https://github.com/lowlighter/metrics/blob/master/source/plugins/followup/querie/s\nquery IssuesAndPrsQuery {\n  issues_created:search(query: \"author:autarch is:issue\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  issues_closed:search(query: \"author:autarch is:issue is:closed\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  prs_created:search(query: \"author:autarch is:pr\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  prs_merged:search(query: \"author:autarch is:pr is:merged\", type: ISSUE, first: 0) {\n    issueCount\n  }\n}\n" ;
+    pub const QUERY : & str = "fragment repos on RepositoryConnection {\n  pageInfo {\n    endCursor\n    hasNextPage\n  }\n  nodes {\n    createdAt\n    defaultBranchRef {\n      target {\n        __typename\n        ... on Commit {\n          history(first: 1) {\n            nodes {\n              pushedDate\n            }\n          }\n        }\n      }\n    }\n    forkCount\n    isArchived\n    isDisabled\n    isEmpty\n    isFork\n    isMirror\n    isPrivate\n    nameWithOwner\n    languages(first: 100) {\n      edges {\n        size\n      }\n      nodes {\n        color\n        name\n      }\n      totalSize\n    }\n    licenseInfo {\n      nickname\n      spdxId\n      name\n    }\n    owner {\n      __typename\n      login\n    }\n    stargazerCount\n    url\n  }\n}\n\nquery OrganizationReposQuery($login: String!, $after: String) {\n  organization(login: $login) {\n    repositories(\n      affiliations: [OWNER],\n      after: $after,\n      orderBy: {\n        direction: ASC,\n        field: NAME,\n      },\n      privacy: PUBLIC,\n    ) {\n      ...repos\n    }\n  }\n}\n\nquery UserReposQuery($login: String!, $after: String) {\n  user(login: $login) {\n    createdAt\n    repositories(\n      affiliations: [OWNER],\n      after: $after,\n      orderBy: {\n        direction: ASC,\n        field: NAME,\n      },\n      privacy: PUBLIC,\n    ) {\n      ...repos\n    }\n  }\n}\n\n# Adapted from queries in\n# https://github.com/lowlighter/metrics/blob/master/source/plugins/followup/querie/s\nquery IssuesAndPrsQuery {\n  issues_created:search(query: \"author:autarch is:issue\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  issues_closed:search(query: \"author:autarch is:issue is:closed\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  prs_created:search(query: \"author:autarch is:pr\", type: ISSUE, first: 0) {\n    issueCount\n  }\n  prs_merged:search(query: \"author:autarch is:pr is:merged\", type: ISSUE, first: 0) {\n    issueCount\n  }\n}\n" ;
     use super::*;
     use serde::{Deserialize, Serialize};
     #[allow(dead_code)]

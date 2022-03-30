@@ -104,7 +104,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 {{ endfor }}
 
 ## Repo Stats
-- **{user_and_repo_stats.live_repos} repos with commits in the last two years**
+- **{user_and_repo_stats.live_repos} repos with commits to the default branch in the last two years**
 - {user_and_repo_stats.total_repos} total repos
   - {user_and_repo_stats.forked_repos} are forks
 
@@ -291,14 +291,21 @@ fn collect_user_repo_stats(
             &lang_names_and_colors,
         );
 
-        let last_commit = repo.refs.as_ref().unwrap().nodes.as_ref().unwrap()[0]
+        let default_target = repo
+            .default_branch_ref
             .as_ref()
             .unwrap()
             .target
             .as_ref()
             .unwrap();
-        let pushed_date = match last_commit {
-            user_repos_query::ReposNodesRefsNodesTarget::Commit(c) => c.pushed_date.as_ref(),
+        let pushed_date = match default_target {
+            user_repos_query::ReposNodesDefaultBranchRefTarget::Commit(c) => {
+                c.history.nodes.as_ref().unwrap()[0]
+                    .as_ref()
+                    .unwrap()
+                    .pushed_date
+                    .as_ref()
+            }
             _ => None,
         };
         // This seems to be none in cases where the last commit in the repo is
@@ -392,15 +399,20 @@ fn collect_organization_repo_stats(
             &lang_names_and_colors,
         );
 
-        let last_commit = repo.refs.as_ref().unwrap().nodes.as_ref().unwrap()[0]
+        let default_target = repo
+            .default_branch_ref
             .as_ref()
             .unwrap()
             .target
             .as_ref()
             .unwrap();
-        let pushed_date = match last_commit {
-            organization_repos_query::ReposNodesRefsNodesTarget::Commit(c) => {
-                c.pushed_date.as_ref()
+        let pushed_date = match default_target {
+            organization_repos_query::ReposNodesDefaultBranchRefTarget::Commit(c) => {
+                c.history.nodes.as_ref().unwrap()[0]
+                    .as_ref()
+                    .unwrap()
+                    .pushed_date
+                    .as_ref()
             }
             _ => None,
         };
