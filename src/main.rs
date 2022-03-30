@@ -1,4 +1,6 @@
 // graphql-client generate --schema-path ./graphql/github.schema.graphql --custom-scalars-module crate::gql_types --output-directory ./src/ --response-derives Debug ./graphql/github_queries.graphql
+
+mod convert;
 mod github_queries;
 pub(crate) mod gql_types {
     #[allow(clippy::upper_case_acronyms)]
@@ -110,7 +112,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 This excludes archived, disabled, empty, and private repos.
 
-## Repos with Recent Pushes
+## Repos with Pushes in the Last Two Years
 {{ for repo in top_repos.most_recent }}- [{repo.full_name}]({repo.url}) on {repo.pushed_date}
 {{ endfor }}
 
@@ -232,7 +234,16 @@ async fn user_and_repo_stats(client: &Client) -> Result<UserAndRepoStats> {
         tracing::debug!("{resp:#?}");
 
         let organization = resp.data.unwrap().organization.unwrap();
-        collect_organization_repo_stats(&mut stats, organization.repositories.nodes.unwrap())?;
+        collect_user_repo_stats(
+            &mut stats,
+            organization
+                .repositories
+                .nodes
+                .unwrap()
+                .into_iter()
+                .map(|n| n.map(|n| n.into()))
+                .collect(),
+        )?;
 
         if organization.repositories.page_info.has_next_page {
             after = organization.repositories.page_info.end_cursor;
@@ -317,127 +328,16 @@ fn collect_user_repo_stats(
         }
 
         let pushed_date = DateTime::parse_from_rfc3339(pushed_date.unwrap())?.with_timezone(&Utc);
-        if pushed_date < *FILTER_DATE {
-            continue;
+        if pushed_date >= *FILTER_DATE {
+            collect_language_stats(
+                &mut stats.recent_languages,
+                repo.name_with_owner.as_str(),
+                &lang_sizes,
+                &lang_names_and_colors,
+            );
+
+            stats.live_repos += 1;
         }
-
-        collect_language_stats(
-            &mut stats.recent_languages,
-            repo.name_with_owner.as_str(),
-            &lang_sizes,
-            &lang_names_and_colors,
-        );
-
-        stats.live_repos += 1;
-
-        stats.repos.push(MyRepo {
-            full_name: repo.name_with_owner,
-            url: repo.url,
-            fork_count: repo.fork_count,
-            stargazer_count: repo.stargazer_count,
-            pushed_date: pushed_date.format("%Y-%m-%d").to_string(),
-        });
-    }
-
-    Ok(())
-}
-
-// It's gross that this is a near copy of the user stats fn, but there are
-// only two ways to avoid that which I can think of, and the both suck.
-//
-// One way is to have the two ReposNodes structs implement a common trait, and
-// then have a single fn that accepts Vec<Option<impl NodeTrait>>. But that
-// means that all data in the repo is gated behind functions, and it makes
-// moving data out of the repo more complicated.
-//
-// The other way is to implement some sort of macro that generates two copies
-// of this fn.
-fn collect_organization_repo_stats(
-    stats: &mut UserAndRepoStats,
-    repos: Vec<Option<organization_repos_query::ReposNodes>>,
-) -> Result<()> {
-    for repo in repos.into_iter().map(|r| r.unwrap()) {
-        if repo.is_archived || repo.is_disabled || repo.is_empty || repo.is_private {
-            continue;
-        }
-
-        stats.total_repos += 1;
-        if repo.is_fork {
-            stats.forked_repos += 1;
-            continue;
-        }
-
-        stats.owned_repos += 1;
-
-        let lang_sizes = repo
-            .languages
-            .as_ref()
-            .unwrap()
-            .edges
-            .as_ref()
-            .unwrap()
-            .iter()
-            .map(|e| e.as_ref().unwrap().size)
-            .collect::<Vec<_>>();
-        let lang_names_and_colors = repo
-            .languages
-            .as_ref()
-            .unwrap()
-            .nodes
-            .as_ref()
-            .unwrap()
-            .iter()
-            .map(|l| {
-                let l = l.as_ref().unwrap();
-                (l.name.as_str(), l.color.as_deref())
-            })
-            .collect::<Vec<_>>();
-        collect_language_stats(
-            &mut stats.all_time_languages,
-            repo.name_with_owner.as_str(),
-            &lang_sizes,
-            &lang_names_and_colors,
-        );
-
-        let default_target = repo
-            .default_branch_ref
-            .as_ref()
-            .unwrap()
-            .target
-            .as_ref()
-            .unwrap();
-        let pushed_date = match default_target {
-            organization_repos_query::ReposNodesDefaultBranchRefTarget::Commit(c) => {
-                c.history.nodes.as_ref().unwrap()[0]
-                    .as_ref()
-                    .unwrap()
-                    .pushed_date
-                    .as_ref()
-            }
-            _ => None,
-        };
-        // This seems to be none in cases where the last commit in the repo is
-        // from before I moved to GitHub, which means the repo is not live,
-        // since I'm pretty sure there's nothing I've moved to GitHub in the
-        // last 2 years or less.
-        if pushed_date.is_none() {
-            continue;
-        }
-
-        let pushed_date =
-            DateTime::parse_from_rfc3339(pushed_date.as_ref().unwrap())?.with_timezone(&Utc);
-        if pushed_date < *FILTER_DATE {
-            continue;
-        }
-
-        collect_language_stats(
-            &mut stats.recent_languages,
-            repo.name_with_owner.as_str(),
-            &lang_sizes,
-            &lang_names_and_colors,
-        );
-
-        stats.live_repos += 1;
 
         stats.repos.push(MyRepo {
             full_name: repo.name_with_owner,
