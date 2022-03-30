@@ -19,55 +19,50 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **43 repos with commits in the last two years**
+- **56 repos with commits to the default branch in the last two years**
 - 301 total repos
   - 179 are forks
 
 This excludes archived, disabled, empty, and private repos.
 
-## Repos with Recent Pushes
-- [autarch/presentations](https://github.com/autarch/presentations) on 2022-03-30
-- [autarch/autarch](https://github.com/autarch/autarch) on 2022-03-28
+## Repos with Pushes in the Last Two Years
+- [autarch/autarch](https://github.com/autarch/autarch) on 2022-03-30
 - [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) on 2022-03-28
 - [houseabsolute/Module-Implementation](https://github.com/houseabsolute/Module-Implementation) on 2022-03-27
 - [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) on 2022-03-17
 - [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) on 2022-03-16
 - [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) on 2022-03-12
+- [houseabsolute/Markdent](https://github.com/houseabsolute/Markdent) on 2022-03-05
+- [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) on 2022-03-03
 - [autarch/Crumb](https://github.com/autarch/Crumb) on 2022-02-19
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) on 2022-02-19
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) on 2022-02-09
 
 
 ## Most Starred
+- [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 44 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 39 stars
 - [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 26 stars
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 26 stars
-- [houseabsolute/HTML-Mason](https://github.com/houseabsolute/HTML-Mason) - 8 stars
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 8 stars
+- [autarch/metagodoc](https://github.com/autarch/metagodoc) - 22 stars
 
 
 ## Most Forked
+- [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 44 forks
+- [houseabsolute/test-class-moose](https://github.com/houseabsolute/test-class-moose) - 30 forks
+- [houseabsolute/Log-Dispatch](https://github.com/houseabsolute/Log-Dispatch) - 28 forks
+- [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 25 forks
 - [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 21 forks
-- [houseabsolute/HTML-Mason](https://github.com/houseabsolute/HTML-Mason) - 17 forks
-- [houseabsolute/List-AllUtils](https://github.com/houseabsolute/List-AllUtils) - 7 forks
-- [houseabsolute/File-LibMagic](https://github.com/houseabsolute/File-LibMagic) - 6 forks
-- [houseabsolute/Courriel](https://github.com/houseabsolute/Courriel) - 5 forks
 
 
 ## GitHub Activity Stats
-- 533 PRs created
-  - of which 396 were merged
+- 534 PRs created
+  - of which 397 were merged
 - 455 issues created
   - of which 258 have been closed
 
-## Past Two Years Language Stats
-- Perl: 67%, 8.2 MB
-- Rust: 30%, 3.7 MB
-- Go: 2%, 253.6 KB
-
-
-## All-Time Language Stats
-- Perl: 72%, 11.5 MB
-- Rust: 24%, 3.7 MB
-- Go: 2%, 368 KB
-
+## Language Stats
+| Past Two Years        | All Time                |
+|-----------------------|-------------------------|
+| Perl: 72%, 10.6 MB              | Perl: 72%, 11.5 MB                |
+| Rust: 25%, 3.7 MB              | Rust: 24%, 3.7 MB                |
+| Go: 2%, 253.6 KB              | Go: 2%, 368 KB                |
