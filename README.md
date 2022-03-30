@@ -26,6 +26,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 This excludes archived, disabled, empty, and private repos.
 
 ## Repos with Recent Pushes
+- [autarch/presentations](https://github.com/autarch/presentations) on 2022-03-30
 - [autarch/autarch](https://github.com/autarch/autarch) on 2022-03-28
 - [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) on 2022-03-28
 - [houseabsolute/Module-Implementation](https://github.com/houseabsolute/Module-Implementation) on 2022-03-27
@@ -35,7 +36,6 @@ This excludes archived, disabled, empty, and private repos.
 - [autarch/Crumb](https://github.com/autarch/Crumb) on 2022-02-19
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) on 2022-02-19
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) on 2022-02-09
-- [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) on 2022-02-01
 
 
 ## Most Starred
