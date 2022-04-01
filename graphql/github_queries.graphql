@@ -9,9 +9,14 @@ fragment repos on RepositoryConnection {
       target {
         __typename
         ... on Commit {
-          history(first: 1) {
+          history(
+            author: {
+              emails: [$email],
+            },
+            first: 1,
+          ) {
             nodes {
-              pushedDate
+              committedDate
             }
           }
         }
@@ -49,7 +54,24 @@ fragment repos on RepositoryConnection {
   }
 }
 
-query OrganizationReposQuery($login: String!, $after: String) {
+query UserReposQuery($login: String!, $email: String!, $after: String) {
+  user(login: $login) {
+    createdAt
+    repositories(
+      affiliations: [COLLABORATOR, OWNER],
+      after: $after,
+      orderBy: {
+        direction: ASC,
+        field: NAME,
+      },
+      privacy: PUBLIC,
+    ) {
+      ...repos
+    }
+  }
+}
+
+query OrganizationReposQuery($login: String!, $email: String!, $after: String) {
   organization(login: $login) {
     repositories(
       affiliations: [OWNER],
@@ -65,19 +87,48 @@ query OrganizationReposQuery($login: String!, $after: String) {
   }
 }
 
-query UserReposQuery($login: String!, $after: String) {
+query UserContributedReposQuery($login: String!, $email: String!, $after: String) {
   user(login: $login) {
-    createdAt
-    repositories(
-      affiliations: [OWNER],
+    repositoriesContributedTo(
       after: $after,
+      contributionTypes: [COMMIT],
+      first: 100,
+      includeUserRepositories: true,
       orderBy: {
         direction: ASC,
         field: NAME,
       },
       privacy: PUBLIC,
     ) {
-      ...repos
+      pageInfo {
+        endCursor
+        hasNextPage
+      }
+      nodes {
+        defaultBranchRef {
+          target {
+            __typename
+            ... on Commit {
+              history(
+                author: {
+                  emails: [$email],
+                },
+                first: 1,
+              ) {
+                nodes {
+                  committedDate
+                }
+              }
+            }
+          }
+        }
+        nameWithOwner
+        owner {
+          __typename
+          login
+        }
+        url
+      }
     }
   }
 }

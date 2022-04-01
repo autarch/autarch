@@ -82,7 +82,7 @@ impl From<organization_repos_query::ReposNodesDefaultBranchRefTargetOnCommitHist
         nodes: organization_repos_query::ReposNodesDefaultBranchRefTargetOnCommitHistoryNodes,
     ) -> Self {
         Self {
-            pushed_date: nodes.pushed_date,
+            committed_date: nodes.committed_date,
         }
     }
 }
