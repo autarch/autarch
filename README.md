@@ -11,11 +11,11 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 ## Recent Blog Posts
 
+- [Job Search 2022 Update: Week 4](https://blog.urth.org/2022/04/02/job-search-2022-update-week-4/) - 2022-04-02
 - [Yet Another GitHub Profile Generator](https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/) - 2022-03-28
 - [Job Search 2022 Update: Week 3](https://blog.urth.org/2022/03/25/job-search-2022-update-week-3/) - 2022-03-25
 - [Job Search 2022 Update: Week 2](https://blog.urth.org/2022/03/19/job-search-2022-update-week-2/) - 2022-03-19
 - [Job Search 2022 Update: Week 1.1](https://blog.urth.org/2022/03/14/job-search-2022-update-week-1-1/) - 2022-03-14
-- [Job Search 2022 Update: Week 1](https://blog.urth.org/2022/03/11/job-search-2022-update-week-1/) - 2022-03-11
 
 
 ## Repo Stats
@@ -28,8 +28,8 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-01              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-03-28              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-02              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-02              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
 | [houseabsolute/Module-Implementation](https://github.com/houseabsolute/Module-Implementation) - 2022-03-27              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
 | [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-03-17              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-02-15                |
 | [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2022-03-16              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
@@ -55,7 +55,7 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## GitHub Activity Stats
-- 534 PRs created
+- 535 PRs created
   - of which 397 were merged
 - 455 issues created
   - of which 258 have been closed
