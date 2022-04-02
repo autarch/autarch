@@ -15,8 +15,8 @@ pub mod user_repos_query {
     type Int = i64;
     #[allow(dead_code)]
     type ID = String;
-    type URI = crate::gql_types::URI;
     type DateTime = crate::gql_types::DateTime;
+    type URI = crate::gql_types::URI;
     #[derive(Serialize)]
     pub struct Variables {
         pub login: String,
@@ -166,8 +166,8 @@ pub mod organization_repos_query {
     type Int = i64;
     #[allow(dead_code)]
     type ID = String;
-    type URI = crate::gql_types::URI;
     type DateTime = crate::gql_types::DateTime;
+    type URI = crate::gql_types::URI;
     #[derive(Serialize)]
     pub struct Variables {
         pub login: String,
