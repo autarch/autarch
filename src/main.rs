@@ -634,6 +634,7 @@ fn language_pairs_for_template(
 }
 
 async fn top_artists() -> Result<Vec<String>> {
+    tracing::info!("Getting top artists from last.fm");
     let api_key = env::var("LAST_FM_API_KEY")
         .expect("You must set the LAST_FM_API_KEY env var when running this program");
     let mut client = lastfm_rs::Client::new(&api_key);
