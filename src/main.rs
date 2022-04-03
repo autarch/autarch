@@ -652,8 +652,9 @@ async fn top_artists() -> Result<Vec<String>> {
         .map(|a| {
             if a.mbid.is_empty() {
                 format!(
-                    "[{name}](https://musicbrainz.org/search?query={name}&type=artist&method=indexed)",
-                    name = a.name,
+                    "[{}](https://musicbrainz.org/search?query={}&type=artist&method=indexed)",
+                    a.name,
+                    urlencoding::encode(&a.name),
                 )
             } else {
                 format!("[{}](https://musicbrainz.org/artist/{})", a.name, a.mbid)
