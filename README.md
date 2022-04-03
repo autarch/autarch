@@ -71,14 +71,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Ai Higuchi](https://musicbrainz.org/search?query=Ai Higuchi&amp;type=artist&amp;method=indexed)
-* [Akiyama Kiro](https://musicbrainz.org/search?query=Akiyama Kiro&amp;type=artist&amp;method=indexed)
+* [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
+* [Akiyama Kiro](https://musicbrainz.org/search?query=Akiyama%20Kiro&amp;type=artist&amp;method=indexed)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
 * [Miyuna](https://musicbrainz.org/artist/716ddb3a-06c0-433b-9d75-ff39f46eebc4)
 * [mol-74](https://musicbrainz.org/artist/c97441d5-46e4-4c7a-8609-97e2dcb7233e)
-* [Nakamura Kaho](https://musicbrainz.org/search?query=Nakamura Kaho&amp;type=artist&amp;method=indexed)
-* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko Nisshoku&amp;type=artist&amp;method=indexed)
+* [Nakamura Kaho](https://musicbrainz.org/search?query=Nakamura%20Kaho&amp;type=artist&amp;method=indexed)
+* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
 * [Ryokuoshokushakai](https://musicbrainz.org/search?query=Ryokuoshokushakai&amp;type=artist&amp;method=indexed)
 * [SHISHAMO](https://musicbrainz.org/artist/b4ec0834-e5e4-4dab-b909-10cb21ebf3b2)
 
