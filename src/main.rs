@@ -105,6 +105,7 @@ struct Context<'a> {
     top_repos: TopRepos<'a>,
     issue_and_pr_stats: IssueAndPrStats,
     top_languages: Vec<(String, String)>,
+    top_artists: Vec<String>,
 }
 
 impl ReposNodes {
@@ -178,6 +179,8 @@ async fn main() -> Result<()> {
         )
         .build()?;
 
+    let blog_posts = blog_posts().await?;
+    tracing::debug!("{blog_posts:#?}");
     let user_and_repo_stats = user_and_repo_stats(&client).await?;
     tracing::debug!("{user_and_repo_stats:#?}");
     let top_repos = top_repos(&user_and_repo_stats);
@@ -188,8 +191,8 @@ async fn main() -> Result<()> {
     tracing::debug!("{top_recent_languages:#?}");
     let issue_and_pr_stats = issue_and_pr_stats(&client).await?;
     tracing::debug!("{issue_and_pr_stats:#?}");
-    let blog_posts = blog_posts().await?;
-    tracing::debug!("{blog_posts:#?}");
+    let top_artists = top_artists().await?;
+    tracing::debug!("{top_artists:#?}");
 
     let mut tt = TinyTemplate::new();
     tt.add_template("readme", README_TEMPLATE)?;
@@ -203,6 +206,7 @@ async fn main() -> Result<()> {
         top_repos,
         issue_and_pr_stats,
         top_languages: language_pairs_for_template(top_recent_languages, top_all_time_languages),
+        top_artists,
     };
 
     let mut path = PathBuf::from(env!("CARGO_MANIFEST_DIR"));
@@ -211,6 +215,28 @@ async fn main() -> Result<()> {
     file.write_all(tt.render("readme", &context)?.as_bytes())?;
 
     Ok(())
+}
+
+async fn blog_posts() -> Result<Vec<BlogPost>> {
+    tracing::info!("Getting blog feed");
+    let content = reqwest::get("https://blog.urth.org/index.xml")
+        .await?
+        .bytes()
+        .await?;
+    let mut channel = Channel::read_from(&content[..])?;
+    Ok(channel
+        .items
+        .splice(0..5, None)
+        .into_iter()
+        .map(|i| {
+            let dt = DateTime::parse_from_rfc2822(i.pub_date().unwrap())?;
+            Ok(BlogPost {
+                title: i.title.unwrap(),
+                date: dt.date().format(DATE_FORMAT).to_string(),
+                url: i.link.unwrap(),
+            })
+        })
+        .collect::<Result<Vec<_>>>()?)
 }
 
 async fn user_and_repo_stats(client: &Client) -> Result<UserAndRepoStats> {
@@ -581,28 +607,6 @@ async fn issue_and_pr_stats(client: &Client) -> Result<IssueAndPrStats> {
     })
 }
 
-async fn blog_posts() -> Result<Vec<BlogPost>> {
-    tracing::info!("Getting blog feed");
-    let content = reqwest::get("https://blog.urth.org/index.xml")
-        .await?
-        .bytes()
-        .await?;
-    let mut channel = Channel::read_from(&content[..])?;
-    Ok(channel
-        .items
-        .splice(0..5, None)
-        .into_iter()
-        .map(|i| {
-            let dt = DateTime::parse_from_rfc2822(i.pub_date().unwrap())?;
-            Ok(BlogPost {
-                title: i.title.unwrap(),
-                date: dt.date().format(DATE_FORMAT).to_string(),
-                url: i.link.unwrap(),
-            })
-        })
-        .collect::<Result<Vec<_>>>()?)
-}
-
 fn repo_pairs_for_template(mine: &[&OneRepo], others: &[&OneRepo]) -> Vec<(String, String)> {
     mine.into_iter()
         .zip_longest(others)
@@ -627,6 +631,35 @@ fn language_pairs_for_template(
             EitherOrBoth::Right(b) => (String::new(), b.string_for_template()),
         })
         .collect()
+}
+
+async fn top_artists() -> Result<Vec<String>> {
+    let api_key = env::var("LAST_FM_API_KEY")
+        .expect("You must set the LAST_FM_API_KEY env var when running this program");
+    let mut client = lastfm_rs::Client::new(&api_key);
+    let artists = client
+        .top_artists("autarch")
+        .await
+        .within_period(lastfm_rs::user::top_artists::Period::SevenDays)
+        .with_limit(10)
+        .send()
+        .await?
+        .artists;
+    tracing::debug!("{artists:#?}");
+    Ok(artists
+        .iter()
+        .sorted_by_key(|a| a.name.to_lowercase())
+        .map(|a| {
+            if a.mbid.is_empty() {
+                format!(
+                    "[{name}](https://musicbrainz.org/search?query={name}&type=artist&method=indexed)",
+                    name = a.name,
+                )
+            } else {
+                format!("[{}](https://musicbrainz.org/artist/{})", a.name, a.mbid)
+            }
+        })
+        .collect())
 }
 
 const README_TEMPLATE: &str = r#"
@@ -657,14 +690,16 @@ This excludes archived, disabled, empty, and private repos.
 |----------|--------|
 {{ for pair in recent_commits -}}
 | {pair.0}              | {pair.1}                |
-{{ endfor -}}
+{{ endfor }}
 
 ## Most Starred
-{{ for repo in top_repos.most_starred }}- [{repo.full_name}]({repo.url}) - {repo.stargazer_count} stars
+{{ for repo in top_repos.most_starred -}}
+- [{repo.full_name}]({repo.url}) - {repo.stargazer_count} stars
 {{ endfor }}
 
 ## Most Forked
-{{ for repo in top_repos.most_forked }}- [{repo.full_name}]({repo.url}) - {repo.fork_count} forks
+{{ for repo in top_repos.most_forked -}}
+- [{repo.full_name}]({repo.url}) - {repo.fork_count} forks
 {{ endfor }}
 
 ## GitHub Activity Stats
@@ -678,5 +713,10 @@ This excludes archived, disabled, empty, and private repos.
 |-----------------------|-------------------------|
 {{ for pair in top_languages -}}
 | {pair.0}              | {pair.1}                |
-{{ endfor -}}
+{{ endfor }}
+
+## Top Artists for the Past Week
+{{ for artist in top_artists -}}
+* {artist}
+{{ endfor }}
 "#;
