@@ -43,7 +43,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Most Starred
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 44 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 39 stars
-- [autarch/autarch](https://github.com/autarch/autarch) - 27 stars
+- [autarch/autarch](https://github.com/autarch/autarch) - 28 stars
 - [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 26 stars
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 26 stars
 
