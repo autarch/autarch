@@ -44,7 +44,7 @@ This excludes archived, disabled, empty, and private repos.
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 44 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 39 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 29 stars
-- [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 26 stars
+- [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 27 stars
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 26 stars
 
 
@@ -74,11 +74,11 @@ This excludes archived, disabled, empty, and private repos.
 * [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
 * [Akiyama Kiro](https://musicbrainz.org/search?query=Akiyama%20Kiro&amp;type=artist&amp;method=indexed)
 * [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
-* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Miyuna](https://musicbrainz.org/artist/716ddb3a-06c0-433b-9d75-ff39f46eebc4)
 * [mol-74](https://musicbrainz.org/artist/c97441d5-46e4-4c7a-8609-97e2dcb7233e)
 * [Nakamura Kaho](https://musicbrainz.org/search?query=Nakamura%20Kaho&amp;type=artist&amp;method=indexed)
 * [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
 * [Ryokuoshokushakai](https://musicbrainz.org/search?query=Ryokuoshokushakai&amp;type=artist&amp;method=indexed)
 * [SHISHAMO](https://musicbrainz.org/artist/b4ec0834-e5e4-4dab-b909-10cb21ebf3b2)
+* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
