@@ -78,7 +78,7 @@ This excludes archived, disabled, empty, and private repos.
 * [mol-74](https://musicbrainz.org/artist/c97441d5-46e4-4c7a-8609-97e2dcb7233e)
 * [Nakamura Kaho](https://musicbrainz.org/search?query=Nakamura%20Kaho&amp;type=artist&amp;method=indexed)
 * [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
-* [Ryokuoshokushakai](https://musicbrainz.org/search?query=Ryokuoshokushakai&amp;type=artist&amp;method=indexed)
-* [SHISHAMO](https://musicbrainz.org/artist/b4ec0834-e5e4-4dab-b909-10cb21ebf3b2)
+* [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
+* [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 
