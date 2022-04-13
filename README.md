@@ -19,7 +19,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **52 repos with commits to the default branch in the last two years**
+- **51 repos with commits to the default branch in the last two years**
 - 301 total repos
   - 179 are forks
 
@@ -45,7 +45,7 @@ This excludes archived, disabled, empty, and private repos.
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 39 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 29 stars
 - [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 27 stars
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 26 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 27 stars
 
 
 ## Most Forked
@@ -71,14 +71,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
-* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
+* [Florence + the Machine](https://musicbrainz.org/artist/5fee3020-513b-48c2-b1f7-4681b01db0c6)
+* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [mol-74](https://musicbrainz.org/artist/c97441d5-46e4-4c7a-8609-97e2dcb7233e)
 * [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
 * [Superfly](https://musicbrainz.org/artist/0f19e966-f80e-47b1-be5e-e6dc1425e860)
 * [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
-* [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
-* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
+* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 
