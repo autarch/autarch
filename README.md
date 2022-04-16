@@ -11,11 +11,11 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 ## Recent Blog Posts
 
+- [Job Search 2022 Update: The Last One](https://blog.urth.org/2022/04/15/job-search-2022-update-the-last-one/) - 2022-04-15
 - [Job Search 2022 Update: Week 5](https://blog.urth.org/2022/04/10/job-search-2022-update-week-5/) - 2022-04-10
 - [Job Search 2022 Update: Week 4](https://blog.urth.org/2022/04/02/job-search-2022-update-week-4/) - 2022-04-02
 - [Yet Another GitHub Profile Generator](https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/) - 2022-03-28
 - [Job Search 2022 Update: Week 3](https://blog.urth.org/2022/03/25/job-search-2022-update-week-3/) - 2022-03-25
-- [Job Search 2022 Update: Week 2](https://blog.urth.org/2022/03/19/job-search-2022-update-week-2/) - 2022-03-19
 
 
 ## Repo Stats
@@ -28,16 +28,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-14              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-11              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-08              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
-| [houseabsolute/File-LibMagic](https://github.com/houseabsolute/File-LibMagic) - 2022-04-08              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-04-05              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-04-05              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-03              | [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 2022-01-02                |
-| [houseabsolute/Module-Implementation](https://github.com/houseabsolute/Module-Implementation) - 2022-03-27              | [seed-rs/seed](https://github.com/seed-rs/seed) - 2021-12-09                |
-| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-03-17              | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - 2021-11-25                |
-| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2022-03-16              | [rust-lang/regex](https://github.com/rust-lang/regex) - 2021-11-15                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-15              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
+| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-04-15              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
+| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-14              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-08              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
+| [houseabsolute/File-LibMagic](https://github.com/houseabsolute/File-LibMagic) - 2022-04-08              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-04-05              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-04-05              | [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 2022-01-02                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-03              | [seed-rs/seed](https://github.com/seed-rs/seed) - 2021-12-09                |
+| [houseabsolute/Module-Implementation](https://github.com/houseabsolute/Module-Implementation) - 2022-03-27              | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - 2021-11-25                |
+| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-03-17              | [rust-lang/regex](https://github.com/rust-lang/regex) - 2021-11-15                |
 
 
 ## Most Starred
@@ -71,12 +71,12 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
-* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Queen](https://musicbrainz.org/artist/5eecaf18-02ec-47af-a4f2-7831db373419)
+* [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
+* [Neko Case](https://musicbrainz.org/artist/e13d2935-8c42-4c0a-96d7-654062acf106)
+* [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
 * [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
