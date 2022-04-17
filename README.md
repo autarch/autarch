@@ -43,7 +43,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Most Starred
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 44 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 39 stars
-- [autarch/autarch](https://github.com/autarch/autarch) - 30 stars
+- [autarch/autarch](https://github.com/autarch/autarch) - 31 stars
 - [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 27 stars
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 27 stars
 
@@ -52,7 +52,7 @@ This excludes archived, disabled, empty, and private repos.
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 44 forks
 - [houseabsolute/test-class-moose](https://github.com/houseabsolute/test-class-moose) - 30 forks
 - [houseabsolute/Log-Dispatch](https://github.com/houseabsolute/Log-Dispatch) - 28 forks
-- [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 26 forks
+- [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 25 forks
 - [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 21 forks
 
 
@@ -71,14 +71,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
-* [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
+* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
-* [Neko Case](https://musicbrainz.org/artist/e13d2935-8c42-4c0a-96d7-654062acf106)
 * [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
-* [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
+* [椎名林檎](https://musicbrainz.org/artist/9e414497-23b7-4ab7-9ec6-8ea9864c9e87)
 
