@@ -28,9 +28,9 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-15              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
-| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-04-15              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
-| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-14              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
+| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-17              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-15              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
+| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-04-15              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
 | [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-08              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
 | [houseabsolute/File-LibMagic](https://github.com/houseabsolute/File-LibMagic) - 2022-04-08              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
 | [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-04-05              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
@@ -65,18 +65,18 @@ This excludes archived, disabled, empty, and private repos.
 ## Language Stats
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
-| Perl: 71%, 10.5 MB              | Perl: 72%, 11.5 MB                |
+| Perl: 72%, 10.5 MB              | Perl: 72%, 11.5 MB                |
 | Rust: 26%, 3.8 MB              | Rust: 24%, 3.8 MB                |
 | Go: 2%, 253.6 KB              | Go: 2%, 368 KB                |
 
 
 ## Top Artists for the Past Week
-* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
+* [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
-* [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
+* [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
