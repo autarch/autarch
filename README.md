@@ -28,16 +28,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-17              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-15              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
-| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-04-15              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-08              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
-| [houseabsolute/File-LibMagic](https://github.com/houseabsolute/File-LibMagic) - 2022-04-08              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-04-05              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-04-05              | [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 2022-01-02                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-03              | [seed-rs/seed](https://github.com/seed-rs/seed) - 2021-12-09                |
-| [houseabsolute/Module-Implementation](https://github.com/houseabsolute/Module-Implementation) - 2022-03-27              | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - 2021-11-25                |
-| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-03-17              | [rust-lang/regex](https://github.com/rust-lang/regex) - 2021-11-15                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-18              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-04-18              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
+| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-17              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
+| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-04-15              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-08              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
+| [houseabsolute/File-LibMagic](https://github.com/houseabsolute/File-LibMagic) - 2022-04-08              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-04-05              | [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 2022-01-02                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-04-05              | [seed-rs/seed](https://github.com/seed-rs/seed) - 2021-12-09                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-03              | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - 2021-11-25                |
+| [houseabsolute/Module-Implementation](https://github.com/houseabsolute/Module-Implementation) - 2022-03-27              | [rust-lang/regex](https://github.com/rust-lang/regex) - 2021-11-15                |
 
 
 ## Most Starred
@@ -72,13 +72,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
+* [Akiyama Kiro](https://musicbrainz.org/search?query=Akiyama%20Kiro&amp;type=artist&amp;method=indexed)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
-* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
+* [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
-* [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
+* [Nakamura Kaho](https://musicbrainz.org/search?query=Nakamura%20Kaho&amp;type=artist&amp;method=indexed)
+* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
-* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
+* [The Sweeplings](https://musicbrainz.org/artist/93ba3d71-e55f-4278-b104-6d2483f941f4)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
-* [椎名林檎](https://musicbrainz.org/artist/9e414497-23b7-4ab7-9ec6-8ea9864c9e87)
 
