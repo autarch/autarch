@@ -11,11 +11,11 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 ## Recent Blog Posts
 
+- [Software Job Search 2022 Retrospective: Coding Challenges](https://blog.urth.org/2022/04/19/software-job-search-2022-retrospective-coding-challenges/) - 2022-04-19
 - [Job Search 2022 Update: The Last One](https://blog.urth.org/2022/04/15/job-search-2022-update-the-last-one/) - 2022-04-15
 - [Job Search 2022 Update: Week 5](https://blog.urth.org/2022/04/10/job-search-2022-update-week-5/) - 2022-04-10
 - [Job Search 2022 Update: Week 4](https://blog.urth.org/2022/04/02/job-search-2022-update-week-4/) - 2022-04-02
 - [Yet Another GitHub Profile Generator](https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/) - 2022-03-28
-- [Job Search 2022 Update: Week 3](https://blog.urth.org/2022/03/25/job-search-2022-update-week-3/) - 2022-03-25
 
 
 ## Repo Stats
@@ -28,7 +28,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-18              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-19              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
 | [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-04-18              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
 | [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-17              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
 | [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-04-15              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
@@ -44,8 +44,8 @@ This excludes archived, disabled, empty, and private repos.
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 44 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 39 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 31 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 28 stars
 - [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 27 stars
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 27 stars
 
 
 ## Most Forked
@@ -73,12 +73,12 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
 * [Akiyama Kiro](https://musicbrainz.org/search?query=Akiyama%20Kiro&amp;type=artist&amp;method=indexed)
-* [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
-* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [I Mean Us](https://musicbrainz.org/artist/e0f0b9af-999c-41af-8e2f-aa6e906af83a)
+* [Kamishiraishi Mone](https://musicbrainz.org/search?query=Kamishiraishi%20Mone&amp;type=artist&amp;method=indexed)
+* [Miyuna](https://musicbrainz.org/artist/716ddb3a-06c0-433b-9d75-ff39f46eebc4)
+* [mol-74](https://musicbrainz.org/artist/c97441d5-46e4-4c7a-8609-97e2dcb7233e)
 * [Nakamura Kaho](https://musicbrainz.org/search?query=Nakamura%20Kaho&amp;type=artist&amp;method=indexed)
 * [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
-* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [The Sweeplings](https://musicbrainz.org/artist/93ba3d71-e55f-4278-b104-6d2483f941f4)
-* [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 
