@@ -28,16 +28,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-20              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-04-18              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
-| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-17              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
-| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-04-15              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-08              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
-| [houseabsolute/File-LibMagic](https://github.com/houseabsolute/File-LibMagic) - 2022-04-08              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-04-05              | [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 2022-01-02                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-04-05              | [seed-rs/seed](https://github.com/seed-rs/seed) - 2021-12-09                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-03              | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - 2021-11-25                |
-| [houseabsolute/Module-Implementation](https://github.com/houseabsolute/Module-Implementation) - 2022-03-27              | [rust-lang/regex](https://github.com/rust-lang/regex) - 2021-11-15                |
+| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2022-04-21              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-20              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-04-18              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
+| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-17              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
+| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-04-15              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-08              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
+| [houseabsolute/File-LibMagic](https://github.com/houseabsolute/File-LibMagic) - 2022-04-08              | [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 2022-01-02                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-04-05              | [seed-rs/seed](https://github.com/seed-rs/seed) - 2021-12-09                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-04-05              | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - 2021-11-25                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-03              | [rust-lang/regex](https://github.com/rust-lang/regex) - 2021-11-15                |
 
 
 ## Most Starred
