@@ -28,6 +28,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
+| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2022-04-24              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
 | [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-23              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-04-23              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
 | [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2022-04-21              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
@@ -37,7 +38,6 @@ This excludes archived, disabled, empty, and private repos.
 | [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-04-15              | [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 2022-01-02                |
 | [houseabsolute/File-LibMagic](https://github.com/houseabsolute/File-LibMagic) - 2022-04-08              | [seed-rs/seed](https://github.com/seed-rs/seed) - 2021-12-09                |
 | [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-04-05              | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - 2021-11-25                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-03              | [rust-lang/regex](https://github.com/rust-lang/regex) - 2021-11-15                |
 
 
 ## Most Starred
@@ -58,7 +58,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## GitHub Activity Stats
 - 537 PRs created
-  - of which 398 were merged
+  - of which 399 were merged
 - 455 issues created
   - of which 259 have been closed
 
