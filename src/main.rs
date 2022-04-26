@@ -113,17 +113,43 @@ impl ReposNodes {
         let default_target = self
             .default_branch_ref
             .as_ref()
-            .unwrap()
+            .unwrap_or_else(|| {
+                panic!(
+                    "Could not get default branch ref for repo {}",
+                    self.name_with_owner
+                )
+            })
             .target
             .as_ref()
-            .unwrap();
+            .unwrap_or_else(|| {
+                panic!(
+                    "Could not get target of default branch ref for repo {}",
+                    self.name_with_owner
+                )
+            });
         match default_target {
             user_repos_query::ReposNodesDefaultBranchRefTarget::Commit(c) => {
-                let nodes = c.history.nodes.as_ref().unwrap();
+                let nodes = c.history.nodes.as_ref().unwrap_or_else(|| {
+                    panic!(
+                        "Could not get history nodes for default target of repo {}",
+                        self.name_with_owner
+                    )
+                });
                 if nodes.is_empty() {
                     return None;
                 }
-                Some(nodes[0].as_ref().unwrap().committed_date.as_ref())
+                Some(
+                    nodes[0]
+                        .as_ref()
+                        .unwrap_or_else(|| {
+                            panic!(
+                                "Could not get a commit from nodes for default target of repo {}",
+                                self.name_with_owner
+                            )
+                        })
+                        .committed_date
+                        .as_ref(),
+                )
             }
             _ => None,
         }
@@ -141,8 +167,14 @@ impl OneRepo {
 
 impl From<ReposNodes> for OneRepo {
     fn from(repo: ReposNodes) -> Self {
-        let committed_date = DateTime::parse_from_rfc3339(repo.committed_date().unwrap())
-            .unwrap()
+        let date_str = repo.committed_date().unwrap_or_else(|| {
+            panic!(
+                "Could not get committed date for repo {}",
+                repo.name_with_owner,
+            )
+        });
+        let committed_date = DateTime::parse_from_rfc3339(date_str)
+            .unwrap_or_else(|e| panic!("Could not parse '{}' as RFC3339 datetime: {e}", date_str))
             .with_timezone(&Utc)
             .format(DATE_FORMAT)
             .to_string();
@@ -168,12 +200,14 @@ async fn main() -> Result<()> {
 
     let token = env::var("GITHUB_TOKEN")
         .expect("You must set the GITHUB_TOKEN env var when running this program");
+    let bearer = format!("Bearer {}", token);
     let client = Client::builder()
         .user_agent(format!("autarch-profiler-generator/{}", VERSION))
         .default_headers(
             std::iter::once((
                 reqwest::header::AUTHORIZATION,
-                reqwest::header::HeaderValue::from_str(&format!("Bearer {}", token)).unwrap(),
+                reqwest::header::HeaderValue::from_str(&bearer)
+                    .unwrap_or_else(|e| panic!("Could not parse header from '{bearer}': {e}")),
             ))
             .collect(),
         )
@@ -224,19 +258,29 @@ async fn blog_posts() -> Result<Vec<BlogPost>> {
         .bytes()
         .await?;
     let mut channel = Channel::read_from(&content[..])?;
-    Ok(channel
+    channel
         .items
         .splice(0..5, None)
         .into_iter()
         .map(|i| {
-            let dt = DateTime::parse_from_rfc2822(i.pub_date().unwrap())?;
+            let title = i
+                .title()
+                .unwrap_or_else(|| panic!("Blog post has no title"));
+            let dt = DateTime::parse_from_rfc2822(
+                i.pub_date()
+                    .as_ref()
+                    .unwrap_or_else(|| panic!("Blog post '{title}', has no publication date")),
+            )?;
             Ok(BlogPost {
-                title: i.title.unwrap(),
+                title: title.to_string(),
                 date: dt.date().format(DATE_FORMAT).to_string(),
-                url: i.link.unwrap(),
+                url: i
+                    .link()
+                    .unwrap_or_else(|| panic!("Blog post '{title}', has no link"))
+                    .to_string(),
             })
         })
-        .collect::<Result<Vec<_>>>()?)
+        .collect::<Result<Vec<_>>>()
 }
 
 async fn user_and_repo_stats(client: &Client) -> Result<UserAndRepoStats> {
@@ -266,7 +310,11 @@ async fn get_my_user_repos(client: &Client, stats: &mut UserAndRepoStats) -> Res
         let resp = post_graphql::<UserReposQuery, _>(client, API_URL, vars).await?;
         tracing::debug!("{resp:#?}");
 
-        let user = resp.data.unwrap().user.unwrap();
+        let user = resp
+            .data
+            .unwrap_or_else(|| panic!("Response for user repos has no data"))
+            .user
+            .unwrap_or_else(|| panic!("Response data for user repos has no user"));
         if stats.created_at.is_empty() {
             stats.created_at = user.created_at;
         }
@@ -278,9 +326,17 @@ async fn get_my_user_repos(client: &Client, stats: &mut UserAndRepoStats) -> Res
             // list of repos by querying the org later.
             user.repositories
                 .nodes
-                .unwrap()
+                .unwrap_or_else(|| panic!("Reponse for user repos has no nodes for repositories"))
                 .into_iter()
-                .filter(|r| r.as_ref().unwrap().owner.login != MY_ORG)
+                .filter(|r| {
+                    r.as_ref()
+                        .unwrap_or_else(|| {
+                            panic!("Reponse for user repos has an empty repositories node")
+                        })
+                        .owner
+                        .login
+                        != MY_ORG
+                })
                 .collect(),
         )?;
 
@@ -306,13 +362,17 @@ async fn get_my_org_repos(client: &Client, stats: &mut UserAndRepoStats) -> Resu
         let resp = post_graphql::<OrganizationReposQuery, _>(client, API_URL, vars).await?;
         tracing::debug!("{resp:#?}");
 
-        let organization = resp.data.unwrap().organization.unwrap();
+        let organization = resp
+            .data
+            .unwrap_or_else(|| panic!("Response for org repos has no data"))
+            .organization
+            .unwrap_or_else(|| panic!("Response data for user repos has no organization"));
         collect_user_repo_stats(
             stats,
             organization
                 .repositories
                 .nodes
-                .unwrap()
+                .unwrap_or_else(|| panic!("Reponse for org repos has no nodes for repositories"))
                 .into_iter()
                 .map(|n| n.map(|n| n.into()))
                 .collect(),
@@ -334,7 +394,7 @@ static FILTER_DATE: Lazy<DateTime<Utc>> = Lazy::new(|| {
     // weeks, but two years is not 104 weeks.  let two_years_ago =
     let two_years_ago = format!("{}-{}", now.year() - 2, now.format("%m-%dT%H:%M:%SZ"),);
     chrono::DateTime::parse_from_rfc3339(&two_years_ago)
-        .unwrap_or_else(|_| panic!("Could not parse `{two_years_ago}` as an RFC3339 date"))
+        .unwrap_or_else(|e| panic!("Could not parse `{two_years_ago}` as an RFC3339 date: {e}"))
         .with_timezone(&Utc)
 });
 
@@ -372,10 +432,14 @@ fn collect_user_repo_stats(
 
         stats.owned_repos += 1;
 
+        let languages = repo
+            .languages
+            .as_ref()
+            .unwrap_or_else(|| panic!("Repo {} has no languages", repo.name_with_owner));
         collect_language_stats(
             &mut stats.all_time_languages,
             repo.name_with_owner.as_str(),
-            repo.languages.as_ref().unwrap(),
+            languages,
         );
 
         let committed_date = repo.committed_date();
@@ -389,7 +453,7 @@ fn collect_user_repo_stats(
             collect_language_stats(
                 &mut stats.recent_languages,
                 repo.name_with_owner.as_str(),
-                repo.languages.as_ref().unwrap(),
+                languages,
             );
 
             stats.live_repos += 1;
@@ -416,23 +480,63 @@ async fn get_other_repos(client: &Client, stats: &mut UserAndRepoStats) -> Resul
         .await?;
         tracing::debug!("{resp:#?}");
 
-        let contributions = resp.data.unwrap().user.unwrap().repositories_contributed_to;
-        for repo in contributions.nodes.unwrap().into_iter().flatten() {
+        let contributions = resp
+            .data
+            .unwrap_or_else(|| panic!("Response for other repos has no data"))
+            .user
+            .unwrap_or_else(|| panic!("Response for other repos has no user"))
+            .repositories_contributed_to;
+        for repo in contributions
+            .nodes
+            .expect("Contributions response has no nodes")
+            .into_iter()
+            .flatten()
+        {
             if repo.owner.login == MY_LOGIN || repo.owner.login == MY_ORG {
                 continue;
             }
-            let committed_date = match repo.default_branch_ref.unwrap().target {
+            let committed_date = match repo
+                .default_branch_ref
+                .unwrap_or_else(|| {
+                    panic!(
+                        "Could not get default branch ref for repo {}",
+                        repo.name_with_owner
+                    )
+                })
+                .target
+            {
                 Some(ContributedRefTarget::Commit(c)) => {
-                    let mut nodes = c.history.nodes.unwrap();
+                    let mut nodes = c.history.nodes.unwrap_or_else(|| {
+                        panic!(
+                            "Could not get history nodes for default target of repo {}",
+                            repo.name_with_owner
+                        )
+                    });
                     if nodes.is_empty() {
                         continue;
                     }
-                    nodes.pop().unwrap().unwrap().committed_date
+                    nodes
+                        .pop()
+                        .unwrap_or_else(|| {
+                            panic!(
+                                "History nodes for default target of repo {} is empty",
+                                repo.name_with_owner
+                            )
+                        })
+                        .unwrap_or_else(|| {
+                            panic!(
+                                "Could not get a commit from nodes for default target of repo {}",
+                                repo.name_with_owner
+                            )
+                        })
+                        .committed_date
                 }
                 _ => continue,
             };
             let committed_date = DateTime::parse_from_rfc3339(&committed_date)
-                .unwrap()
+                .unwrap_or_else(|e| {
+                    panic!("Could not parse '{committed_date}' as RFC3339 datetime: {e}")
+                })
                 .with_timezone(&Utc)
                 .format(DATE_FORMAT)
                 .to_string();
@@ -608,7 +712,7 @@ async fn issue_and_pr_stats(client: &Client) -> Result<IssueAndPrStats> {
 }
 
 fn repo_pairs_for_template(mine: &[&OneRepo], others: &[&OneRepo]) -> Vec<(String, String)> {
-    mine.into_iter()
+    mine.iter()
         .zip_longest(others)
         .map(|l| match l {
             EitherOrBoth::Both(a, b) => (a.string_for_template(), b.string_for_template()),
