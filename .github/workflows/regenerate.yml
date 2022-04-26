@@ -33,7 +33,7 @@ jobs:
         run: |
           set -e
           set -x
-          RUST_LOG=info GITHUB_TOKEN=${{ github.token }} LAST_FM_API_KEY=${{ secrets.LAST_FM_API_KEY }} ./target/debug/generator
+          RUST_LOG=debug GITHUB_TOKEN=${{ github.token }} LAST_FM_API_KEY=${{ secrets.LAST_FM_API_KEY }} ./target/debug/generator
           if [[ `git status --porcelain` ]]; then
               git commit -a -m 'Regenerated profile README.md'
               git push
