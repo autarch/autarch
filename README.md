@@ -19,7 +19,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **51 repos with commits to the default branch in the last two years**
+- **52 repos with commits to the default branch in the last two years**
 - 301 total repos
   - 179 are forks
 
@@ -28,16 +28,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2022-04-24              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-23              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-04-23              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
-| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2022-04-21              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-20              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-04-18              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
-| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-17              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
-| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-04-15              | [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 2022-01-02                |
-| [houseabsolute/File-LibMagic](https://github.com/houseabsolute/File-LibMagic) - 2022-04-08              | [seed-rs/seed](https://github.com/seed-rs/seed) - 2021-12-09                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-04-05              | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - 2021-11-25                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-04-26              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
+| [houseabsolute/List-SomeUtils](https://github.com/houseabsolute/List-SomeUtils) - 2022-04-25              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-04-25              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
+| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2022-04-24              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-23              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
+| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2022-04-21              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-20              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-04-18              | [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 2022-01-02                |
+| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-17              | [seed-rs/seed](https://github.com/seed-rs/seed) - 2021-12-09                |
+| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-04-15              | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - 2021-11-25                |
 
 
 ## Most Starred
@@ -65,20 +65,20 @@ This excludes archived, disabled, empty, and private repos.
 ## Language Stats
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
-| Perl: 72%, 10.5 MB              | Perl: 72%, 11.5 MB                |
-| Rust: 26%, 3.8 MB              | Rust: 24%, 3.8 MB                |
+| Perl: 72%, 10.6 MB              | Perl: 72%, 11.6 MB                |
+| Rust: 25%, 3.8 MB              | Rust: 24%, 3.8 MB                |
 | Go: 2%, 253.6 KB              | Go: 2%, 368 KB                |
 
 
 ## Top Artists for the Past Week
 * [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
-* [Akiyama Kiro](https://musicbrainz.org/search?query=Akiyama%20Kiro&amp;type=artist&amp;method=indexed)
-* [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
+* [Becca Stevens &amp; Attacca Quartet](https://musicbrainz.org/search?query=Becca%20Stevens%20%26%20Attacca%20Quartet&amp;type=artist&amp;method=indexed)
+* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
+* [Heliotrope](https://musicbrainz.org/artist/21844295-2df6-4f21-bf2c-613221db0ee7)
 * [I Mean Us](https://musicbrainz.org/artist/e0f0b9af-999c-41af-8e2f-aa6e906af83a)
 * [Kamishiraishi Mone](https://musicbrainz.org/search?query=Kamishiraishi%20Mone&amp;type=artist&amp;method=indexed)
 * [Miyuna](https://musicbrainz.org/artist/716ddb3a-06c0-433b-9d75-ff39f46eebc4)
 * [mol-74](https://musicbrainz.org/artist/c97441d5-46e4-4c7a-8609-97e2dcb7233e)
-* [Nakamura Kaho](https://musicbrainz.org/search?query=Nakamura%20Kaho&amp;type=artist&amp;method=indexed)
-* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
-* [The Sweeplings](https://musicbrainz.org/artist/93ba3d71-e55f-4278-b104-6d2483f941f4)
+* [RöE](https://musicbrainz.org/artist/b47a23aa-1527-4a92-b951-e371ff791fe0)
+* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 
