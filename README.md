@@ -28,16 +28,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-04-26              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
-| [houseabsolute/List-SomeUtils](https://github.com/houseabsolute/List-SomeUtils) - 2022-04-25              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-04-25              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
-| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2022-04-24              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-23              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
-| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2022-04-21              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-20              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-04-18              | [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 2022-01-02                |
-| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-17              | [seed-rs/seed](https://github.com/seed-rs/seed) - 2021-12-09                |
-| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-04-15              | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - 2021-11-25                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-26              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-04-26              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
+| [houseabsolute/List-SomeUtils](https://github.com/houseabsolute/List-SomeUtils) - 2022-04-25              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-04-25              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
+| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2022-04-24              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-23              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
+| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2022-04-21              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-04-20              | [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 2022-01-02                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-04-18              | [seed-rs/seed](https://github.com/seed-rs/seed) - 2021-12-09                |
+| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-17              | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - 2021-11-25                |
 
 
 ## Most Starred
@@ -71,14 +71,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
 * [Becca Stevens &amp; Attacca Quartet](https://musicbrainz.org/search?query=Becca%20Stevens%20%26%20Attacca%20Quartet&amp;type=artist&amp;method=indexed)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
+* [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
 * [Heliotrope](https://musicbrainz.org/artist/21844295-2df6-4f21-bf2c-613221db0ee7)
 * [I Mean Us](https://musicbrainz.org/artist/e0f0b9af-999c-41af-8e2f-aa6e906af83a)
+* [Ida](https://musicbrainz.org/artist/9ae28aba-ada6-426c-9567-15abc2aa01c9)
 * [Kamishiraishi Mone](https://musicbrainz.org/search?query=Kamishiraishi%20Mone&amp;type=artist&amp;method=indexed)
-* [Miyuna](https://musicbrainz.org/artist/716ddb3a-06c0-433b-9d75-ff39f46eebc4)
-* [mol-74](https://musicbrainz.org/artist/c97441d5-46e4-4c7a-8609-97e2dcb7233e)
+* [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
 * [RöE](https://musicbrainz.org/artist/b47a23aa-1527-4a92-b951-e371ff791fe0)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 
