@@ -22,7 +22,7 @@ use github_queries::{
     UserContributedReposQuery,
     UserReposQuery,
 };
-use graphql_client::reqwest::post_graphql;
+use graphql_client::{reqwest::post_graphql, Response};
 use human_bytes::human_bytes;
 use itertools::{EitherOrBoth, Itertools};
 use once_cell::sync::Lazy;
@@ -302,12 +302,7 @@ async fn get_my_user_repos(client: &Client, stats: &mut UserAndRepoStats) -> Res
     tracing::info!("Getting user repos");
     let mut after = None;
     loop {
-        let vars = user_repos_query::Variables {
-            login: MY_LOGIN.to_string(),
-            email: MY_EMAIL.to_string(),
-            after,
-        };
-        let resp = post_graphql::<UserReposQuery, _>(client, API_URL, vars).await?;
+        let resp = user_query(client, after).await?;
         tracing::debug!("{resp:#?}");
 
         let user = resp
@@ -350,16 +345,31 @@ async fn get_my_user_repos(client: &Client, stats: &mut UserAndRepoStats) -> Res
     Ok(())
 }
 
+async fn user_query(
+    client: &Client,
+    after: Option<String>,
+) -> Result<Response<user_repos_query::ResponseData>> {
+    for i in 1..5 {
+        let vars = user_repos_query::Variables {
+            login: MY_LOGIN.to_string(),
+            email: MY_EMAIL.to_string(),
+            after: after.clone(),
+        };
+        let resp = post_graphql::<UserReposQuery, _>(client, API_URL, vars).await?;
+        if let Some(errors) = resp.errors {
+            eprintln!("user query attempt #{i}: {}", errors[0].message);
+        } else {
+            return Ok(resp);
+        }
+    }
+    panic!("Could not get results for user query after 5 attempts");
+}
+
 async fn get_my_org_repos(client: &Client, stats: &mut UserAndRepoStats) -> Result<()> {
     tracing::info!("Getting organization repos");
     let mut after = None;
     loop {
-        let vars = organization_repos_query::Variables {
-            login: MY_ORG.to_string(),
-            email: MY_EMAIL.to_string(),
-            after,
-        };
-        let resp = post_graphql::<OrganizationReposQuery, _>(client, API_URL, vars).await?;
+        let resp = organization_query(client, after).await?;
         tracing::debug!("{resp:#?}");
 
         let organization = resp
@@ -386,6 +396,26 @@ async fn get_my_org_repos(client: &Client, stats: &mut UserAndRepoStats) -> Resu
     }
 
     Ok(())
+}
+
+async fn organization_query(
+    client: &Client,
+    after: Option<String>,
+) -> Result<Response<organization_repos_query::ResponseData>> {
+    for i in 1..5 {
+        let vars = organization_repos_query::Variables {
+            login: MY_ORG.to_string(),
+            email: MY_EMAIL.to_string(),
+            after: after.clone(),
+        };
+        let resp = post_graphql::<OrganizationReposQuery, _>(client, API_URL, vars).await?;
+        if let Some(errors) = resp.errors {
+            eprintln!("organization query attempt #{i}: {}", errors[0].message);
+        } else {
+            return Ok(resp);
+        }
+    }
+    panic!("Could not get results for organization query after 5 attempts");
 }
 
 static FILTER_DATE: Lazy<DateTime<Utc>> = Lazy::new(|| {
