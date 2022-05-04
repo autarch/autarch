@@ -71,14 +71,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Akiyama Kiro](https://musicbrainz.org/search?query=Akiyama%20Kiro&amp;type=artist&amp;method=indexed)
-* [Becca Stevens &amp; Attacca Quartet](https://musicbrainz.org/search?query=Becca%20Stevens%20%26%20Attacca%20Quartet&amp;type=artist&amp;method=indexed)
-* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
 * [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
 * [Cat Stevens](https://musicbrainz.org/artist/e2345fdf-2be7-47c5-a6dd-be64353ad134)
-* [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Hey Ocean!](https://musicbrainz.org/artist/6eae7091-1cca-48de-b535-2c878afff6c7)
-* [Husking Bee](https://musicbrainz.org/artist/41fd93c6-8f41-4b14-9968-0e13249fa340)
-* [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
+* [Kate Bush](https://musicbrainz.org/artist/4b585938-f271-45e2-b19a-91c634b5e396)
+* [Mrs. GREEN APPLE](https://musicbrainz.org/artist/9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2)
+* [Sound Horizon](https://musicbrainz.org/artist/b042defc-4d12-414d-a678-0dcabefffa26)
+* [Supercar](https://musicbrainz.org/artist/dc5cd3ad-fa36-42e0-acd4-2c9d87f82ea6)
+* [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
+* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
