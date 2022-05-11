@@ -42,7 +42,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Most Starred
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 44 stars
-- [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 39 stars
+- [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 40 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 32 stars
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 29 stars
 - [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 27 stars
@@ -57,7 +57,7 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## GitHub Activity Stats
-- 537 PRs created
+- 538 PRs created
   - of which 399 were merged
 - 455 issues created
   - of which 259 have been closed
@@ -72,13 +72,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
-* [Antony and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
+* [Ani DiFranco](https://musicbrainz.org/artist/a7bdc71f-697a-45d9-92b2-a01fbbe50272)
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
-* [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
+* [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
+* [Houston](https://musicbrainz.org/artist/7b856335-76b2-4787-86ea-c2619383cbb7)
+* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Queen](https://musicbrainz.org/artist/5eecaf18-02ec-47af-a4f2-7831db373419)
 * [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
-* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
-* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
