@@ -28,7 +28,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-05-14              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-05-12                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-05-14              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-05-18                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-05-14              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-27              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
 | [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-04-26              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
@@ -49,7 +49,7 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Most Forked
-- [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 forks
+- [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 44 forks
 - [houseabsolute/test-class-moose](https://github.com/houseabsolute/test-class-moose) - 30 forks
 - [houseabsolute/Log-Dispatch](https://github.com/houseabsolute/Log-Dispatch) - 28 forks
 - [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 25 forks
@@ -58,7 +58,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## GitHub Activity Stats
 - 541 PRs created
-  - of which 400 were merged
+  - of which 402 were merged
 - 455 issues created
   - of which 259 have been closed
 
@@ -74,11 +74,11 @@ This excludes archived, disabled, empty, and private repos.
 * [Arcade Fire](https://musicbrainz.org/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68)
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
-* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [David Byrne](https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9)
 * [Hey Ocean!](https://musicbrainz.org/artist/6eae7091-1cca-48de-b535-2c878afff6c7)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
 * [My Scarlet Life](https://musicbrainz.org/artist/ab608a14-05c3-42e6-80f0-57e238011058)
 * [Sound Horizon](https://musicbrainz.org/artist/b042defc-4d12-414d-a678-0dcabefffa26)
 * [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
+* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 
