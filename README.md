@@ -28,7 +28,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-05-14              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-05-18                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-05-14              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-05-26                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-05-14              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-27              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
 | [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-04-26              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
@@ -58,7 +58,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## GitHub Activity Stats
 - 544 PRs created
-  - of which 402 were merged
+  - of which 403 were merged
 - 455 issues created
   - of which 259 have been closed
 
@@ -76,9 +76,9 @@ This excludes archived, disabled, empty, and private repos.
 * [Arcade Fire](https://musicbrainz.org/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68)
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Becca Stevens and Elan Mehler](https://musicbrainz.org/artist/7bbd3cf6-5885-40c7-a3d0-f47d10ef2f4c)
-* [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
+* [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [ReoNa](https://musicbrainz.org/artist/4da158cc-4d03-48d6-aefc-6726e4f9a149)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [The Police](https://musicbrainz.org/artist/9e0e2b01-41db-4008-bd8b-988977d6019a)
 * [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
 
