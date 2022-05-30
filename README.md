@@ -29,15 +29,15 @@ This excludes archived, disabled, empty, and private repos.
 | My Repos | Others |
 |----------|--------|
 | [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-05-14              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-05-26                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-05-14              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-27              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-04-26              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
-| [houseabsolute/List-SomeUtils](https://github.com/houseabsolute/List-SomeUtils) - 2022-04-25              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
-| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2022-04-24              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-23              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
-| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2022-04-21              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-04-18              | [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 2022-01-02                |
-| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-17              | [seed-rs/seed](https://github.com/seed-rs/seed) - 2021-12-09                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-05-14              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-27              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-04-26              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
+| [houseabsolute/List-SomeUtils](https://github.com/houseabsolute/List-SomeUtils) - 2022-04-25              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
+| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2022-04-24              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-23              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
+| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2022-04-21              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-04-18              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
+| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-04-17              | [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 2022-01-02                |
 
 
 ## Most Starred
@@ -58,7 +58,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## GitHub Activity Stats
 - 545 PRs created
-  - of which 403 were merged
+  - of which 404 were merged
 - 455 issues created
   - of which 259 have been closed
 
@@ -72,13 +72,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
-* [Amanda Palmer &amp; The Grand Theft Orchestra](https://musicbrainz.org/artist/32e55b31-6a0a-492d-bfc0-6c07662a5f60)
 * [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
+* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
+* [the brilliant green](https://musicbrainz.org/artist/768ecb0b-bcc8-4c99-9f2d-54a13f33c5f6)
 * [The Dresden Dolls](https://musicbrainz.org/artist/107c7983-0728-46ea-8550-77e698adf690)
+* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
-* [The Police](https://musicbrainz.org/artist/9e0e2b01-41db-4008-bd8b-988977d6019a)
-* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
-* [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
 
