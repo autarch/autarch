@@ -28,7 +28,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/HTML-Differences](https://github.com/houseabsolute/HTML-Differences) - 2022-05-31              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-05-26                |
+| [houseabsolute/HTML-Differences](https://github.com/houseabsolute/HTML-Differences) - 2022-05-31              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-05-31                |
 | [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-05-14              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-05-14              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-27              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
@@ -57,8 +57,8 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## GitHub Activity Stats
-- 545 PRs created
-  - of which 404 were merged
+- 546 PRs created
+  - of which 405 were merged
 - 455 issues created
   - of which 259 have been closed
 
@@ -72,12 +72,12 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
-* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
+* [Amanda Palmer &amp; The Grand Theft Orchestra](https://musicbrainz.org/artist/32e55b31-6a0a-492d-bfc0-6c07662a5f60)
+* [Animal Logic](https://musicbrainz.org/artist/22ca9189-12b6-47af-8592-7c61d8b443a8)
+* [Antony and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
 * [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
 * [The Dresden Dolls](https://musicbrainz.org/artist/107c7983-0728-46ea-8550-77e698adf690)
-* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
-* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 * [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
 * [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
