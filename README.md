@@ -28,7 +28,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/HTML-Differences](https://github.com/houseabsolute/HTML-Differences) - 2022-05-31              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-05-31                |
+| [houseabsolute/HTML-Differences](https://github.com/houseabsolute/HTML-Differences) - 2022-05-31              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-06-01                |
 | [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-05-14              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-05-14              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-27              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
@@ -57,8 +57,8 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## GitHub Activity Stats
-- 546 PRs created
-  - of which 405 were merged
+- 547 PRs created
+  - of which 407 were merged
 - 455 issues created
   - of which 259 have been closed
 
@@ -75,10 +75,10 @@ This excludes archived, disabled, empty, and private repos.
 * [Amanda Palmer &amp; The Grand Theft Orchestra](https://musicbrainz.org/artist/32e55b31-6a0a-492d-bfc0-6c07662a5f60)
 * [Animal Logic](https://musicbrainz.org/artist/22ca9189-12b6-47af-8592-7c61d8b443a8)
 * [Antony and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
+* [Arcade Fire](https://musicbrainz.org/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68)
+* [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
 * [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
-* [The Dresden Dolls](https://musicbrainz.org/artist/107c7983-0728-46ea-8550-77e698adf690)
-* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [Už Jsme Doma](https://musicbrainz.org/artist/d98e3d40-ccc3-4c3b-a840-bff8d761f5df)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 * [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
-* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
