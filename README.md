@@ -28,7 +28,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/HTML-Differences](https://github.com/houseabsolute/HTML-Differences) - 2022-05-31              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-06-02                |
+| [houseabsolute/HTML-Differences](https://github.com/houseabsolute/HTML-Differences) - 2022-05-31              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-06-03                |
 | [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-05-14              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-05-14              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-27              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
@@ -57,8 +57,8 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## GitHub Activity Stats
-- 548 PRs created
-  - of which 408 were merged
+- 549 PRs created
+  - of which 409 were merged
 - 455 issues created
   - of which 259 have been closed
 
@@ -77,8 +77,8 @@ This excludes archived, disabled, empty, and private repos.
 * [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
 * [bloodthirsty butchers](https://musicbrainz.org/artist/8293299e-5411-4502-aed3-7ed09d37bf38)
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
-* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
+* [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 * [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
 
