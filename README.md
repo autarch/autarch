@@ -20,24 +20,24 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 ## Repo Stats
 - **53 repos with commits to the default branch in the last two years**
-- 302 total repos
-  - 180 are forks
+- 304 total repos
+  - 182 are forks
 
 This excludes archived, disabled, empty, and private repos.
 
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/HTML-Differences](https://github.com/houseabsolute/HTML-Differences) - 2022-05-31              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-06-03                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-05-14              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-05-14              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-27              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-04-26              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
-| [houseabsolute/List-SomeUtils](https://github.com/houseabsolute/List-SomeUtils) - 2022-04-25              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
-| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2022-04-24              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-23              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
-| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2022-04-21              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-04-18              | [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 2022-01-02                |
+| [houseabsolute/HTML-Differences](https://github.com/houseabsolute/HTML-Differences) - 2022-05-31              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-05-14              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-06-03                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-05-14              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-27              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-04-26              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
+| [houseabsolute/List-SomeUtils](https://github.com/houseabsolute/List-SomeUtils) - 2022-04-25              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
+| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2022-04-24              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-03-30                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-04-23              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
+| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2022-04-21              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-04-18              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
 
 
 ## Most Starred
@@ -57,10 +57,10 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## GitHub Activity Stats
-- 549 PRs created
-  - of which 409 were merged
+- 551 PRs created
+  - of which 410 were merged
 - 455 issues created
-  - of which 259 have been closed
+  - of which 260 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
@@ -72,13 +72,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [Antony and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
+* [Arcade Fire](https://musicbrainz.org/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68)
+* [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Husking Bee](https://musicbrainz.org/artist/41fd93c6-8f41-4b14-9968-0e13249fa340)
-* [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
-* [Queensrÿche](https://musicbrainz.org/artist/deeea939-7f89-4762-b09f-79269cd70d3b)
+* [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
+* [Queen](https://musicbrainz.org/artist/5eecaf18-02ec-47af-a4f2-7831db373419)
 * [Saul Williams](https://musicbrainz.org/artist/756cf672-d4ae-4470-a3af-a43d776a211d)
 * [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
-* [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 
