@@ -20,15 +20,15 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 ## Repo Stats
 - **53 repos with commits to the default branch in the last two years**
-- 304 total repos
-  - 182 are forks
+- 305 total repos
+  - 183 are forks
 
 This excludes archived, disabled, empty, and private repos.
 
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-06-11              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-06-13                |
+| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-06-11              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-06-14                |
 | [houseabsolute/HTML-Differences](https://github.com/houseabsolute/HTML-Differences) - 2022-05-31              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
 | [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-05-14              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-05-14              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
@@ -57,8 +57,8 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## GitHub Activity Stats
-- 559 PRs created
-  - of which 415 were merged
+- 561 PRs created
+  - of which 417 were merged
 - 455 issues created
   - of which 260 have been closed
 
@@ -73,7 +73,6 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Peter Gabriel](https://musicbrainz.org/artist/8e66ea2b-b57b-47d9-8df0-df4630aeb8e5)
 * [the brilliant green](https://musicbrainz.org/artist/768ecb0b-bcc8-4c99-9f2d-54a13f33c5f6)
 * [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
 * [The Dresden Dolls](https://musicbrainz.org/artist/107c7983-0728-46ea-8550-77e698adf690)
@@ -81,4 +80,5 @@ This excludes archived, disabled, empty, and private repos.
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
+* [Yazoo](https://musicbrainz.org/artist/d101758b-d989-4fbb-bc7d-08538c4ba5fa)
 
