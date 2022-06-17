@@ -72,13 +72,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
+* [David Byrne](https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9)
+* [Ida](https://musicbrainz.org/artist/9ae28aba-ada6-426c-9567-15abc2aa01c9)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [the brilliant green](https://musicbrainz.org/artist/768ecb0b-bcc8-4c99-9f2d-54a13f33c5f6)
 * [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
 * [The Dresden Dolls](https://musicbrainz.org/artist/107c7983-0728-46ea-8550-77e698adf690)
 * [The Gothic Archies](https://musicbrainz.org/search?query=The%20Gothic%20Archies&amp;type=artist&amp;method=indexed)
-* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
-* [Yazoo](https://musicbrainz.org/artist/d101758b-d989-4fbb-bc7d-08538c4ba5fa)
-* [Yo La Tengo](https://musicbrainz.org/artist/3f542031-b054-454d-b57b-812fa2a81b11)
 
