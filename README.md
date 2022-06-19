@@ -28,8 +28,8 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-06-17              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-06-15                |
-| [autarch/presentations](https://github.com/autarch/presentations) - 2022-06-17              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [autarch/presentations](https://github.com/autarch/presentations) - 2022-06-18              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-06-15                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-06-17              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
 | [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-06-11              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
 | [houseabsolute/HTML-Differences](https://github.com/houseabsolute/HTML-Differences) - 2022-05-31              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-05-14              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
@@ -72,12 +72,12 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
+* [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [David Byrne](https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9)
-* [Ida](https://musicbrainz.org/artist/9ae28aba-ada6-426c-9567-15abc2aa01c9)
-* [the brilliant green](https://musicbrainz.org/artist/768ecb0b-bcc8-4c99-9f2d-54a13f33c5f6)
+* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
+* [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
 * [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
-* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [Už Jsme Doma](https://musicbrainz.org/artist/d98e3d40-ccc3-4c3b-a840-bff8d761f5df)
