@@ -28,8 +28,8 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/presentations](https://github.com/autarch/presentations) - 2022-06-23              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-06-15                |
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-06-21              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-06-24              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-06-15                |
+| [autarch/presentations](https://github.com/autarch/presentations) - 2022-06-24              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
 | [houseabsolute/Specio-Library-Path-Tiny](https://github.com/houseabsolute/Specio-Library-Path-Tiny) - 2022-06-20              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
 | [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-06-17              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
 | [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-06-11              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
@@ -71,14 +71,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [Akiyama Kiro](https://musicbrainz.org/search?query=Akiyama%20Kiro&amp;type=artist&amp;method=indexed)
+* [Becca Stevens &amp; Attacca Quartet](https://musicbrainz.org/search?query=Becca%20Stevens%20%26%20Attacca%20Quartet&amp;type=artist&amp;method=indexed)
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
 * [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
-* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Sound Horizon](https://musicbrainz.org/artist/b042defc-4d12-414d-a678-0dcabefffa26)
 * [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
-* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [Toad The Wet Sprocket](https://musicbrainz.org/search?query=Toad%20The%20Wet%20Sprocket&amp;type=artist&amp;method=indexed)
 * [Už Jsme Doma](https://musicbrainz.org/artist/d98e3d40-ccc3-4c3b-a840-bff8d761f5df)
+* [アルカラ](https://musicbrainz.org/artist/76e7aee8-7fe3-453a-836b-563c95ec28b3)
 
