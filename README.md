@@ -28,8 +28,8 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-06-25              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-06-15                |
-| [autarch/presentations](https://github.com/autarch/presentations) - 2022-06-24              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [autarch/presentations](https://github.com/autarch/presentations) - 2022-06-27              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-06-15                |
+| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-06-25              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
 | [houseabsolute/Specio-Library-Path-Tiny](https://github.com/houseabsolute/Specio-Library-Path-Tiny) - 2022-06-20              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
 | [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-06-17              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
 | [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-06-11              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
@@ -44,13 +44,13 @@ This excludes archived, disabled, empty, and private repos.
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 44 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 40 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 32 stars
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 29 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 30 stars
 - [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 27 stars
 
 
 ## Most Forked
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 44 forks
-- [houseabsolute/test-class-moose](https://github.com/houseabsolute/test-class-moose) - 30 forks
+- [houseabsolute/test-class-moose](https://github.com/houseabsolute/test-class-moose) - 31 forks
 - [houseabsolute/Log-Dispatch](https://github.com/houseabsolute/Log-Dispatch) - 28 forks
 - [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 26 forks
 - [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 21 forks
@@ -71,4 +71,12 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [Anna Calvi](https://musicbrainz.org/artist/462a9ce0-e1f3-4cbc-a21e-0998003d9386)
+* [Brian Wilson](https://musicbrainz.org/artist/634fe78e-fc6b-4b2a-ba83-c8c66e13a8aa)
+* [Cat Stevens](https://musicbrainz.org/artist/e2345fdf-2be7-47c5-a6dd-be64353ad134)
+* [Goddess in the Morning](https://musicbrainz.org/search?query=Goddess%20in%20the%20Morning&amp;type=artist&amp;method=indexed)
+* [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
+* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
+* [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
+* [柚楽弥衣](https://musicbrainz.org/artist/00302a51-04f5-4b2d-8993-fcd1c2ae1cf4)
 
