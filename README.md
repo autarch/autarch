@@ -30,14 +30,14 @@ This excludes archived, disabled, empty, and private repos.
 |----------|--------|
 | [houseabsolute/Params-ValidationCompiler](https://github.com/houseabsolute/Params-ValidationCompiler) - 2022-06-29              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
 | [autarch/presentations](https://github.com/autarch/presentations) - 2022-06-27              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-06-15                |
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-06-25              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
-| [houseabsolute/Specio-Library-Path-Tiny](https://github.com/houseabsolute/Specio-Library-Path-Tiny) - 2022-06-20              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-06-17              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
-| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-06-11              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
-| [houseabsolute/HTML-Differences](https://github.com/houseabsolute/HTML-Differences) - 2022-05-31              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-05-14              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-27              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-04-26              | [michelp/pgsodium](https://github.com/michelp/pgsodium) - 2022-01-08                |
+| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-06-25              | [mongodb/homebrew-brew](https://github.com/mongodb/homebrew-brew) - 2022-06-14                |
+| [houseabsolute/Specio-Library-Path-Tiny](https://github.com/houseabsolute/Specio-Library-Path-Tiny) - 2022-06-20              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-06-17              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
+| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-06-11              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
+| [houseabsolute/HTML-Differences](https://github.com/houseabsolute/HTML-Differences) - 2022-05-31              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-05-14              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-04-10                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-04-27              | [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - 2022-03-28                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-04-26              | [evalphobia/go-logdna](https://github.com/evalphobia/go-logdna) - 2022-03-11                |
 
 
 ## Most Starred
@@ -58,7 +58,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## GitHub Activity Stats
 - 562 PRs created
-  - of which 419 were merged
+  - of which 420 were merged
 - 455 issues created
   - of which 261 have been closed
 
@@ -71,14 +71,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [Aaron English](https://musicbrainz.org/artist/4204913b-bcdb-4886-841a-e24c9123e233)
 * [Anna Calvi](https://musicbrainz.org/artist/462a9ce0-e1f3-4cbc-a21e-0998003d9386)
 * [Bat for Lashes](https://musicbrainz.org/artist/10000730-525f-4ed5-aaa8-92888f060f5f)
-* [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
-* [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
-* [Brian Wilson](https://musicbrainz.org/artist/634fe78e-fc6b-4b2a-ba83-c8c66e13a8aa)
-* [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
-* [Cat Stevens](https://musicbrainz.org/artist/e2345fdf-2be7-47c5-a6dd-be64353ad134)
+* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Do As Infinity](https://musicbrainz.org/artist/b128a994-2400-432d-b26a-8feede87daa8)
+* [Kate Bush](https://musicbrainz.org/artist/4b585938-f271-45e2-b19a-91c634b5e396)
+* [Sigur Rós](https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8)
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
+* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 
