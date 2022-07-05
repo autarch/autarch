@@ -815,7 +815,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 {{ endfor }}
 
 ## Repo Stats
-- **{user_and_repo_stats.live_repos} repos with commits to the default branch in the last two years**
+- **{user_and_repo_stats.live_repos} original repos with commits to the default branch in the last two years**
 - {user_and_repo_stats.total_repos} total repos
   - {user_and_repo_stats.forked_repos} are forks
 
