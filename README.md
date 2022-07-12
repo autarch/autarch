@@ -73,12 +73,12 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Aaron English](https://musicbrainz.org/artist/4204913b-bcdb-4886-841a-e24c9123e233)
 * [Amanda Palmer](https://musicbrainz.org/artist/3c0eb318-d2ba-45aa-9077-b83746cc56da)
-* [Daft Punk](https://musicbrainz.org/artist/056e4f3e-d505-4dad-8ec1-d04f521cbb56)
-* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
+* [King Crimson](https://musicbrainz.org/artist/b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3)
 * [Moby](https://musicbrainz.org/artist/8970d868-0723-483b-a75b-51088913d3d4)
 * [Mrs. GREEN APPLE](https://musicbrainz.org/artist/9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2)
+* [My Scarlet Life](https://musicbrainz.org/artist/ab608a14-05c3-42e6-80f0-57e238011058)
+* [OfficialHigeDandism](https://musicbrainz.org/search?query=OfficialHigeDandism&amp;type=artist&amp;method=indexed)
 * [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
 * [Yes The Raven](https://musicbrainz.org/search?query=Yes%20The%20Raven&amp;type=artist&amp;method=indexed)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
-* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
