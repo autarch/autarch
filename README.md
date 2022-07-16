@@ -57,7 +57,7 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## GitHub Activity Stats
-- 564 PRs created
+- 565 PRs created
   - of which 421 were merged
 - 455 issues created
   - of which 262 have been closed
@@ -71,11 +71,11 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Amanda Palmer](https://musicbrainz.org/artist/3c0eb318-d2ba-45aa-9077-b83746cc56da)
 * [Anthrax](https://musicbrainz.org/search?query=Anthrax&amp;type=artist&amp;method=indexed)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Jellyfish](https://musicbrainz.org/artist/e3087942-a74b-4623-9349-d22cde0a9ad5)
 * [Jude](https://musicbrainz.org/search?query=Jude&amp;type=artist&amp;method=indexed)
+* [Kenichi Asai](https://musicbrainz.org/artist/72a9306d-b95b-41b7-9d04-d25768f15290)
 * [Mrs. GREEN APPLE](https://musicbrainz.org/artist/9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2)
 * [Sound Horizon](https://musicbrainz.org/artist/b042defc-4d12-414d-a678-0dcabefffa26)
 * [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
