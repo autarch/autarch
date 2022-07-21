@@ -19,7 +19,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **51 original repos with commits to the default branch in the last two years**
+- **50 original repos with commits to the default branch in the last two years**
 - 306 total repos
   - 184 are forks
 
@@ -28,7 +28,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-07-18              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-07-19                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-07-20              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-07-19                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2022-07-05              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
 | [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-07-04              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-07-04              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
@@ -65,7 +65,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Language Stats
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
-| Perl: 72%, 10.7 MB              | Perl: 72%, 11.6 MB                |
+| Perl: 72%, 10.5 MB              | Perl: 72%, 11.6 MB                |
 | Rust: 26%, 3.8 MB              | Rust: 24%, 3.8 MB                |
 | Go: 1%, 214.8 KB              | Go: 2%, 368 KB                |
 
@@ -74,11 +74,11 @@ This excludes archived, disabled, empty, and private repos.
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
+* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [David Byrne](https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [OfficialHigeDandism](https://musicbrainz.org/search?query=OfficialHigeDandism&amp;type=artist&amp;method=indexed)
-* [Queen](https://musicbrainz.org/artist/5eecaf18-02ec-47af-a4f2-7831db373419)
 * [Sound Horizon](https://musicbrainz.org/artist/b042defc-4d12-414d-a678-0dcabefffa26)
-* [Sting](https://musicbrainz.org/artist/7944ed53-2a58-4035-9b93-140a71e41c34)
 * [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
+* [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
 
