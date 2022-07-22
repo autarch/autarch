@@ -73,12 +73,12 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
-* [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [David Byrne](https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [Mrs. GREEN APPLE](https://musicbrainz.org/artist/9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2)
 * [OfficialHigeDandism](https://musicbrainz.org/search?query=OfficialHigeDandism&amp;type=artist&amp;method=indexed)
-* [Sound Horizon](https://musicbrainz.org/artist/b042defc-4d12-414d-a678-0dcabefffa26)
 * [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
+* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
 
