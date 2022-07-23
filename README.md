@@ -29,10 +29,10 @@ This excludes archived, disabled, empty, and private repos.
 | My Repos | Others |
 |----------|--------|
 | [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-07-20              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-07-19                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-07-05              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-07-04              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-07-04              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-07-03              | [mongodb/homebrew-brew](https://github.com/mongodb/homebrew-brew) - 2022-06-14                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-07-05              | [mongodb/homebrew-brew](https://github.com/mongodb/homebrew-brew) - 2022-07-19                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-07-04              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-07-04              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-07-03              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
 | [houseabsolute/Params-ValidationCompiler](https://github.com/houseabsolute/Params-ValidationCompiler) - 2022-06-29              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
 | [autarch/presentations](https://github.com/autarch/presentations) - 2022-06-27              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
 | [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-06-25              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
@@ -58,7 +58,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## GitHub Activity Stats
 - 571 PRs created
-  - of which 425 were merged
+  - of which 426 were merged
 - 455 issues created
   - of which 262 have been closed
 
