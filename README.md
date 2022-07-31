@@ -28,15 +28,15 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-07-23              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-07-28                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-07-20              | [mongodb/homebrew-brew](https://github.com/mongodb/homebrew-brew) - 2022-07-19                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-07-05              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-07-04              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-07-04              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-07-03              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
-| [houseabsolute/Params-ValidationCompiler](https://github.com/houseabsolute/Params-ValidationCompiler) - 2022-06-29              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
-| [autarch/presentations](https://github.com/autarch/presentations) - 2022-06-27              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-06-25              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
+| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-07-31              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-07-28                |
+| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-07-23              | [mongodb/homebrew-brew](https://github.com/mongodb/homebrew-brew) - 2022-07-19                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-07-20              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-07-05              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-07-04              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-07-04              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-07-03              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
+| [houseabsolute/Params-ValidationCompiler](https://github.com/houseabsolute/Params-ValidationCompiler) - 2022-06-29              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
+| [autarch/presentations](https://github.com/autarch/presentations) - 2022-06-27              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
 | [houseabsolute/Specio-Library-Path-Tiny](https://github.com/houseabsolute/Specio-Library-Path-Tiny) - 2022-06-20              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
 
 
@@ -71,14 +71,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [Billy Joel](https://musicbrainz.org/artist/64b94289-9474-4d43-8c93-918ccc1920d1)
 * [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
-* [Led Zeppelin](https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [Supercar](https://musicbrainz.org/artist/dc5cd3ad-fa36-42e0-acd4-2c9d87f82ea6)
 * [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
 * [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
 * [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
-* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
-* [Už Jsme Doma](https://musicbrainz.org/artist/d98e3d40-ccc3-4c3b-a840-bff8d761f5df)
+* [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
 
