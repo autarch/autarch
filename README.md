@@ -28,16 +28,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-07-31              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-07-28                |
-| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-07-23              | [mongodb/homebrew-brew](https://github.com/mongodb/homebrew-brew) - 2022-07-19                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-07-20              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-07-05              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-07-04              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-07-04              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-07-03              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
-| [houseabsolute/Params-ValidationCompiler](https://github.com/houseabsolute/Params-ValidationCompiler) - 2022-06-29              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
-| [autarch/presentations](https://github.com/autarch/presentations) - 2022-06-27              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
-| [houseabsolute/Specio-Library-Path-Tiny](https://github.com/houseabsolute/Specio-Library-Path-Tiny) - 2022-06-20              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
+| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-07-31              | [10gen/go-spew](https://github.com/10gen/go-spew) - 2022-08-02                |
+| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-07-23              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-07-28                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-07-20              | [mongodb/homebrew-brew](https://github.com/mongodb/homebrew-brew) - 2022-07-19                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-07-05              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-07-04              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-07-04              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-07-03              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [houseabsolute/Params-ValidationCompiler](https://github.com/houseabsolute/Params-ValidationCompiler) - 2022-06-29              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
+| [autarch/presentations](https://github.com/autarch/presentations) - 2022-06-27              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
+| [houseabsolute/Specio-Library-Path-Tiny](https://github.com/houseabsolute/Specio-Library-Path-Tiny) - 2022-06-20              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
 
 
 ## Most Starred
@@ -73,12 +73,12 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Amanda Palmer](https://musicbrainz.org/artist/3c0eb318-d2ba-45aa-9077-b83746cc56da)
 * [Bat for Lashes](https://musicbrainz.org/artist/10000730-525f-4ed5-aaa8-92888f060f5f)
+* [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Billy Joel](https://musicbrainz.org/artist/64b94289-9474-4d43-8c93-918ccc1920d1)
 * [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
-* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
-* [Hey Ocean!](https://musicbrainz.org/artist/6eae7091-1cca-48de-b535-2c878afff6c7)
-* [Ida](https://musicbrainz.org/artist/9ae28aba-ada6-426c-9567-15abc2aa01c9)
+* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [Tommy heavenly6](https://musicbrainz.org/artist/02b99ce4-adae-474b-bd30-37a00e0af272)
 * [tomoo](https://musicbrainz.org/artist/c9558807-2b18-41ae-8057-23876da1a65b)
+* [Yo La Tengo](https://musicbrainz.org/artist/3f542031-b054-454d-b57b-812fa2a81b11)
 
