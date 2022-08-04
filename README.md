@@ -28,8 +28,8 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-07-31              | [10gen/go-spew](https://github.com/10gen/go-spew) - 2022-08-02                |
-| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-07-23              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-07-28                |
+| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-07-31              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-08-03                |
+| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-07-23              | [10gen/go-spew](https://github.com/10gen/go-spew) - 2022-08-02                |
 | [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-07-20              | [mongodb/homebrew-brew](https://github.com/mongodb/homebrew-brew) - 2022-07-19                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2022-07-05              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
 | [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-07-04              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
@@ -58,7 +58,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## GitHub Activity Stats
 - 572 PRs created
-  - of which 429 were merged
+  - of which 430 were merged
 - 460 issues created
   - of which 264 have been closed
 
@@ -75,8 +75,8 @@ This excludes archived, disabled, empty, and private repos.
 * [Bat for Lashes](https://musicbrainz.org/artist/10000730-525f-4ed5-aaa8-92888f060f5f)
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Billy Joel](https://musicbrainz.org/artist/64b94289-9474-4d43-8c93-918ccc1920d1)
-* [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
+* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [Tommy heavenly6](https://musicbrainz.org/artist/02b99ce4-adae-474b-bd30-37a00e0af272)
 * [tomoo](https://musicbrainz.org/artist/c9558807-2b18-41ae-8057-23876da1a65b)
