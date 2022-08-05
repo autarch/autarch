@@ -74,11 +74,11 @@ This excludes archived, disabled, empty, and private repos.
 * [Amanda Palmer](https://musicbrainz.org/artist/3c0eb318-d2ba-45aa-9077-b83746cc56da)
 * [Bat for Lashes](https://musicbrainz.org/artist/10000730-525f-4ed5-aaa8-92888f060f5f)
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
-* [Billy Joel](https://musicbrainz.org/artist/64b94289-9474-4d43-8c93-918ccc1920d1)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
+* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [Tommy heavenly6](https://musicbrainz.org/artist/02b99ce4-adae-474b-bd30-37a00e0af272)
 * [tomoo](https://musicbrainz.org/artist/c9558807-2b18-41ae-8057-23876da1a65b)
-* [Yo La Tengo](https://musicbrainz.org/artist/3f542031-b054-454d-b57b-812fa2a81b11)
+* [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
 
