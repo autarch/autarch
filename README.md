@@ -42,7 +42,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Most Starred
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 44 stars
-- [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 41 stars
+- [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 32 stars
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 30 stars
 - [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 27 stars
@@ -76,9 +76,9 @@ This excludes archived, disabled, empty, and private repos.
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
+* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
-* [Tommy heavenly6](https://musicbrainz.org/artist/02b99ce4-adae-474b-bd30-37a00e0af272)
 * [tomoo](https://musicbrainz.org/artist/c9558807-2b18-41ae-8057-23876da1a65b)
 * [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
 
