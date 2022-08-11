@@ -78,7 +78,7 @@ This excludes archived, disabled, empty, and private repos.
 * [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
 * [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
 * [The Cardigans](https://musicbrainz.org/artist/3e55d51d-687f-4a9d-af96-2fabccf802e5)
-* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [Už Jsme Doma](https://musicbrainz.org/artist/d98e3d40-ccc3-4c3b-a840-bff8d761f5df)
+* [椎名林檎](https://musicbrainz.org/artist/9e414497-23b7-4ab7-9ec6-8ea9864c9e87)
 
