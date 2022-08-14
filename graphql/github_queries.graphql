@@ -136,16 +136,16 @@ query UserContributedReposQuery($login: String!, $email: String!, $after: String
 # Adapted from queries in
 # https://github.com/lowlighter/metrics/blob/master/source/plugins/followup/querie/s
 query IssuesAndPrsQuery {
-  issues_created:search(query: "author:autarch is:issue", type: ISSUE, first: 0) {
+  issues_created:search(query: "author:autarch is:issue is:public", type: ISSUE, first: 0) {
     issueCount
   }
-  issues_closed:search(query: "author:autarch is:issue is:closed", type: ISSUE, first: 0) {
+  issues_closed:search(query: "author:autarch is:issue is:closed is:public", type: ISSUE, first: 0) {
     issueCount
   }
-  prs_created:search(query: "author:autarch is:pr", type: ISSUE, first: 0) {
+  prs_created:search(query: "author:autarch is:pr is:public", type: ISSUE, first: 0) {
     issueCount
   }
-  prs_merged:search(query: "author:autarch is:pr is:merged", type: ISSUE, first: 0) {
+  prs_merged:search(query: "author:autarch is:pr is:merged is:public", type: ISSUE, first: 0) {
     issueCount
   }
 }
