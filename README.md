@@ -33,11 +33,11 @@ This excludes archived, disabled, empty, and private repos.
 | [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-08-14              | [mongodb/homebrew-brew](https://github.com/mongodb/homebrew-brew) - 2022-07-19                |
 | [houseabsolute/en-inflexion](https://github.com/houseabsolute/en-inflexion) - 2022-08-14              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
 | [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-08-14              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-07-31              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-07-20              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-07-04              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-07-03              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
-| [houseabsolute/Params-ValidationCompiler](https://github.com/houseabsolute/Params-ValidationCompiler) - 2022-06-29              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
+| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2022-08-14              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2022-07-31              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-07-20              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-07-04              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-07-03              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
 
 
 ## Most Starred
@@ -65,20 +65,21 @@ This excludes archived, disabled, empty, and private repos.
 ## Language Stats
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
-| Perl: 76%, 9.5 MB              | Perl: 77%, 11.3 MB                |
-| Rust: 21%, 2.7 MB              | Rust: 18%, 2.7 MB                |
-| Go: 2%, 214.8 KB              | Go: 2%, 368 KB                |
+| Perl: 60%, 3.6 MB              | Perl: 66%, 5.4 MB                |
+| Rust: 34%, 2.1 MB              | Rust: 26%, 2.1 MB                |
+| Go: 3%, 214.8 KB              | Go: 4%, 368 KB                |
+| HTML: 1%, 62.6 KB              |                 |
 
 
 ## Top Artists for the Past Week
+* [Anaïs Mitchell](https://musicbrainz.org/artist/9f41d3cd-5fe4-4144-b658-b00c557f0441)
 * [Anemo](https://musicbrainz.org/artist/003167d9-2f64-45ec-a934-37237ab39394)
 * [Ani DiFranco](https://musicbrainz.org/artist/a7bdc71f-697a-45d9-92b2-a01fbbe50272)
-* [Anna Calvi](https://musicbrainz.org/artist/462a9ce0-e1f3-4cbc-a21e-0998003d9386)
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
-* [Becca Stevens Band](https://musicbrainz.org/artist/459894f5-7152-4df1-90dd-eada2754229b)
-* [Big Hat](https://musicbrainz.org/artist/5c404a8a-abc7-466b-b5ff-08cf3b4cc75c)
 * [Neko Case](https://musicbrainz.org/artist/e13d2935-8c42-4c0a-96d7-654062acf106)
+* [Sigur Rós](https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8)
 * [The Cardigans](https://musicbrainz.org/artist/3e55d51d-687f-4a9d-af96-2fabccf802e5)
+* [The Civil Wars](https://musicbrainz.org/artist/91dad7e7-0bf6-47e8-bd42-ef1fac32c729)
 * [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 
