@@ -57,10 +57,10 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## GitHub Activity Stats
-- 572 PRs created
-  - of which 430 were merged
+- 542 PRs created
+  - of which 403 were merged
 - 460 issues created
-  - of which 264 have been closed
+  - of which 265 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Anaïs Mitchell](https://musicbrainz.org/artist/9f41d3cd-5fe4-4144-b658-b00c557f0441)
-* [Anemo](https://musicbrainz.org/artist/003167d9-2f64-45ec-a934-37237ab39394)
-* [Ani DiFranco](https://musicbrainz.org/artist/a7bdc71f-697a-45d9-92b2-a01fbbe50272)
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Neko Case](https://musicbrainz.org/artist/e13d2935-8c42-4c0a-96d7-654062acf106)
 * [Sigur Rós](https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8)
+* [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
 * [The Cardigans](https://musicbrainz.org/artist/3e55d51d-687f-4a9d-af96-2fabccf802e5)
 * [The Civil Wars](https://musicbrainz.org/artist/91dad7e7-0bf6-47e8-bd42-ef1fac32c729)
 * [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [Už Jsme Doma](https://musicbrainz.org/artist/d98e3d40-ccc3-4c3b-a840-bff8d761f5df)
+* [椎名林檎](https://musicbrainz.org/artist/9e414497-23b7-4ab7-9ec6-8ea9864c9e87)
 
