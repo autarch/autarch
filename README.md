@@ -28,16 +28,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/Dist-Zilla-PluginBundle-DROLSKY](https://github.com/autarch/Dist-Zilla-PluginBundle-DROLSKY) - 2022-08-21              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-08-03                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-08-21              | [10gen/go-spew](https://github.com/10gen/go-spew) - 2022-08-02                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-08-20              | [mongodb/homebrew-brew](https://github.com/mongodb/homebrew-brew) - 2022-07-19                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-08-20              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-08-14              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-08-14              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
-| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-08-14              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
-| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-08-14              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
-| [houseabsolute/en-inflexion](https://github.com/houseabsolute/en-inflexion) - 2022-08-14              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-08-14              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-08-27              | [mongodb/mongo-tools](https://github.com/mongodb/mongo-tools) - 2022-08-03                |
+| [autarch/Dist-Zilla-PluginBundle-DROLSKY](https://github.com/autarch/Dist-Zilla-PluginBundle-DROLSKY) - 2022-08-21              | [10gen/go-spew](https://github.com/10gen/go-spew) - 2022-08-02                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-08-21              | [mongodb/homebrew-brew](https://github.com/mongodb/homebrew-brew) - 2022-07-19                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-08-20              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-08-20              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-08-14              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-08-14              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [autarch/Crumb](https://github.com/autarch/Crumb) - 2022-08-14              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
+| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-08-14              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
+| [houseabsolute/en-inflexion](https://github.com/houseabsolute/en-inflexion) - 2022-08-14              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
 
 
 ## Most Starred
@@ -59,7 +59,7 @@ This excludes archived, disabled, empty, and private repos.
 ## GitHub Activity Stats
 - 542 PRs created
   - of which 403 were merged
-- 462 issues created
+- 463 issues created
   - of which 266 have been closed
 
 ## Language Stats
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
+* [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
-* [Cocteau Twins](https://musicbrainz.org/artist/000fc734-b7e1-4a01-92d1-f544261b43f5)
 * [Dios](https://musicbrainz.org/artist/c6ef6d83-b2d6-4c0f-9eeb-8703303117b9)
+* [Iron Maiden](https://musicbrainz.org/search?query=Iron%20Maiden&amp;type=artist&amp;method=indexed)
 * [Led Zeppelin](https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
 * [tomoo](https://musicbrainz.org/artist/c9558807-2b18-41ae-8057-23876da1a65b)
 * [Yes The Raven](https://musicbrainz.org/search?query=Yes%20The%20Raven&amp;type=artist&amp;method=indexed)
-* [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
+* [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
 * [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
