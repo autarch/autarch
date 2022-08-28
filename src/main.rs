@@ -266,6 +266,10 @@ async fn main() -> Result<()> {
 }
 
 async fn blog_posts() -> Result<Vec<BlogPost>> {
+    if !should_get("blog_posts") {
+        tracing::info!("Skipping blog posts");
+        return Ok(vec![]);
+    }
     tracing::info!("Getting blog feed");
     let content = reqwest::get("https://blog.urth.org/index.xml")
         .await?
@@ -313,6 +317,10 @@ async fn user_and_repo_stats(client: &Client) -> Result<UserAndRepoStats> {
 }
 
 async fn get_my_user_repos(client: &Client, stats: &mut UserAndRepoStats) -> Result<()> {
+    if !should_get("user_repos") {
+        tracing::info!("Skipping user repos");
+        return Ok(());
+    }
     tracing::info!("Getting user repos");
     let mut after = None;
     loop {
@@ -380,6 +388,10 @@ async fn user_query(
 }
 
 async fn get_my_org_repos(client: &Client, stats: &mut UserAndRepoStats) -> Result<()> {
+    if !should_get("organization_repos") {
+        tracing::info!("Skipping organization repos");
+        return Ok(());
+    }
     tracing::info!("Getting organization repos");
     let mut after = None;
     loop {
@@ -512,6 +524,10 @@ fn collect_user_repo_stats(
 }
 
 async fn get_other_repos(client: &Client, stats: &mut UserAndRepoStats) -> Result<()> {
+    if !should_get("other_repos") {
+        tracing::info!("Skipping other repos");
+        return Ok(());
+    }
     tracing::info!("Getting other repos with recent contributions");
     let mut after = None;
     loop {
@@ -747,6 +763,10 @@ fn top_languages(languages: &HashMap<String, (String, i64)>) -> Vec<LanguageStat
 }
 
 async fn issue_and_pr_stats(client: &Client) -> Result<IssueAndPrStats> {
+    if !should_get("issues_and_prs") {
+        tracing::info!("Skipping issue and pr data");
+        return Ok(IssueAndPrStats::default());
+    }
     tracing::info!("Getting issue and pr data");
     let resp =
         post_graphql::<IssuesAndPrsQuery, _>(client, API_URL, issues_and_prs_query::Variables {})
@@ -789,6 +809,10 @@ fn language_pairs_for_template(
 }
 
 async fn top_artists() -> Result<Vec<String>> {
+    if !should_get("top_artists") {
+        tracing::info!("Skipping top artists");
+        return Ok(vec![]);
+    }
     tracing::info!("Getting top artists from last.fm");
     let api_key = env::var("LAST_FM_API_KEY")
         .expect("You must set the LAST_FM_API_KEY env var when running this program");
@@ -817,6 +841,14 @@ async fn top_artists() -> Result<Vec<String>> {
             }
         })
         .collect())
+}
+
+fn should_get(what: &str) -> bool {
+    let only = env::var("PROFILE_GENERATOR_ONLY").unwrap_or_default();
+    if only.is_empty() {
+        return true;
+    }
+    only == what
 }
 
 const README_TEMPLATE: &str = r#"
