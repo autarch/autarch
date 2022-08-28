@@ -29,7 +29,14 @@ use once_cell::sync::Lazy;
 use reqwest::Client;
 use rss::Channel;
 use serde_derive::Serialize;
-use std::{cmp::Ordering, collections::HashMap, env, fs::File, io::Write, path::PathBuf};
+use std::{
+    cmp::Ordering,
+    collections::{HashMap, HashSet},
+    env,
+    fs::File,
+    io::Write,
+    path::PathBuf,
+};
 use tinytemplate::TinyTemplate;
 
 use crate::github_queries::user_contributed_repos_query;
@@ -39,6 +46,13 @@ const VERSION: &str = env!("CARGO_PKG_VERSION");
 const MY_LOGIN: &str = "autarch";
 const MY_ORG: &str = "houseabsolute";
 const MY_EMAIL: &str = "autarch@urth.org";
+static WORK_REPOS: Lazy<HashSet<&'static str>> = Lazy::new(|| {
+    let mut h = HashSet::new();
+    h.insert("10gen");
+    h.insert("mongodb");
+    h.insert("mongodb-labs");
+    h
+});
 
 const DATE_FORMAT: &str = "%Y-%m-%d";
 
@@ -436,6 +450,9 @@ fn collect_user_repo_stats(
         if repo.is_archived || repo.is_disabled || repo.is_empty || repo.is_private {
             continue;
         }
+        if WORK_REPOS.contains(repo.owner.login.as_str()) {
+            continue;
+        }
 
         // Only repos I own are counted for stats, but I want to save others
         // to show recent commits I made to other repos.
@@ -523,6 +540,10 @@ async fn get_other_repos(client: &Client, stats: &mut UserAndRepoStats) -> Resul
             .flatten()
         {
             if repo.owner.login == MY_LOGIN || repo.owner.login == MY_ORG {
+                continue;
+            }
+            if WORK_REPOS.contains(repo.owner.login.as_str()) {
+                tracing::debug!("Skipping work repo owned by {}", repo.owner.login);
                 continue;
             }
             let committed_date = match repo
