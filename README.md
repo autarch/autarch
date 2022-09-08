@@ -74,11 +74,11 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
 * [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
-* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Do As Infinity](https://musicbrainz.org/artist/b128a994-2400-432d-b26a-8feede87daa8)
 * [Eurythmics](https://musicbrainz.org/artist/b4d32cff-f19e-455f-86c4-f347d824ca61)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [Mrs. GREEN APPLE](https://musicbrainz.org/artist/9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
