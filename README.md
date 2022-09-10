@@ -28,10 +28,10 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-09-05              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-09-04              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-09-02              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-08-31              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-09-09              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-09-05              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-09-04              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-09-02              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2022-08-28              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
 | [autarch/Dist-Zilla-PluginBundle-DROLSKY](https://github.com/autarch/Dist-Zilla-PluginBundle-DROLSKY) - 2022-08-21              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
 | [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-08-21              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
@@ -49,7 +49,7 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Most Forked
-- [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 forks
+- [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 44 forks
 - [houseabsolute/test-class-moose](https://github.com/houseabsolute/test-class-moose) - 31 forks
 - [houseabsolute/Log-Dispatch](https://github.com/houseabsolute/Log-Dispatch) - 28 forks
 - [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 26 forks
