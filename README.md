@@ -28,7 +28,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-09-16              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-09-19              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
 | [houseabsolute/App-Sqitch-Command-pgreset](https://github.com/houseabsolute/App-Sqitch-Command-pgreset) - 2022-09-11              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
 | [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-09-09              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-09-05              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
@@ -66,20 +66,20 @@ This excludes archived, disabled, empty, and private repos.
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
 | Perl: 60%, 3.6 MB              | Perl: 66%, 5.4 MB                |
-| Rust: 34%, 2.1 MB              | Rust: 26%, 2.1 MB                |
+| Rust: 35%, 2.1 MB              | Rust: 26%, 2.1 MB                |
 | Go: 3%, 214.8 KB              | Go: 4%, 368 KB                |
 | HTML: 1%, 62.6 KB              |                 |
 
 
 ## Top Artists for the Past Week
 * [Becca Stevens Band](https://musicbrainz.org/artist/459894f5-7152-4df1-90dd-eada2754229b)
+* [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [King Crimson](https://musicbrainz.org/artist/b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3)
+* [Eurythmics](https://musicbrainz.org/artist/b4d32cff-f19e-455f-86c4-f347d824ca61)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Miranda Sex Garden](https://musicbrainz.org/artist/ba5d56ac-b8c4-46ef-8c06-1c1f6a35584f)
-* [Peter Gabriel](https://musicbrainz.org/artist/8e66ea2b-b57b-47d9-8df0-df4630aeb8e5)
-* [Queen](https://musicbrainz.org/artist/5eecaf18-02ec-47af-a4f2-7831db373419)
+* [Simon &amp; Garfunkel](https://musicbrainz.org/artist/5d02f264-e225-41ff-83f7-d9b1f0b1874a)
+* [Sting](https://musicbrainz.org/artist/7944ed53-2a58-4035-9b93-140a71e41c34)
 * [Superfly](https://musicbrainz.org/artist/0f19e966-f80e-47b1-be5e-e6dc1425e860)
-* [The Dresden Dolls](https://musicbrainz.org/artist/107c7983-0728-46ea-8550-77e698adf690)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 
