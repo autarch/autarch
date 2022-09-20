@@ -29,9 +29,9 @@ This excludes archived, disabled, empty, and private repos.
 | My Repos | Others |
 |----------|--------|
 | [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-09-19              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [houseabsolute/App-Sqitch-Command-pgreset](https://github.com/houseabsolute/App-Sqitch-Command-pgreset) - 2022-09-11              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-09-09              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-09-05              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-09-19              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [houseabsolute/App-Sqitch-Command-pgreset](https://github.com/houseabsolute/App-Sqitch-Command-pgreset) - 2022-09-11              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-09-09              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
 | [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-09-02              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2022-08-28              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
 | [autarch/Dist-Zilla-PluginBundle-DROLSKY](https://github.com/autarch/Dist-Zilla-PluginBundle-DROLSKY) - 2022-08-21              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Becca Stevens Band](https://musicbrainz.org/artist/459894f5-7152-4df1-90dd-eada2754229b)
-* [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
-* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Eurythmics](https://musicbrainz.org/artist/b4d32cff-f19e-455f-86c4-f347d824ca61)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [Miranda Sex Garden](https://musicbrainz.org/artist/ba5d56ac-b8c4-46ef-8c06-1c1f6a35584f)
 * [Simon &amp; Garfunkel](https://musicbrainz.org/artist/5d02f264-e225-41ff-83f7-d9b1f0b1874a)
 * [Sting](https://musicbrainz.org/artist/7944ed53-2a58-4035-9b93-140a71e41c34)
 * [Superfly](https://musicbrainz.org/artist/0f19e966-f80e-47b1-be5e-e6dc1425e860)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 
