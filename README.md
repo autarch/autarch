@@ -28,8 +28,8 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-09-19              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-09-19              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-09-24              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-09-24              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
 | [houseabsolute/App-Sqitch-Command-pgreset](https://github.com/houseabsolute/App-Sqitch-Command-pgreset) - 2022-09-11              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
 | [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-09-09              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
 | [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-09-02              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
+* [Becca Stevens Band](https://musicbrainz.org/artist/459894f5-7152-4df1-90dd-eada2754229b)
+* [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
+* [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
+* [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Miranda Sex Garden](https://musicbrainz.org/artist/ba5d56ac-b8c4-46ef-8c06-1c1f6a35584f)
-* [Queen](https://musicbrainz.org/artist/5eecaf18-02ec-47af-a4f2-7831db373419)
-* [Simon &amp; Garfunkel](https://musicbrainz.org/artist/5d02f264-e225-41ff-83f7-d9b1f0b1874a)
 * [Sting](https://musicbrainz.org/artist/7944ed53-2a58-4035-9b93-140a71e41c34)
 * [Superfly](https://musicbrainz.org/artist/0f19e966-f80e-47b1-be5e-e6dc1425e860)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
-* [Yazoo](https://musicbrainz.org/artist/d101758b-d989-4fbb-bc7d-08538c4ba5fa)
+* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
