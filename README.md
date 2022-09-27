@@ -77,7 +77,7 @@ This excludes archived, disabled, empty, and private repos.
 * [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
 * [Brian Wilson](https://musicbrainz.org/artist/634fe78e-fc6b-4b2a-ba83-c8c66e13a8aa)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
-* [Mono Puff](https://musicbrainz.org/artist/54273aba-2714-4648-a64c-5dfda8cd6caa)
+* [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
 * [Sting](https://musicbrainz.org/artist/7944ed53-2a58-4035-9b93-140a71e41c34)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
