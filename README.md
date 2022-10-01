@@ -59,7 +59,7 @@ This excludes archived, disabled, empty, and private repos.
 ## GitHub Activity Stats
 - 544 PRs created
   - of which 405 were merged
-- 465 issues created
+- 466 issues created
   - of which 266 have been closed
 
 ## Language Stats
@@ -80,6 +80,6 @@ This excludes archived, disabled, empty, and private repos.
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Do As Infinity](https://musicbrainz.org/artist/b128a994-2400-432d-b26a-8feede87daa8)
 * [Kate Bush](https://musicbrainz.org/artist/4b585938-f271-45e2-b19a-91c634b5e396)
-* [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
+* [King Crimson](https://musicbrainz.org/artist/b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 
