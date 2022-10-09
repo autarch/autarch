@@ -28,16 +28,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/Dist-Zilla-PluginBundle-DROLSKY](https://github.com/autarch/Dist-Zilla-PluginBundle-DROLSKY) - 2022-10-06              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-10-04              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-10-03              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-10-02              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-10-02              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
-| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-09-24              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
-| [houseabsolute/App-Sqitch-Command-pgreset](https://github.com/houseabsolute/App-Sqitch-Command-pgreset) - 2022-09-11              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-09-02              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-08-28              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-08-20              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
+| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-10-08              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-10-08              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [autarch/Dist-Zilla-PluginBundle-DROLSKY](https://github.com/autarch/Dist-Zilla-PluginBundle-DROLSKY) - 2022-10-06              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-10-03              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-10-02              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-10-02              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-09-24              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
+| [houseabsolute/App-Sqitch-Command-pgreset](https://github.com/houseabsolute/App-Sqitch-Command-pgreset) - 2022-09-11              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-09-02              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-08-28              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
 
 
 ## Most Starred
@@ -60,7 +60,7 @@ This excludes archived, disabled, empty, and private repos.
 - 544 PRs created
   - of which 405 were merged
 - 469 issues created
-  - of which 267 have been closed
+  - of which 268 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
@@ -75,11 +75,11 @@ This excludes archived, disabled, empty, and private repos.
 * [Brian Wilson](https://musicbrainz.org/artist/634fe78e-fc6b-4b2a-ba83-c8c66e13a8aa)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [Cocteau Twins](https://musicbrainz.org/artist/000fc734-b7e1-4a01-92d1-f544261b43f5)
+* [David Byrne](https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9)
+* [Florence + the Machine](https://musicbrainz.org/artist/5fee3020-513b-48c2-b1f7-4681b01db0c6)
 * [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
-* [Led Zeppelin](https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3)
 * [Sound Horizon](https://musicbrainz.org/artist/b042defc-4d12-414d-a678-0dcabefffa26)
 * [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [The Polyphonic Spree](https://musicbrainz.org/artist/6758601f-6d57-491e-a125-037f382a5ddd)
-* [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 
