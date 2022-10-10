@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Brian Wilson](https://musicbrainz.org/artist/634fe78e-fc6b-4b2a-ba83-c8c66e13a8aa)
-* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
-* [Cocteau Twins](https://musicbrainz.org/artist/000fc734-b7e1-4a01-92d1-f544261b43f5)
 * [David Byrne](https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9)
-* [Florence + the Machine](https://musicbrainz.org/artist/5fee3020-513b-48c2-b1f7-4681b01db0c6)
-* [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
+* [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
+* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [SIIP](https://musicbrainz.org/search?query=SIIP&amp;type=artist&amp;method=indexed)
 * [Sound Horizon](https://musicbrainz.org/artist/b042defc-4d12-414d-a678-0dcabefffa26)
 * [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
+* [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
-* [The Polyphonic Spree](https://musicbrainz.org/artist/6758601f-6d57-491e-a125-037f382a5ddd)
+* [チャットモンチー](https://musicbrainz.org/artist/3a297fc0-7c88-4d2b-894f-0bbc07a33099)
+* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
