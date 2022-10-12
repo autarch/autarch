@@ -11,11 +11,11 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 ## Recent Blog Posts
 
+- [My Team at MongoDB is Hiring](https://blog.urth.org/2022/10/11/my-team-at-mongodb-is-hiring/) - 2022-10-11
 - [Fixing Some Bugs in My GitHub Profile Generator](https://blog.urth.org/2022/08/14/fixing-some-bugs-in-my-github-profile-generator/) - 2022-08-14
 - [What&#39;s the Right Way to Merge a Pull Request?](https://blog.urth.org/2022/07/02/what-s-the-right-way-to-merge-a-pull-request/) - 2022-07-02
 - [My Perl and Raku Conference 2022 Write-Up](https://blog.urth.org/2022/07/02/my-perl-and-raku-conference-2022-write-up/) - 2022-07-02
 - [Job Search 2022 Update: Postscript](https://blog.urth.org/2022/06/17/job-search-2022-update-postscript/) - 2022-06-17
-- [Restoring Window Positions in GNOME After Switching Monitor Inputs](https://blog.urth.org/2022/05/14/restoring-window-positions-in-gnome-after-switching-monitor-inputs/) - 2022-05-14
 
 
 ## Repo Stats
@@ -28,15 +28,15 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-10-08              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-10-08              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [autarch/Dist-Zilla-PluginBundle-DROLSKY](https://github.com/autarch/Dist-Zilla-PluginBundle-DROLSKY) - 2022-10-06              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-10-03              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-10-02              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-10-02              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
-| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-09-24              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
-| [houseabsolute/App-Sqitch-Command-pgreset](https://github.com/houseabsolute/App-Sqitch-Command-pgreset) - 2022-09-11              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-09-02              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
+| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-10-12              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-10-11              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-10-08              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-10-08              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [autarch/Dist-Zilla-PluginBundle-DROLSKY](https://github.com/autarch/Dist-Zilla-PluginBundle-DROLSKY) - 2022-10-06              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-10-03              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-10-02              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-10-02              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
+| [houseabsolute/App-Sqitch-Command-pgreset](https://github.com/houseabsolute/App-Sqitch-Command-pgreset) - 2022-09-11              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2022-08-28              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
 
 
@@ -74,11 +74,11 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
 * [Akiyama Kiro](https://musicbrainz.org/search?query=Akiyama%20Kiro&amp;type=artist&amp;method=indexed)
-* [Amanda Palmer](https://musicbrainz.org/artist/3c0eb318-d2ba-45aa-9077-b83746cc56da)
+* [Big Hat](https://musicbrainz.org/artist/5c404a8a-abc7-466b-b5ff-08cf3b4cc75c)
 * [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
 * [SIIP](https://musicbrainz.org/search?query=SIIP&amp;type=artist&amp;method=indexed)
-* [Sound Horizon](https://musicbrainz.org/artist/b042defc-4d12-414d-a678-0dcabefffa26)
-* [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
+* [The Gothic Archies](https://musicbrainz.org/search?query=The%20Gothic%20Archies&amp;type=artist&amp;method=indexed)
+* [The Polyphonic Spree](https://musicbrainz.org/artist/6758601f-6d57-491e-a125-037f382a5ddd)
 * [Tommy heavenly6](https://musicbrainz.org/artist/02b99ce4-adae-474b-bd30-37a00e0af272)
 * [チャットモンチー](https://musicbrainz.org/artist/3a297fc0-7c88-4d2b-894f-0bbc07a33099)
 * [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
