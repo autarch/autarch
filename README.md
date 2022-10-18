@@ -79,7 +79,7 @@ This excludes archived, disabled, empty, and private repos.
 * [Queensrÿche](https://musicbrainz.org/artist/deeea939-7f89-4762-b09f-79269cd70d3b)
 * [Ray Charles](https://musicbrainz.org/artist/2ce02909-598b-44ef-a456-151ba0a3bd70)
 * [Sting](https://musicbrainz.org/artist/7944ed53-2a58-4035-9b93-140a71e41c34)
+* [The Dresden Dolls](https://musicbrainz.org/artist/107c7983-0728-46ea-8550-77e698adf690)
 * [The Polyphonic Spree](https://musicbrainz.org/artist/6758601f-6d57-491e-a125-037f382a5ddd)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
-* [Tommy heavenly6](https://musicbrainz.org/artist/02b99ce4-adae-474b-bd30-37a00e0af272)
 
