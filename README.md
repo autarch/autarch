@@ -21,24 +21,24 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 ## Repo Stats
 - **48 original repos with commits to the default branch in the last two years**
-- 310 total repos
-  - 187 are forks
+- 312 total repos
+  - 189 are forks
 
 This excludes archived, disabled, empty, and private repos.
 
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
+| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-10-29              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
 | [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-10-23              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
 | [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-10-23              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
 | [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-10-22              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
 | [houseabsolute/Params-Validate](https://github.com/houseabsolute/Params-Validate) - 2022-10-22              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2022-10-18              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-10-12              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-10-11              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
-| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-10-08              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-10-08              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
-| [autarch/Dist-Zilla-PluginBundle-DROLSKY](https://github.com/autarch/Dist-Zilla-PluginBundle-DROLSKY) - 2022-10-06              | [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - 2022-04-24                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-10-11              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-10-08              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-10-08              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
+| [autarch/Dist-Zilla-PluginBundle-DROLSKY](https://github.com/autarch/Dist-Zilla-PluginBundle-DROLSKY) - 2022-10-06              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
 
 
 ## Most Starred
@@ -58,8 +58,8 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## GitHub Activity Stats
-- 546 PRs created
-  - of which 407 were merged
+- 547 PRs created
+  - of which 408 were merged
 - 469 issues created
   - of which 269 have been closed
 
