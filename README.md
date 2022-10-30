@@ -30,14 +30,14 @@ This excludes archived, disabled, empty, and private repos.
 | My Repos | Others |
 |----------|--------|
 | [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-10-29              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-10-23              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-10-23              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-10-22              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [houseabsolute/Params-Validate](https://github.com/houseabsolute/Params-Validate) - 2022-10-22              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-10-18              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-10-11              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
-| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-10-08              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-10-08              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-10-29              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-10-23              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-10-23              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-10-22              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [houseabsolute/Params-Validate](https://github.com/houseabsolute/Params-Validate) - 2022-10-22              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-10-18              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-10-11              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-10-08              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
 | [autarch/Dist-Zilla-PluginBundle-DROLSKY](https://github.com/autarch/Dist-Zilla-PluginBundle-DROLSKY) - 2022-10-06              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
 
 
@@ -61,7 +61,7 @@ This excludes archived, disabled, empty, and private repos.
 - 547 PRs created
   - of which 408 were merged
 - 469 issues created
-  - of which 269 have been closed
+  - of which 270 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
@@ -73,14 +73,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Bat for Lashes](https://musicbrainz.org/artist/10000730-525f-4ed5-aaa8-92888f060f5f)
+* [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
+* [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Billy Joel](https://musicbrainz.org/artist/64b94289-9474-4d43-8c93-918ccc1920d1)
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
-* [Kate Bush](https://musicbrainz.org/artist/4b585938-f271-45e2-b19a-91c634b5e396)
-* [Led Zeppelin](https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3)
+* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Mrs. GREEN APPLE](https://musicbrainz.org/artist/9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2)
-* [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
+* [The Who](https://musicbrainz.org/artist/9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa)
 * [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
 * [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
