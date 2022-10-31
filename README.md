@@ -73,14 +73,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
+* [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
-* [Billy Joel](https://musicbrainz.org/artist/64b94289-9474-4d43-8c93-918ccc1920d1)
-* [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
-* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Mrs. GREEN APPLE](https://musicbrainz.org/artist/9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2)
+* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
+* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
+* [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
+* [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
+* [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
-* [The Who](https://musicbrainz.org/artist/9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa)
+* [Wednesday Campanella](https://musicbrainz.org/artist/f9f9f6a1-693b-43da-bbeb-70395bb0a66a)
 * [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
-* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
