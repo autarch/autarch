@@ -79,8 +79,8 @@ This excludes archived, disabled, empty, and private repos.
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
+* [Florence + the Machine](https://musicbrainz.org/artist/5fee3020-513b-48c2-b1f7-4681b01db0c6)
 * [Husking Bee](https://musicbrainz.org/artist/41fd93c6-8f41-4b14-9968-0e13249fa340)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
 * [Wednesday Campanella](https://musicbrainz.org/artist/f9f9f6a1-693b-43da-bbeb-70395bb0a66a)
-* [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
 
