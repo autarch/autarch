@@ -29,16 +29,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-10-29              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-10-29              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-10-23              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-10-23              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-10-22              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
-| [houseabsolute/Params-Validate](https://github.com/houseabsolute/Params-Validate) - 2022-10-22              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-10-18              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-10-11              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
-| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-10-08              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
-| [autarch/Dist-Zilla-PluginBundle-DROLSKY](https://github.com/autarch/Dist-Zilla-PluginBundle-DROLSKY) - 2022-10-06              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-11-07              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-11-07              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-11-06              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-10-29              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-10-29              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-10-23              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-10-23              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-10-22              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [houseabsolute/Params-Validate](https://github.com/houseabsolute/Params-Validate) - 2022-10-22              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
+| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-10-08              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
 
 
 ## Most Starred
@@ -60,27 +60,27 @@ This excludes archived, disabled, empty, and private repos.
 ## GitHub Activity Stats
 - 547 PRs created
   - of which 408 were merged
-- 470 issues created
-  - of which 270 have been closed
+- 472 issues created
+  - of which 271 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
 | Perl: 60%, 3.6 MB              | Perl: 66%, 5.4 MB                |
 | Rust: 35%, 2.1 MB              | Rust: 26%, 2.1 MB                |
-| Go: 3%, 215.1 KB              | Go: 4%, 368.3 KB                |
+| Go: 3%, 216.4 KB              | Go: 4%, 369.6 KB                |
 | HTML: 1%, 62.6 KB              |                 |
 
 
 ## Top Artists for the Past Week
-* [Aaron English](https://musicbrainz.org/artist/4204913b-bcdb-4886-841a-e24c9123e233)
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
-* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
-* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Florence + the Machine](https://musicbrainz.org/artist/5fee3020-513b-48c2-b1f7-4681b01db0c6)
+* [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
+* [Brian Wilson](https://musicbrainz.org/artist/634fe78e-fc6b-4b2a-ba83-c8c66e13a8aa)
 * [Heavy Weighs the King](https://musicbrainz.org/artist/a7d20d48-3df8-41a2-8e73-463d382129ef)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
-* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
-* [Wednesday Campanella](https://musicbrainz.org/artist/f9f9f6a1-693b-43da-bbeb-70395bb0a66a)
+* [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
+* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [Už Jsme Doma](https://musicbrainz.org/artist/d98e3d40-ccc3-4c3b-a840-bff8d761f5df)
+* [Vickeblanka](https://musicbrainz.org/artist/547ea003-708f-4073-bf5d-edefbeb0f2d4)
+* [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 
