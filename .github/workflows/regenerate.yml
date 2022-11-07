@@ -12,9 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     environment: "Profile regeneration"
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Cache cargo & target directories
-        uses: Swatinem/rust-cache@v1
+        uses: Swatinem/rust-cache@v2
       - name: Install toolchain
         uses: actions-rs/toolchain@v1
         with:
