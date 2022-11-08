@@ -74,13 +74,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
-* [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
 * [Brian Wilson](https://musicbrainz.org/artist/634fe78e-fc6b-4b2a-ba83-c8c66e13a8aa)
+* [Florence + the Machine](https://musicbrainz.org/artist/5fee3020-513b-48c2-b1f7-4681b01db0c6)
 * [Heavy Weighs the King](https://musicbrainz.org/artist/a7d20d48-3df8-41a2-8e73-463d382129ef)
+* [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
+* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [Už Jsme Doma](https://musicbrainz.org/artist/d98e3d40-ccc3-4c3b-a840-bff8d761f5df)
-* [Vickeblanka](https://musicbrainz.org/artist/547ea003-708f-4073-bf5d-edefbeb0f2d4)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 
