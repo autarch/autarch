@@ -20,7 +20,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **48 original repos with commits to the default branch in the last two years**
+- **47 original repos with commits to the default branch in the last two years**
 - 312 total repos
   - 189 are forks
 
@@ -60,7 +60,7 @@ This excludes archived, disabled, empty, and private repos.
 ## GitHub Activity Stats
 - 547 PRs created
   - of which 408 were merged
-- 472 issues created
+- 473 issues created
   - of which 272 have been closed
 
 ## Language Stats
@@ -68,7 +68,7 @@ This excludes archived, disabled, empty, and private repos.
 |-----------------------|-------------------------|
 | Perl: 60%, 3.6 MB              | Perl: 66%, 5.4 MB                |
 | Rust: 35%, 2.1 MB              | Rust: 26%, 2.1 MB                |
-| Go: 3%, 216.4 KB              | Go: 4%, 369.6 KB                |
+| Go: 3%, 193.3 KB              | Go: 4%, 369.6 KB                |
 | HTML: 1%, 62.6 KB              |                 |
 
 
