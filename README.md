@@ -29,9 +29,9 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-11-07              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-11-07              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-11-06              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-11-12              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-11-07              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-11-07              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
 | [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-10-29              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-10-29              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
 | [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-10-23              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
@@ -74,13 +74,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
+* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
+* [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
+* [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
 * [Heavy Weighs the King](https://musicbrainz.org/artist/a7d20d48-3df8-41a2-8e73-463d382129ef)
-* [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
-* [Kate Bush](https://musicbrainz.org/artist/4b585938-f271-45e2-b19a-91c634b5e396)
-* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
+* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [Už Jsme Doma](https://musicbrainz.org/artist/d98e3d40-ccc3-4c3b-a840-bff8d761f5df)
-* [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 * [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
 
