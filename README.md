@@ -80,7 +80,7 @@ This excludes archived, disabled, empty, and private repos.
 * [Kate Bush](https://musicbrainz.org/artist/4b585938-f271-45e2-b19a-91c634b5e396)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
-* [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
+* [Queen](https://musicbrainz.org/artist/5eecaf18-02ec-47af-a4f2-7831db373419)
 * [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
-* [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
+* [The Dresden Dolls](https://musicbrainz.org/artist/107c7983-0728-46ea-8550-77e698adf690)
 
