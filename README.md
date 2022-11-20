@@ -12,11 +12,11 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 ## Recent Blog Posts
 
+- [Big Changes in Precious v0.4.0](https://blog.urth.org/2022/11/19/big-changes-in-precious-v0-4-0/) - 2022-11-19
 - [My Team at MongoDB is Hiring](https://blog.urth.org/2022/10/11/my-team-at-mongodb-is-hiring/) - 2022-10-11
 - [Fixing Some Bugs in My GitHub Profile Generator](https://blog.urth.org/2022/08/14/fixing-some-bugs-in-my-github-profile-generator/) - 2022-08-14
 - [What&#39;s the Right Way to Merge a Pull Request?](https://blog.urth.org/2022/07/02/what-s-the-right-way-to-merge-a-pull-request/) - 2022-07-02
 - [My Perl and Raku Conference 2022 Write-Up](https://blog.urth.org/2022/07/02/my-perl-and-raku-conference-2022-write-up/) - 2022-07-02
-- [Job Search 2022 Update: Postscript](https://blog.urth.org/2022/06/17/job-search-2022-update-postscript/) - 2022-06-17
 
 
 ## Repo Stats
@@ -29,16 +29,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-11-12              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-11-07              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-11-07              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-10-29              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-10-29              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-10-23              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-10-23              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-10-22              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
-| [houseabsolute/Params-Validate](https://github.com/houseabsolute/Params-Validate) - 2022-10-22              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
-| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-10-08              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-11-19              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-11-19              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-11-19              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-11-12              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2022-11-07              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-10-29              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-10-29              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2022-10-23              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2022-10-23              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2022-10-22              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
 
 
 ## Most Starred
@@ -61,12 +61,12 @@ This excludes archived, disabled, empty, and private repos.
 - 547 PRs created
   - of which 408 were merged
 - 473 issues created
-  - of which 272 have been closed
+  - of which 273 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
-| Perl: 60%, 3.6 MB              | Perl: 66%, 5.4 MB                |
+| Perl: 59%, 3.6 MB              | Perl: 66%, 5.4 MB                |
 | Rust: 35%, 2.1 MB              | Rust: 26%, 2.1 MB                |
 | Go: 3%, 193.3 KB              | Go: 4%, 369.6 KB                |
 | HTML: 1%, 62.6 KB              |                 |
@@ -74,13 +74,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
-* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
+* [Becca Stevens Band](https://musicbrainz.org/artist/459894f5-7152-4df1-90dd-eada2754229b)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
+* [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
+* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Queen](https://musicbrainz.org/artist/5eecaf18-02ec-47af-a4f2-7831db373419)
-* [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
 * [The Dresden Dolls](https://musicbrainz.org/artist/107c7983-0728-46ea-8550-77e698adf690)
 * [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
 
