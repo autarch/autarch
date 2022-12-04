@@ -29,11 +29,11 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/App-Sqitch-Command-pgreset](https://github.com/houseabsolute/App-Sqitch-Command-pgreset) - 2022-11-29              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [houseabsolute/Data-Validate-IP](https://github.com/houseabsolute/Data-Validate-IP) - 2022-11-28              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-11-26              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-11-26              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-11-19              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-12-03              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [houseabsolute/App-Sqitch-Command-pgreset](https://github.com/houseabsolute/App-Sqitch-Command-pgreset) - 2022-11-29              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [houseabsolute/Data-Validate-IP](https://github.com/houseabsolute/Data-Validate-IP) - 2022-11-28              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-11-26              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-11-26              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
 | [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-11-19              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-11-13              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2022-11-07              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
@@ -73,13 +73,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [Akiyama Kiro](https://musicbrainz.org/search?query=Akiyama%20Kiro&amp;type=artist&amp;method=indexed)
-* [Angélique Kidjo](https://musicbrainz.org/artist/80fe34d0-6b4f-4ccd-81c3-281ab37f0451)
 * [Animal Logic](https://musicbrainz.org/artist/22ca9189-12b6-47af-8592-7c61d8b443a8)
+* [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
+* [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Gorky&#39;s Zygotic Mynci](https://musicbrainz.org/artist/4015f3f8-2711-41de-b80b-4fee07373b12)
 * [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Queen](https://musicbrainz.org/artist/5eecaf18-02ec-47af-a4f2-7831db373419)
 * [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
-* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [The Polyphonic Spree](https://musicbrainz.org/artist/6758601f-6d57-491e-a125-037f382a5ddd)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 
