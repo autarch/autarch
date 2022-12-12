@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Aaron English](https://musicbrainz.org/artist/4204913b-bcdb-4886-841a-e24c9123e233)
+* [Anna Calvi](https://musicbrainz.org/artist/462a9ce0-e1f3-4cbc-a21e-0998003d9386)
 * [Antony and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
-* [Jude](https://musicbrainz.org/search?query=Jude&amp;type=artist&amp;method=indexed)
-* [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
-* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
-* [Peter Gabriel](https://musicbrainz.org/artist/8e66ea2b-b57b-47d9-8df0-df4630aeb8e5)
-* [Quickspace](https://musicbrainz.org/artist/7f53fb71-eb57-4b1b-973c-22ce0dff5db8)
+* [Billy Joel](https://musicbrainz.org/artist/64b94289-9474-4d43-8c93-918ccc1920d1)
+* [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
+* [Björk feat. Emilie Nicolas](https://musicbrainz.org/search?query=Bj%C3%B6rk%20feat.%20Emilie%20Nicolas&amp;type=artist&amp;method=indexed)
+* [Björk feat. Kasimyn](https://musicbrainz.org/search?query=Bj%C3%B6rk%20feat.%20Kasimyn&amp;type=artist&amp;method=indexed)
+* [Björk feat. serpentwithfeet](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
+* [Björk feat. Sindri Eldon](https://musicbrainz.org/search?query=Bj%C3%B6rk%20feat.%20Sindri%20Eldon&amp;type=artist&amp;method=indexed)
+* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
-* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
-* [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
 
