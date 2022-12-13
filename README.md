@@ -80,6 +80,6 @@ This excludes archived, disabled, empty, and private repos.
 * [Björk feat. Kasimyn](https://musicbrainz.org/search?query=Bj%C3%B6rk%20feat.%20Kasimyn&amp;type=artist&amp;method=indexed)
 * [Björk feat. serpentwithfeet](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
 * [Björk feat. Sindri Eldon](https://musicbrainz.org/search?query=Bj%C3%B6rk%20feat.%20Sindri%20Eldon&amp;type=artist&amp;method=indexed)
+* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
 
