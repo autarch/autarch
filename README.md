@@ -20,7 +20,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **47 original repos with commits to the default branch in the last two years**
+- **46 original repos with commits to the default branch in the last two years**
 - 312 total repos
   - 189 are forks
 
@@ -74,12 +74,12 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Anna Calvi](https://musicbrainz.org/artist/462a9ce0-e1f3-4cbc-a21e-0998003d9386)
 * [Antony and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
+* [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Billy Joel](https://musicbrainz.org/artist/64b94289-9474-4d43-8c93-918ccc1920d1)
 * [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
 * [Björk feat. Emilie Nicolas](https://musicbrainz.org/search?query=Bj%C3%B6rk%20feat.%20Emilie%20Nicolas&amp;type=artist&amp;method=indexed)
 * [Björk feat. Kasimyn](https://musicbrainz.org/search?query=Bj%C3%B6rk%20feat.%20Kasimyn&amp;type=artist&amp;method=indexed)
-* [Björk feat. serpentwithfeet](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
-* [Björk feat. Sindri Eldon](https://musicbrainz.org/search?query=Bj%C3%B6rk%20feat.%20Sindri%20Eldon&amp;type=artist&amp;method=indexed)
-* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
+* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 
