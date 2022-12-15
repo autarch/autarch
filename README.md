@@ -29,24 +29,24 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/List-SomeUtils](https://github.com/houseabsolute/List-SomeUtils) - 2022-12-11              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-12-04              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-12-03              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [houseabsolute/App-Sqitch-Command-pgreset](https://github.com/houseabsolute/App-Sqitch-Command-pgreset) - 2022-11-29              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [houseabsolute/Data-Validate-IP](https://github.com/houseabsolute/Data-Validate-IP) - 2022-11-28              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-11-26              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-11-26              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
-| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-11-19              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-11-13              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2022-11-07              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
+| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2022-12-14              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [houseabsolute/List-SomeUtils](https://github.com/houseabsolute/List-SomeUtils) - 2022-12-11              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [houseabsolute/Specio](https://github.com/houseabsolute/Specio) - 2022-12-04              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2022-12-03              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [houseabsolute/App-Sqitch-Command-pgreset](https://github.com/houseabsolute/App-Sqitch-Command-pgreset) - 2022-11-29              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [houseabsolute/Data-Validate-IP](https://github.com/houseabsolute/Data-Validate-IP) - 2022-11-28              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2022-11-26              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2022-11-26              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2022-11-19              | [mfontani/ubi](https://github.com/mfontani/ubi) - 2022-05-14                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2022-11-13              | [haimgel/display-switch](https://github.com/haimgel/display-switch) - 2022-05-14                |
 
 
 ## Most Starred
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 44 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 37 stars
-- [autarch/autarch](https://github.com/autarch/autarch) - 34 stars
-- [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 29 stars
+- [autarch/autarch](https://github.com/autarch/autarch) - 33 stars
+- [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 28 stars
 
 
 ## Most Forked
@@ -61,12 +61,12 @@ This excludes archived, disabled, empty, and private repos.
 - 547 PRs created
   - of which 408 were merged
 - 474 issues created
-  - of which 277 have been closed
+  - of which 278 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
-| Perl: 60%, 3.7 MB              | Perl: 66%, 5.4 MB                |
+| Perl: 60%, 3.7 MB              | Perl: 66%, 5.5 MB                |
 | Rust: 35%, 2.1 MB              | Rust: 26%, 2.1 MB                |
 | Go: 3%, 193.3 KB              | Go: 4%, 369.6 KB                |
 
