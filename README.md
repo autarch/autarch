@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
+* [David Byrne](https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9)
 * [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
 * [Ida](https://musicbrainz.org/artist/9ae28aba-ada6-426c-9567-15abc2aa01c9)
-* [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
-* [Moby](https://musicbrainz.org/artist/8970d868-0723-483b-a75b-51088913d3d4)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
-* [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
 * [Polkadot Stingray](https://musicbrainz.org/artist/0f0caf6e-e815-4ad3-93db-fb37be9adcc8)
 * [SEKAI NO OWARI](https://musicbrainz.org/artist/d9dbfe6a-8346-4337-8614-fe96aab63927)
+* [SHISHAMO](https://musicbrainz.org/artist/b4ec0834-e5e4-4dab-b909-10cb21ebf3b2)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 
