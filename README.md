@@ -77,7 +77,7 @@ This excludes archived, disabled, empty, and private repos.
 * [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [David Byrne](https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9)
-* [Ida](https://musicbrainz.org/artist/9ae28aba-ada6-426c-9567-15abc2aa01c9)
+* [Gorky&#39;s Zygotic Mynci](https://musicbrainz.org/artist/4015f3f8-2711-41de-b80b-4fee07373b12)
 * [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [Už Jsme Doma](https://musicbrainz.org/artist/d98e3d40-ccc3-4c3b-a840-bff8d761f5df)
