@@ -61,7 +61,7 @@ This excludes archived, disabled, empty, and private repos.
 - 547 PRs created
   - of which 408 were merged
 - 474 issues created
-  - of which 280 have been closed
+  - of which 281 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
@@ -81,6 +81,6 @@ This excludes archived, disabled, empty, and private repos.
 * [Gorky&#39;s Zygotic Mynci](https://musicbrainz.org/artist/4015f3f8-2711-41de-b80b-4fee07373b12)
 * [Kenichi Asai](https://musicbrainz.org/artist/72a9306d-b95b-41b7-9d04-d25768f15290)
 * [Queen](https://musicbrainz.org/artist/5eecaf18-02ec-47af-a4f2-7831db373419)
-* [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
+* [Reina &amp; The Blue Valentines](https://musicbrainz.org/search?query=Reina%20%26%20The%20Blue%20Valentines&amp;type=artist&amp;method=indexed)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 
