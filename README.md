@@ -60,8 +60,8 @@ This excludes archived, disabled, empty, and private repos.
 ## GitHub Activity Stats
 - 547 PRs created
   - of which 408 were merged
-- 474 issues created
-  - of which 281 have been closed
+- 475 issues created
+  - of which 282 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
@@ -75,11 +75,11 @@ This excludes archived, disabled, empty, and private repos.
 * [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
 * [Arcade Fire](https://musicbrainz.org/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68)
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
+* [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
+* [David Byrne](https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9)
+* [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
-* [Sting](https://musicbrainz.org/artist/7944ed53-2a58-4035-9b93-140a71e41c34)
-* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
