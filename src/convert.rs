@@ -20,6 +20,7 @@ impl From<organization_repos_query::ReposNodes> for user_repos_query::ReposNodes
             languages: repo.languages.map(|l| l.into()),
             license_info: repo.license_info.map(|l| l.into()),
             owner: repo.owner.into(),
+            parent: repo.parent.map(|p| p.into()),
             stargazer_count: repo.stargazer_count,
             url: repo.url,
         }
@@ -149,6 +150,40 @@ impl From<organization_repos_query::ReposNodesOwnerOn> for user_repos_query::Rep
             }
             organization_repos_query::ReposNodesOwnerOn::User => {
                 user_repos_query::ReposNodesOwnerOn::User
+            }
+        }
+    }
+}
+
+impl From<organization_repos_query::ReposNodesParent> for user_repos_query::ReposNodesParent {
+    fn from(parent: organization_repos_query::ReposNodesParent) -> Self {
+        Self {
+            owner: parent.owner.into(),
+        }
+    }
+}
+
+impl From<organization_repos_query::ReposNodesParentOwner>
+    for user_repos_query::ReposNodesParentOwner
+{
+    fn from(owner: organization_repos_query::ReposNodesParentOwner) -> Self {
+        Self {
+            login: owner.login,
+            on: owner.on.into(),
+        }
+    }
+}
+
+impl From<organization_repos_query::ReposNodesParentOwnerOn>
+    for user_repos_query::ReposNodesParentOwnerOn
+{
+    fn from(on: organization_repos_query::ReposNodesParentOwnerOn) -> Self {
+        match on {
+            organization_repos_query::ReposNodesParentOwnerOn::Organization => {
+                user_repos_query::ReposNodesParentOwnerOn::Organization
+            }
+            organization_repos_query::ReposNodesParentOwnerOn::User => {
+                user_repos_query::ReposNodesParentOwnerOn::User
             }
         }
     }

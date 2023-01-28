@@ -15,7 +15,10 @@ use github_queries::{
     organization_repos_query,
     // Using this very long name in the code causes rustfmt to not format any
     // block containing this name.
-    user_contributed_repos_query::UserContributedReposQueryUserRepositoriesContributedToNodesDefaultBranchRefTarget as ContributedRefTarget,
+    user_contributed_repos_query::{
+        UserContributedReposQueryUserRepositoriesContributedToNodes,
+        UserContributedReposQueryUserRepositoriesContributedToNodesDefaultBranchRefTarget as ContributedRefTarget,
+    },
     user_repos_query::{self, ReposNodes, ReposNodesLanguages},
     IssuesAndPrsQuery,
     OrganizationReposQuery,
@@ -168,6 +171,42 @@ impl ReposNodes {
             _ => None,
         }
     }
+
+    fn is_mine(&self) -> bool {
+        repo_is_mine(&self.owner.login)
+    }
+
+    fn is_fork_of_mine(&self) -> bool {
+        if !self.is_fork {
+            return false;
+        }
+        let parent = self
+            .parent
+            .as_ref()
+            .unwrap_or_else(|| panic!("Repo {} is a fork but has no parent", self.name_with_owner));
+        repo_is_mine(&parent.owner.login)
+    }
+}
+
+impl UserContributedReposQueryUserRepositoriesContributedToNodes {
+    fn is_mine(&self) -> bool {
+        repo_is_mine(&self.owner.login)
+    }
+
+    fn is_fork_of_mine(&self) -> bool {
+        if !self.is_fork {
+            return false;
+        }
+        let parent = self
+            .parent
+            .as_ref()
+            .unwrap_or_else(|| panic!("Repo {} is a fork but has no parent", self.name_with_owner));
+        repo_is_mine(&parent.owner.login)
+    }
+}
+
+fn repo_is_mine(login: &str) -> bool {
+    login == MY_LOGIN || login == MY_ORG
 }
 
 impl OneRepo {
@@ -468,7 +507,12 @@ fn collect_user_repo_stats(
 
         // Only repos I own are counted for stats, but I want to save others
         // to show recent commits I made to other repos.
-        if !(repo.owner.login == MY_LOGIN || repo.owner.login == MY_ORG) {
+        if !repo.is_mine() {
+            if repo.is_fork_of_mine() {
+                tracing::debug!("Skipping fork of my own repo: {}", repo.name_with_owner);
+                continue;
+            }
+
             let committed_date = repo.committed_date();
             if committed_date.is_none() {
                 continue;
@@ -555,13 +599,22 @@ async fn get_other_repos(client: &Client, stats: &mut UserAndRepoStats) -> Resul
             .into_iter()
             .flatten()
         {
-            if repo.owner.login == MY_LOGIN || repo.owner.login == MY_ORG {
+            if repo.is_mine() {
+                tracing::debug!(
+                    "Skipping my own repo returned in other repos query: {}",
+                    repo.name_with_owner,
+                );
                 continue;
             }
             if WORK_REPOS.contains(repo.owner.login.as_str()) {
                 tracing::debug!("Skipping work repo owned by {}", repo.owner.login);
                 continue;
             }
+            if repo.is_fork_of_mine() {
+                tracing::debug!("Skipping fork of my own repo: {}", repo.name_with_owner);
+                continue;
+            }
+
             let committed_date = match repo
                 .default_branch_ref
                 .unwrap_or_else(|| {

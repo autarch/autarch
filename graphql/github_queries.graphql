@@ -49,6 +49,12 @@ fragment repos on RepositoryConnection {
       __typename
       login
     }
+    parent {
+      owner {
+        __typename
+        login
+      }
+    }
     stargazerCount
     url
   }
@@ -122,10 +128,17 @@ query UserContributedReposQuery($login: String!, $email: String!, $after: String
             }
           }
         }
+        isFork
         nameWithOwner
         owner {
           __typename
           login
+        }
+        parent {
+          owner {
+            __typename
+            login
+          }
         }
         url
       }
