@@ -29,11 +29,13 @@ jobs:
         run: |
           git config --global user.email "murderbot@example.com"
           git config --global user.name "Murderbot"
-      - name: Commit and push if changed
+      - name: Run generator
         run: |
           set -e
           set -x
           RUST_LOG=debug GITHUB_TOKEN=${{ github.token }} LAST_FM_API_KEY=${{ secrets.LAST_FM_API_KEY }} ./target/debug/generator
+      - name: Commit and push if changed
+        run: |
           if [[ `git status --porcelain` ]]; then
               git commit -a -m 'Regenerated profile README.md'
               git push
