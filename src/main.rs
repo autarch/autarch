@@ -188,7 +188,7 @@ impl From<ReposNodes> for OneRepo {
             )
         });
         let committed_date = DateTime::parse_from_rfc3339(date_str)
-            .unwrap_or_else(|e| panic!("Could not parse '{}' as RFC3339 datetime: {e}", date_str))
+            .unwrap_or_else(|e| panic!("Could not parse '{date_str}' as RFC3339 datetime: {e}"))
             .with_timezone(&Utc)
             .format(DATE_FORMAT)
             .to_string();
@@ -214,9 +214,9 @@ async fn main() -> Result<()> {
 
     let token = env::var("GITHUB_TOKEN")
         .expect("You must set the GITHUB_TOKEN env var when running this program");
-    let bearer = format!("Bearer {}", token);
+    let bearer = format!("Bearer {token}");
     let client = Client::builder()
-        .user_agent(format!("autarch-profiler-generator/{}", VERSION))
+        .user_agent(format!("autarch-profiler-generator/{VERSION}"))
         .default_headers(
             std::iter::once((
                 reqwest::header::AUTHORIZATION,
@@ -291,7 +291,7 @@ async fn blog_posts() -> Result<Vec<BlogPost>> {
             )?;
             Ok(BlogPost {
                 title: title.to_string(),
-                date: dt.date().format(DATE_FORMAT).to_string(),
+                date: dt.date_naive().format(DATE_FORMAT).to_string(),
                 url: i
                     .link()
                     .unwrap_or_else(|| panic!("Blog post '{title}', has no link"))
@@ -682,7 +682,7 @@ fn collect_language_stats(
             let color = language_color(lang, lang_names_and_colors[i].1);
             let size = lang_sizes[i];
             if let Some(v) = stats.get_mut(lang) {
-                (*v).1 += size;
+                v.1 += size;
             } else {
                 stats.insert(lang.to_string(), (color.to_string(), size));
             }
@@ -690,7 +690,7 @@ fn collect_language_stats(
     }
 }
 
-fn language_color<'a, 'b>(lang: &'a str, color: Option<&'b str>) -> &'b str {
+fn language_color<'a>(lang: &str, color: Option<&'a str>) -> &'a str {
     match color {
         Some(c) => c,
         None => match lang {
@@ -752,7 +752,7 @@ fn top_languages(languages: &HashMap<String, (String, i64)>) -> Vec<LanguageStat
         }
         top.push(LanguageStat {
             name,
-            color: *colors.get(name).unwrap(),
+            color: colors.get(name).unwrap(),
             percentage: pct.round() as i64,
             bytes: human_bytes(sum as f64),
         })
