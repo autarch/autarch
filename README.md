@@ -73,13 +73,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [Antony and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
-* [Arcade Fire](https://musicbrainz.org/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68)
-* [Becca Stevens &amp; The Secret Trio](https://musicbrainz.org/artist/7bbd3cf6-5885-40c7-a3d0-f47d10ef2f4c)
 * [Billy Joel](https://musicbrainz.org/artist/64b94289-9474-4d43-8c93-918ccc1920d1)
 * [CHVRCHΞS](https://musicbrainz.org/artist/6a93afbb-257f-4166-b389-9f2a1e5c5df8)
+* [Gorky&#39;s Zygotic Mynci](https://musicbrainz.org/artist/4015f3f8-2711-41de-b80b-4fee07373b12)
 * [Miyuna](https://musicbrainz.org/artist/716ddb3a-06c0-433b-9d75-ff39f46eebc4)
 * [Mono Puff](https://musicbrainz.org/artist/54273aba-2714-4648-a64c-5dfda8cd6caa)
 * [Ruelle](https://musicbrainz.org/artist/ec537684-67ef-45a5-a783-74f913e8e01a)
 * [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
+* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [Vickeblanka](https://musicbrainz.org/artist/547ea003-708f-4073-bf5d-edefbeb0f2d4)
 
