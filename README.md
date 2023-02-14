@@ -72,11 +72,11 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Arcade Fire](https://musicbrainz.org/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68)
+* [Animal Logic](https://musicbrainz.org/artist/22ca9189-12b6-47af-8592-7c61d8b443a8)
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
 * [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
-* [Hey Ocean!](https://musicbrainz.org/artist/6eae7091-1cca-48de-b535-2c878afff6c7)
+* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [Husking Bee](https://musicbrainz.org/artist/41fd93c6-8f41-4b14-9968-0e13249fa340)
 * [Kenichi Asai](https://musicbrainz.org/artist/72a9306d-b95b-41b7-9d04-d25768f15290)
 * [Sting](https://musicbrainz.org/artist/7944ed53-2a58-4035-9b93-140a71e41c34)
