@@ -20,7 +20,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **48 original repos with commits to the default branch in the last two years**
+- **47 original repos with commits to the default branch in the last two years**
 - 312 total repos
   - 189 are forks
 
@@ -29,8 +29,8 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2023-02-12              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-02-11              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-02-14              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2023-02-12              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
 | [houseabsolute/HTML-Mason](https://github.com/houseabsolute/HTML-Mason) - 2023-02-11              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
 | [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-02-05              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-01-29              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
@@ -44,7 +44,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Most Starred
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 37 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 38 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 33 stars
 - [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 28 stars
 
@@ -66,20 +66,20 @@ This excludes archived, disabled, empty, and private repos.
 ## Language Stats
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
-| Perl: 59%, 4.4 MiB              | Perl: 62%, 5.5 MiB                |
+| Perl: 59%, 4.3 MiB              | Perl: 62%, 5.5 MiB                |
 | Rust: 36%, 2.7 MiB              | Rust: 30%, 2.7 MiB                |
 | Go: 3%, 231.9 KiB              | Go: 4%, 369.4 KiB                |
 
 
 ## Top Artists for the Past Week
-* [Animal Logic](https://musicbrainz.org/artist/22ca9189-12b6-47af-8592-7c61d8b443a8)
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
 * [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
+* [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [Husking Bee](https://musicbrainz.org/artist/41fd93c6-8f41-4b14-9968-0e13249fa340)
 * [Kenichi Asai](https://musicbrainz.org/artist/72a9306d-b95b-41b7-9d04-d25768f15290)
+* [SHERBETS](https://musicbrainz.org/artist/e822c847-fb13-4795-bd4a-f099b85d6ad2)
 * [Sting](https://musicbrainz.org/artist/7944ed53-2a58-4035-9b93-140a71e41c34)
 * [Už Jsme Doma](https://musicbrainz.org/artist/d98e3d40-ccc3-4c3b-a840-bff8d761f5df)
-* [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
 
