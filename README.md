@@ -21,8 +21,8 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 ## Repo Stats
 - **47 original repos with commits to the default branch in the last two years**
-- 312 total repos
-  - 189 are forks
+- 313 total repos
+  - 190 are forks
 
 This excludes archived, disabled, empty, and private repos.
 
@@ -74,12 +74,12 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
-* [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Kenichi Asai](https://musicbrainz.org/artist/72a9306d-b95b-41b7-9d04-d25768f15290)
-* [SHERBETS](https://musicbrainz.org/artist/e822c847-fb13-4795-bd4a-f099b85d6ad2)
-* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
+* [Led Zeppelin](https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3)
+* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [The Sweeplings](https://musicbrainz.org/artist/93ba3d71-e55f-4278-b104-6d2483f941f4)
 * [Už Jsme Doma](https://musicbrainz.org/artist/d98e3d40-ccc3-4c3b-a840-bff8d761f5df)
+* [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
 
