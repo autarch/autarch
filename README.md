@@ -29,11 +29,11 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-02-14              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2023-02-12              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [houseabsolute/HTML-Mason](https://github.com/houseabsolute/HTML-Mason) - 2023-02-11              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-02-05              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-01-29              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-02-19              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-02-14              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2023-02-12              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [houseabsolute/HTML-Mason](https://github.com/houseabsolute/HTML-Mason) - 2023-02-11              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-02-05              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2022-07-03                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2023-01-28              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
 | [autarch/intro-to-go-class](https://github.com/autarch/intro-to-go-class) - 2023-01-26              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
 | [autarch/intro-to-go-class-exercises](https://github.com/autarch/intro-to-go-class-exercises) - 2023-01-26              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
@@ -73,13 +73,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
-* [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
+* [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Kenichi Asai](https://musicbrainz.org/artist/72a9306d-b95b-41b7-9d04-d25768f15290)
-* [Led Zeppelin](https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3)
-* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
+* [Neko Case](https://musicbrainz.org/artist/e13d2935-8c42-4c0a-96d7-654062acf106)
 * [Queen](https://musicbrainz.org/artist/5eecaf18-02ec-47af-a4f2-7831db373419)
-* [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
-* [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
+* [The Sweeplings](https://musicbrainz.org/artist/93ba3d71-e55f-4278-b104-6d2483f941f4)
+* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
+* [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 
