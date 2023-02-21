@@ -74,12 +74,12 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [CHVRCHΞS](https://musicbrainz.org/artist/6a93afbb-257f-4166-b389-9f2a1e5c5df8)
-* [Dionne Farris](https://musicbrainz.org/artist/b03fc204-7564-4ceb-8b9a-aaac372a8911)
+* [David Byrne](https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
-* [OfficialHigeDandism](https://musicbrainz.org/search?query=OfficialHigeDandism&amp;type=artist&amp;method=indexed)
 * [Queen](https://musicbrainz.org/artist/5eecaf18-02ec-47af-a4f2-7831db373419)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
+* [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 * [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
+* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
