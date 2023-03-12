@@ -29,11 +29,11 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/detest](https://github.com/houseabsolute/detest) - 2023-03-10              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-11                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-03-07              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-02-19                |
-| [autarch/intro-to-go-class](https://github.com/autarch/intro-to-go-class) - 2023-03-06              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
-| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-03-05              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-03-05              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-03-12              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-11                |
+| [houseabsolute/detest](https://github.com/houseabsolute/detest) - 2023-03-10              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-02-19                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-03-07              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [autarch/intro-to-go-class](https://github.com/autarch/intro-to-go-class) - 2023-03-06              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-03-05              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-03-05              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
 | [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-02-22              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
 | [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2023-02-19              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
@@ -59,7 +59,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## GitHub Activity Stats
 - 549 PRs created
-  - of which 408 were merged
+  - of which 409 were merged
 - 479 issues created
   - of which 286 have been closed
 
@@ -74,12 +74,12 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
+* [Cibo Matto](https://musicbrainz.org/artist/dc4968ba-1fe0-43b9-bba0-81c09acd6326)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Square Enix Music](https://musicbrainz.org/artist/63bcc03f-8c18-4884-b390-8a4a1be161e2)
-* [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
 * [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
 * [The Dresden Dolls](https://musicbrainz.org/artist/107c7983-0728-46ea-8550-77e698adf690)
-* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
+* [椎名林檎](https://musicbrainz.org/artist/9e414497-23b7-4ab7-9ec6-8ea9864c9e87)
 
