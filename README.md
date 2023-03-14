@@ -78,7 +78,7 @@ This excludes archived, disabled, empty, and private repos.
 * [Cibo Matto](https://musicbrainz.org/artist/dc4968ba-1fe0-43b9-bba0-81c09acd6326)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Superfly](https://musicbrainz.org/artist/0f19e966-f80e-47b1-be5e-e6dc1425e860)
+* [Superfly](https://musicbrainz.org/search?query=Superfly&amp;type=artist&amp;method=indexed)
 * [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
 * [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
