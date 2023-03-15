@@ -29,16 +29,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-03-12              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-11                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-03-12              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-02-19                |
-| [houseabsolute/detest](https://github.com/houseabsolute/detest) - 2023-03-10              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-03-07              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [autarch/intro-to-go-class](https://github.com/autarch/intro-to-go-class) - 2023-03-06              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-03-05              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-02-22              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2023-02-19              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [houseabsolute/HTML-Mason](https://github.com/houseabsolute/HTML-Mason) - 2023-02-11              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2023-01-28              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
+| [autarch/intro-to-go-class](https://github.com/autarch/intro-to-go-class) - 2023-03-14              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-11                |
+| [autarch/intro-to-go-class-exercises](https://github.com/autarch/intro-to-go-class-exercises) - 2023-03-14              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-02-19                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-03-12              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-03-12              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [houseabsolute/detest](https://github.com/houseabsolute/detest) - 2023-03-10              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-03-07              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-03-05              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-02-22              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [houseabsolute/tailwindcss-to-rust](https://github.com/houseabsolute/tailwindcss-to-rust) - 2023-02-19              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [houseabsolute/HTML-Mason](https://github.com/houseabsolute/HTML-Mason) - 2023-02-11              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
 
 
 ## Most Starred
@@ -68,18 +68,18 @@ This excludes archived, disabled, empty, and private repos.
 |-----------------------|-------------------------|
 | Perl: 58%, 4.3 MiB              | Perl: 62%, 5.5 MiB                |
 | Rust: 37%, 2.7 MiB              | Rust: 31%, 2.7 MiB                |
-| Go: 3%, 232 KiB              | Go: 4%, 369.4 KiB                |
+| Go: 3%, 232.1 KiB              | Go: 4%, 369.5 KiB                |
 
 
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
+* [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Cibo Matto](https://musicbrainz.org/artist/dc4968ba-1fe0-43b9-bba0-81c09acd6326)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Superfly](https://musicbrainz.org/search?query=Superfly&amp;type=artist&amp;method=indexed)
-* [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
 * [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
+* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
