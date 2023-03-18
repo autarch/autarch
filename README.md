@@ -12,11 +12,11 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 ## Recent Blog Posts
 
+- [Sleep No More Is My New Favorite Videogame](https://blog.urth.org/2023/03/17/sleep-no-more-is-my-new-favorite-videogame/) - 2023-03-17
 - [Cross Compiling Rust Projects in GitHub Actions](https://blog.urth.org/2023/03/05/cross-compiling-rust-projects-in-github-actions/) - 2023-03-05
 - [All My Perl Modules Are in Maintenance Mode](https://blog.urth.org/2023/02/11/all-my-perl-modules-are-in-maintenance-mode/) - 2023-02-11
 - [Big Changes in Precious v0.4.0](https://blog.urth.org/2022/11/19/big-changes-in-precious-v0-4-0/) - 2022-11-19
 - [My Team at MongoDB is Hiring](https://blog.urth.org/2022/10/11/my-team-at-mongodb-is-hiring/) - 2022-10-11
-- [Fixing Some Bugs in My GitHub Profile Generator](https://blog.urth.org/2022/08/14/fixing-some-bugs-in-my-github-profile-generator/) - 2022-08-14
 
 
 ## Repo Stats
@@ -29,14 +29,14 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2023-03-17              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-11                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-03-15              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-02-19                |
-| [autarch/intro-to-go-class](https://github.com/autarch/intro-to-go-class) - 2023-03-14              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
-| [autarch/intro-to-go-class-exercises](https://github.com/autarch/intro-to-go-class-exercises) - 2023-03-14              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-03-12              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-03-12              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [houseabsolute/detest](https://github.com/houseabsolute/detest) - 2023-03-10              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-03-07              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-03-17              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-11                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2023-03-17              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-02-19                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-03-15              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [autarch/intro-to-go-class](https://github.com/autarch/intro-to-go-class) - 2023-03-14              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [autarch/intro-to-go-class-exercises](https://github.com/autarch/intro-to-go-class-exercises) - 2023-03-14              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-03-12              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-03-12              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [houseabsolute/detest](https://github.com/houseabsolute/detest) - 2023-03-10              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
 | [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-03-05              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
 | [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-02-22              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
 
@@ -61,7 +61,7 @@ This excludes archived, disabled, empty, and private repos.
 - 549 PRs created
   - of which 409 were merged
 - 480 issues created
-  - of which 286 have been closed
+  - of which 287 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
