@@ -30,14 +30,14 @@ This excludes archived, disabled, empty, and private repos.
 | My Repos | Others |
 |----------|--------|
 | [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-03-17              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-11                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2023-03-17              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-02-19                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-03-15              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
-| [autarch/intro-to-go-class](https://github.com/autarch/intro-to-go-class) - 2023-03-14              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [autarch/intro-to-go-class-exercises](https://github.com/autarch/intro-to-go-class-exercises) - 2023-03-14              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-03-12              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-03-12              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [houseabsolute/detest](https://github.com/houseabsolute/detest) - 2023-03-10              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
-| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-03-05              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-03-17              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-02-19                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2023-03-17              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-03-15              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [autarch/intro-to-go-class](https://github.com/autarch/intro-to-go-class) - 2023-03-14              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [autarch/intro-to-go-class-exercises](https://github.com/autarch/intro-to-go-class-exercises) - 2023-03-14              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-03-12              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-03-12              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [houseabsolute/detest](https://github.com/houseabsolute/detest) - 2023-03-10              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2022-06-29                |
 | [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-02-22              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
 
 
