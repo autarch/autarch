@@ -29,9 +29,9 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-03-25              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-03-25              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-02-19                |
-| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2023-03-24              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2023-03-29              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-03-25              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-02-19                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-03-25              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
 | [houseabsolute/Params-ValidationCompiler](https://github.com/houseabsolute/Params-ValidationCompiler) - 2023-03-23              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
 | [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-03-21              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
 | [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-03-20              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
@@ -44,7 +44,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Most Starred
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 38 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 39 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 33 stars
 - [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 28 stars
 
@@ -60,7 +60,7 @@ This excludes archived, disabled, empty, and private repos.
 ## GitHub Activity Stats
 - 549 PRs created
   - of which 409 were merged
-- 480 issues created
+- 481 issues created
   - of which 289 have been closed
 
 ## Language Stats
@@ -75,11 +75,11 @@ This excludes archived, disabled, empty, and private repos.
 * [Arcade Fire](https://musicbrainz.org/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68)
 * [Bat for Lashes](https://musicbrainz.org/artist/10000730-525f-4ed5-aaa8-92888f060f5f)
 * [Genesis](https://musicbrainz.org/search?query=Genesis&amp;type=artist&amp;method=indexed)
-* [Miranda Sex Garden](https://musicbrainz.org/artist/ba5d56ac-b8c4-46ef-8c06-1c1f6a35584f)
+* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Mrs. GREEN APPLE](https://musicbrainz.org/artist/9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2)
 * [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
-* [Queen](https://musicbrainz.org/artist/0383dadf-2a4e-4d10-a46a-e9e041da8eb3)
+* [Prince](https://musicbrainz.org/artist/070d193a-845c-479f-980e-bef15710653e)
+* [Ryokuoshokushakai](https://musicbrainz.org/search?query=Ryokuoshokushakai&amp;type=artist&amp;method=indexed)
+* [Sigur Rós](https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8)
 * [Sound Horizon](https://musicbrainz.org/artist/b042defc-4d12-414d-a678-0dcabefffa26)
-* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
-* [Wednesday Campanella](https://musicbrainz.org/artist/f9f9f6a1-693b-43da-bbeb-70395bb0a66a)
 
