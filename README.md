@@ -72,13 +72,13 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [Bat for Lashes](https://musicbrainz.org/artist/10000730-525f-4ed5-aaa8-92888f060f5f)
 * [Big Hat](https://musicbrainz.org/artist/5c404a8a-abc7-466b-b5ff-08cf3b4cc75c)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Cocteau Twins](https://musicbrainz.org/artist/000fc734-b7e1-4a01-92d1-f544261b43f5)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
 * [OfficialHigeDandism](https://musicbrainz.org/search?query=OfficialHigeDandism&amp;type=artist&amp;method=indexed)
 * [Supercar](https://musicbrainz.org/artist/dc5cd3ad-fa36-42e0-acd4-2c9d87f82ea6)
 * [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
