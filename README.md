@@ -12,11 +12,11 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 ## Recent Blog Posts
 
+- [Naming Your Binary Executable Releases](https://blog.urth.org/2023/04/16/naming-your-binary-executable-releases/) - 2023-04-16
 - [Come (Maybe) Be the Boss of Me](https://blog.urth.org/2023/03/21/come-maybe-be-the-boss-of-me/) - 2023-03-21
 - [Sleep No More Is My New Favorite Videogame](https://blog.urth.org/2023/03/17/sleep-no-more-is-my-new-favorite-videogame/) - 2023-03-17
 - [Cross Compiling Rust Projects in GitHub Actions](https://blog.urth.org/2023/03/05/cross-compiling-rust-projects-in-github-actions/) - 2023-03-05
 - [All My Perl Modules Are in Maintenance Mode](https://blog.urth.org/2023/02/11/all-my-perl-modules-are-in-maintenance-mode/) - 2023-02-11
-- [Big Changes in Precious v0.4.0](https://blog.urth.org/2022/11/19/big-changes-in-precious-v0-4-0/) - 2022-11-19
 
 
 ## Repo Stats
@@ -29,15 +29,15 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/datagen-issue](https://github.com/autarch/datagen-issue) - 2023-04-15              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-04-14              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
-| [autarch/presentations](https://github.com/autarch/presentations) - 2023-04-14              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-02-19                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-04-14              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-04-14              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-04-12              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-04-10              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [houseabsolute/Log-Dispatch](https://github.com/houseabsolute/Log-Dispatch) - 2023-04-06              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-04-04              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-04-16              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
+| [autarch/datagen-issue](https://github.com/autarch/datagen-issue) - 2023-04-15              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-04-14              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-02-19                |
+| [autarch/presentations](https://github.com/autarch/presentations) - 2023-04-14              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-04-14              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-04-14              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-04-12              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-04-10              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [houseabsolute/Log-Dispatch](https://github.com/houseabsolute/Log-Dispatch) - 2023-04-06              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
 | [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2023-03-29              | [djkoloski/davidkoloski_me](https://github.com/djkoloski/davidkoloski_me) - 2022-06-05                |
 
 
@@ -74,12 +74,12 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
-* [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
+* [Husking Bee](https://musicbrainz.org/artist/41fd93c6-8f41-4b14-9968-0e13249fa340)
 * [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
 * [SEKAI NO OWARI](https://musicbrainz.org/artist/d9dbfe6a-8346-4337-8614-fe96aab63927)
-* [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
+* [Sigur Rós](https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8)
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
-* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [Tommy february6](https://musicbrainz.org/artist/ec53333e-2067-44ba-8222-79a40cbef550)
 
