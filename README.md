@@ -44,9 +44,9 @@ This excludes archived, disabled, empty, and private repos.
 ## Most Starred
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 41 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 42 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 33 stars
-- [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 28 stars
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 29 stars
 
 
 ## Most Forked
@@ -54,7 +54,7 @@ This excludes archived, disabled, empty, and private repos.
 - [houseabsolute/test-class-moose](https://github.com/houseabsolute/test-class-moose) - 31 forks
 - [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 29 forks
 - [houseabsolute/Log-Dispatch](https://github.com/houseabsolute/Log-Dispatch) - 28 forks
-- [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 21 forks
+- [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 22 forks
 
 
 ## GitHub Activity Stats
@@ -78,8 +78,8 @@ This excludes archived, disabled, empty, and private repos.
 * [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
+* [Queen](https://musicbrainz.org/artist/0383dadf-2a4e-4d10-a46a-e9e041da8eb3)
 * [SEKAI NO OWARI](https://musicbrainz.org/artist/d9dbfe6a-8346-4337-8614-fe96aab63927)
-* [Sigur Rós](https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8)
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [Tommy february6](https://musicbrainz.org/artist/ec53333e-2067-44ba-8222-79a40cbef550)
 
