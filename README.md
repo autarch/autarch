@@ -46,7 +46,7 @@ This excludes archived, disabled, empty, and private repos.
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 42 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 33 stars
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 29 stars
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 30 stars
 
 
 ## Most Forked
@@ -60,7 +60,7 @@ This excludes archived, disabled, empty, and private repos.
 ## GitHub Activity Stats
 - 551 PRs created
   - of which 410 were merged
-- 482 issues created
+- 483 issues created
   - of which 291 have been closed
 
 ## Language Stats
@@ -74,10 +74,10 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
+* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [Husking Bee](https://musicbrainz.org/artist/41fd93c6-8f41-4b14-9968-0e13249fa340)
 * [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Sigur Rós](https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8)
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [Tommy february6](https://musicbrainz.org/artist/ec53333e-2067-44ba-8222-79a40cbef550)
 * [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
