@@ -21,8 +21,8 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 ## Repo Stats
 - **49 original repos with commits to the default branch in the last two years**
-- 317 total repos
-  - 192 are forks
+- 318 total repos
+  - 193 are forks
 
 This excludes archived, disabled, empty, and private repos.
 
@@ -30,7 +30,7 @@ This excludes archived, disabled, empty, and private repos.
 | My Repos | Others |
 |----------|--------|
 | [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-04-22              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-04-21              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-04-22              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
 | [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-04-16              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-02-19                |
 | [autarch/datagen-issue](https://github.com/autarch/datagen-issue) - 2023-04-15              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
 | [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-04-14              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
@@ -58,7 +58,7 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## GitHub Activity Stats
-- 551 PRs created
+- 552 PRs created
   - of which 410 were merged
 - 484 issues created
   - of which 293 have been closed
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
+* [Antony and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
+* [Bat for Lashes](https://musicbrainz.org/artist/10000730-525f-4ed5-aaa8-92888f060f5f)
+* [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Husking Bee](https://musicbrainz.org/artist/41fd93c6-8f41-4b14-9968-0e13249fa340)
-* [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
-* [Sigur Rós](https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8)
-* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [The Polyphonic Spree](https://musicbrainz.org/artist/6758601f-6d57-491e-a125-037f382a5ddd)
+* [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
 * [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
+* [椎名林檎](https://musicbrainz.org/artist/9e414497-23b7-4ab7-9ec6-8ea9864c9e87)
 
