@@ -20,7 +20,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **49 original repos with commits to the default branch in the last two years**
+- **48 original repos with commits to the default branch in the last two years**
 - 318 total repos
   - 193 are forks
 
@@ -66,8 +66,8 @@ This excludes archived, disabled, empty, and private repos.
 ## Language Stats
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
-| Perl: 59%, 4.5 MiB              | Perl: 62%, 5.5 MiB                |
-| Rust: 36%, 2.8 MiB              | Rust: 31%, 2.8 MiB                |
+| Perl: 61%, 4.5 MiB              | Perl: 62%, 5.5 MiB                |
+| Rust: 34%, 2.4 MiB              | Rust: 31%, 2.8 MiB                |
 | Go: 3%, 232.1 KiB              | Go: 4%, 369.5 KiB                |
 
 
@@ -77,9 +77,9 @@ This excludes archived, disabled, empty, and private repos.
 * [Husking Bee](https://musicbrainz.org/artist/41fd93c6-8f41-4b14-9968-0e13249fa340)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
+* [My Brightest Diamond](https://musicbrainz.org/artist/15f835dc-ee52-4b74-b889-113678f54119)
 * [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
-* [The Cardigans](https://musicbrainz.org/artist/3e55d51d-687f-4a9d-af96-2fabccf802e5)
 * [The Polyphonic Spree](https://musicbrainz.org/artist/6758601f-6d57-491e-a125-037f382a5ddd)
-* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
+* [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
 * [椎名林檎](https://musicbrainz.org/artist/9e414497-23b7-4ab7-9ec6-8ea9864c9e87)
 
