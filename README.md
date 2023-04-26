@@ -46,7 +46,7 @@ This excludes archived, disabled, empty, and private repos.
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 42 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 33 stars
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 30 stars
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 31 stars
 
 
 ## Most Forked
@@ -75,11 +75,11 @@ This excludes archived, disabled, empty, and private repos.
 * [Bat for Lashes](https://musicbrainz.org/artist/10000730-525f-4ed5-aaa8-92888f060f5f)
 * [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
 * [Husking Bee](https://musicbrainz.org/artist/41fd93c6-8f41-4b14-9968-0e13249fa340)
-* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
 * [My Brightest Diamond](https://musicbrainz.org/artist/15f835dc-ee52-4b74-b889-113678f54119)
 * [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
+* [The Decemberists](https://musicbrainz.org/artist/97b1142f-c71e-4971-8736-4a8ceaf6b4c3)
 * [The Polyphonic Spree](https://musicbrainz.org/artist/6758601f-6d57-491e-a125-037f382a5ddd)
+* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
-* [椎名林檎](https://musicbrainz.org/artist/9e414497-23b7-4ab7-9ec6-8ea9864c9e87)
 
