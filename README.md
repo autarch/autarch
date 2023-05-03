@@ -20,7 +20,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **49 original repos with commits to the default branch in the last two years**
+- **48 original repos with commits to the default branch in the last two years**
 - 320 total repos
   - 194 are forks
 
@@ -46,7 +46,7 @@ This excludes archived, disabled, empty, and private repos.
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 41 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 33 stars
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 31 stars
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 33 stars
 
 
 ## Most Forked
@@ -66,7 +66,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Language Stats
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
-| Perl: 61%, 4.5 MiB              | Perl: 62%, 5.5 MiB                |
+| Perl: 61%, 4.4 MiB              | Perl: 62%, 5.5 MiB                |
 | Rust: 34%, 2.4 MiB              | Rust: 31%, 2.8 MiB                |
 | Go: 3%, 232.1 KiB              | Go: 4%, 369.5 KiB                |
 
@@ -74,12 +74,12 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Bat for Lashes](https://musicbrainz.org/artist/10000730-525f-4ed5-aaa8-92888f060f5f)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
+* [Genesis](https://musicbrainz.org/search?query=Genesis&amp;type=artist&amp;method=indexed)
 * [Kenichi Asai](https://musicbrainz.org/artist/72a9306d-b95b-41b7-9d04-d25768f15290)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
-* [My Scarlet Life](https://musicbrainz.org/artist/ab608a14-05c3-42e6-80f0-57e238011058)
 * [Peter Gabriel](https://musicbrainz.org/artist/8e66ea2b-b57b-47d9-8df0-df4630aeb8e5)
 * [Supercar](https://musicbrainz.org/artist/dc5cd3ad-fa36-42e0-acd4-2c9d87f82ea6)
 * [Superfly](https://musicbrainz.org/search?query=Superfly&amp;type=artist&amp;method=indexed)
+* [Swans](https://musicbrainz.org/artist/3285dc48-9505-469d-ad8a-bdf2d3dba632)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
-* [Yes](https://musicbrainz.org/artist/8353f93f-163e-48c2-bb75-9f18987a3d46)
 
