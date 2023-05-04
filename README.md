@@ -29,16 +29,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/autarch](https://github.com/autarch/autarch) - 2023-04-30              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
-| [houseabsolute/omegasort-rs](https://github.com/houseabsolute/omegasort-rs) - 2023-04-30              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
-| [houseabsolute/Time-Local](https://github.com/houseabsolute/Time-Local) - 2023-04-29              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-04-23              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-04-23              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
-| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-04-22              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-04-16              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [autarch/datagen-issue](https://github.com/autarch/datagen-issue) - 2023-04-15              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-04-14              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
-| [autarch/presentations](https://github.com/autarch/presentations) - 2023-04-14              | [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps) - 2022-07-02                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2023-04-30              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/omegasort-rs](https://github.com/houseabsolute/omegasort-rs) - 2023-04-30              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
+| [houseabsolute/Time-Local](https://github.com/houseabsolute/Time-Local) - 2023-04-29              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-04-23              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-04-23              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-04-22              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-04-16              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [autarch/datagen-issue](https://github.com/autarch/datagen-issue) - 2023-04-15              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-04-14              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [autarch/presentations](https://github.com/autarch/presentations) - 2023-04-14              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
 
 
 ## Most Starred
@@ -59,7 +59,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## GitHub Activity Stats
 - 553 PRs created
-  - of which 411 were merged
+  - of which 412 were merged
 - 486 issues created
   - of which 294 have been closed
 
@@ -75,11 +75,11 @@ This excludes archived, disabled, empty, and private repos.
 * [Bat for Lashes](https://musicbrainz.org/artist/10000730-525f-4ed5-aaa8-92888f060f5f)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Genesis](https://musicbrainz.org/search?query=Genesis&amp;type=artist&amp;method=indexed)
-* [Kenichi Asai](https://musicbrainz.org/artist/72a9306d-b95b-41b7-9d04-d25768f15290)
+* [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
+* [Neko Case](https://musicbrainz.org/artist/e13d2935-8c42-4c0a-96d7-654062acf106)
 * [Peter Gabriel](https://musicbrainz.org/artist/8e66ea2b-b57b-47d9-8df0-df4630aeb8e5)
 * [Supercar](https://musicbrainz.org/artist/dc5cd3ad-fa36-42e0-acd4-2c9d87f82ea6)
 * [Superfly](https://musicbrainz.org/search?query=Superfly&amp;type=artist&amp;method=indexed)
-* [Swans](https://musicbrainz.org/artist/3285dc48-9505-469d-ad8a-bdf2d3dba632)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 
