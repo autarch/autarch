@@ -29,7 +29,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/omegasort-rs](https://github.com/houseabsolute/omegasort-rs) - 2023-05-06              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/omegasort-rs](https://github.com/houseabsolute/omegasort-rs) - 2023-05-07              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2023-04-30              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
 | [houseabsolute/Time-Local](https://github.com/houseabsolute/Time-Local) - 2023-04-29              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
 | [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-04-23              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
@@ -60,7 +60,7 @@ This excludes archived, disabled, empty, and private repos.
 ## GitHub Activity Stats
 - 553 PRs created
   - of which 412 were merged
-- 486 issues created
+- 487 issues created
   - of which 294 have been closed
 
 ## Language Stats
@@ -73,13 +73,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
+* [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
 * [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Genesis](https://musicbrainz.org/search?query=Genesis&amp;type=artist&amp;method=indexed)
+* [Do As Infinity](https://musicbrainz.org/artist/b128a994-2400-432d-b26a-8feede87daa8)
 * [Guesch Patti](https://musicbrainz.org/artist/860fe5af-e30b-40e8-80c3-b0482c87c143)
-* [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
-* [Karma Sutra](https://musicbrainz.org/artist/7a7e3196-3d02-449d-85f3-465ccc2e28cc)
-* [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
-* [Superfly](https://musicbrainz.org/search?query=Superfly&amp;type=artist&amp;method=indexed)
+* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [Miranda Sex Garden](https://musicbrainz.org/artist/ba5d56ac-b8c4-46ef-8c06-1c1f6a35584f)
+* [The Sweeplings](https://musicbrainz.org/artist/93ba3d71-e55f-4278-b104-6d2483f941f4)
 
