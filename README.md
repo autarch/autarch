@@ -45,8 +45,8 @@ This excludes archived, disabled, empty, and private repos.
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 41 stars
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 34 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 33 stars
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 33 stars
 
 
 ## Most Forked
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
+* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
-* [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Do As Infinity](https://musicbrainz.org/artist/b128a994-2400-432d-b26a-8feede87daa8)
-* [Guesch Patti](https://musicbrainz.org/artist/860fe5af-e30b-40e8-80c3-b0482c87c143)
+* [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Miranda Sex Garden](https://musicbrainz.org/artist/ba5d56ac-b8c4-46ef-8c06-1c1f6a35584f)
 * [The Sweeplings](https://musicbrainz.org/artist/93ba3d71-e55f-4278-b104-6d2483f941f4)
+* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 
