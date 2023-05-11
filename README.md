@@ -20,8 +20,8 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **48 original repos with commits to the default branch in the last two years**
-- 320 total repos
+- **49 original repos with commits to the default branch in the last two years**
+- 321 total repos
   - 194 are forks
 
 This excludes archived, disabled, empty, and private repos.
@@ -29,23 +29,23 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/omegasort-rs](https://github.com/houseabsolute/omegasort-rs) - 2023-05-07              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2023-04-30              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
-| [houseabsolute/Time-Local](https://github.com/houseabsolute/Time-Local) - 2023-04-29              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-04-23              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-04-23              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
-| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-04-22              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-04-16              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [autarch/datagen-issue](https://github.com/autarch/datagen-issue) - 2023-04-15              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-04-14              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [autarch/presentations](https://github.com/autarch/presentations) - 2023-04-14              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [autarch/list-all-my-repos](https://github.com/autarch/list-all-my-repos) - 2023-05-10              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/omegasort-rs](https://github.com/houseabsolute/omegasort-rs) - 2023-05-07              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2023-04-30              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
+| [houseabsolute/Time-Local](https://github.com/houseabsolute/Time-Local) - 2023-04-29              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-04-23              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-04-23              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-04-22              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-04-16              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [autarch/datagen-issue](https://github.com/autarch/datagen-issue) - 2023-04-15              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-04-14              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
 
 
 ## Most Starred
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 41 stars
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 34 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 42 stars
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 37 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 33 stars
 
 
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
-* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
-* [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [Queens of the Stone Age](https://musicbrainz.org/artist/7dc8f5bd-9d0b-4087-9f73-dc164950bbd8)
+* [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
 * [The Sweeplings](https://musicbrainz.org/artist/93ba3d71-e55f-4278-b104-6d2483f941f4)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
+* [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
+* [椎名林檎](https://musicbrainz.org/artist/9e414497-23b7-4ab7-9ec6-8ea9864c9e87)
 
