@@ -61,7 +61,7 @@ This excludes archived, disabled, empty, and private repos.
 - 553 PRs created
   - of which 412 were merged
 - 487 issues created
-  - of which 295 have been closed
+  - of which 296 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
+* [CHVRCHΞS](https://musicbrainz.org/search?query=CHVRCH%CE%9ES&amp;type=artist&amp;method=indexed)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Gorky&#39;s Zygotic Mynci](https://musicbrainz.org/artist/4015f3f8-2711-41de-b80b-4fee07373b12)
-* [Karma Sutra](https://musicbrainz.org/artist/7a7e3196-3d02-449d-85f3-465ccc2e28cc)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
+* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
+* [Pink Floyd](https://musicbrainz.org/artist/83d91898-7763-47d7-b03b-b92132375c47)
 * [Salyu](https://musicbrainz.org/artist/b872b5f2-5250-4d2e-a9b4-b279e918657b)
-* [Sound Horizon](https://musicbrainz.org/artist/b042defc-4d12-414d-a678-0dcabefffa26)
 * [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 
