@@ -29,8 +29,8 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/omegasort-rs](https://github.com/houseabsolute/omegasort-rs) - 2023-05-13              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-05-13              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-05-14              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/omegasort-rs](https://github.com/houseabsolute/omegasort-rs) - 2023-05-13              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-05-13              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
 | [autarch/list-all-my-repos](https://github.com/autarch/list-all-my-repos) - 2023-05-10              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2023-04-30              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
@@ -75,11 +75,11 @@ This excludes archived, disabled, empty, and private repos.
 * [CHVRCHΞS](https://musicbrainz.org/search?query=CHVRCH%CE%9ES&amp;type=artist&amp;method=indexed)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Gorky&#39;s Zygotic Mynci](https://musicbrainz.org/artist/4015f3f8-2711-41de-b80b-4fee07373b12)
+* [Kate Bush](https://musicbrainz.org/artist/4b585938-f271-45e2-b19a-91c634b5e396)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
-* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
-* [Pink Floyd](https://musicbrainz.org/artist/83d91898-7763-47d7-b03b-b92132375c47)
-* [Salyu](https://musicbrainz.org/artist/b872b5f2-5250-4d2e-a9b4-b279e918657b)
+* [Queen](https://musicbrainz.org/artist/0383dadf-2a4e-4d10-a46a-e9e041da8eb3)
 * [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
+* [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 
