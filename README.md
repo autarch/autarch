@@ -20,8 +20,8 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **49 original repos with commits to the default branch in the last two years**
-- 321 total repos
+- **48 original repos with commits to the default branch in the last two years**
+- 320 total repos
   - 194 are forks
 
 This excludes archived, disabled, empty, and private repos.
@@ -29,9 +29,9 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-05-14              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [houseabsolute/omegasort-rs](https://github.com/houseabsolute/omegasort-rs) - 2023-05-13              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-05-13              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-05-20              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-05-20              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-05-20              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
 | [autarch/list-all-my-repos](https://github.com/autarch/list-all-my-repos) - 2023-05-10              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2023-04-30              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
 | [houseabsolute/Time-Local](https://github.com/houseabsolute/Time-Local) - 2023-04-29              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
@@ -66,20 +66,20 @@ This excludes archived, disabled, empty, and private repos.
 ## Language Stats
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
-| Perl: 61%, 4.4 MiB              | Perl: 62%, 5.5 MiB                |
+| Perl: 62%, 4.4 MiB              | Perl: 62%, 5.5 MiB                |
 | Rust: 34%, 2.4 MiB              | Rust: 31%, 2.8 MiB                |
-| Go: 3%, 232.1 KiB              | Go: 4%, 369.5 KiB                |
+| Go: 2%, 158.9 KiB              | Go: 3%, 296.3 KiB                |
 
 
 ## Top Artists for the Past Week
-* [AJICO](https://musicbrainz.org/artist/1f245b43-f9ba-4d02-a70b-cd08a99cd1c9)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
-* [CHVRCHΞS](https://musicbrainz.org/artist/6a93afbb-257f-4166-b389-9f2a1e5c5df8)
-* [Kate Bush](https://musicbrainz.org/artist/4b585938-f271-45e2-b19a-91c634b5e396)
-* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [Cocteau Twins](https://musicbrainz.org/artist/000fc734-b7e1-4a01-92d1-f544261b43f5)
+* [Fuki](https://musicbrainz.org/artist/71486b84-6952-4fdd-8b7f-38cb8a16cc25)
+* [goomiey](https://musicbrainz.org/artist/84bc8cf1-7d9f-4bdb-a26c-91ca293635f3)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
 * [Mychael Danna](https://musicbrainz.org/artist/45926800-aa45-4bfc-a1f1-b25416d75215)
-* [Quickspace](https://musicbrainz.org/artist/7f53fb71-eb57-4b1b-973c-22ce0dff5db8)
-* [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
+* [Queen](https://musicbrainz.org/artist/0383dadf-2a4e-4d10-a46a-e9e041da8eb3)
+* [Ryokuoushoku Shakai](https://musicbrainz.org/artist/3ed40054-97ab-4783-b3c3-15c2c7b06546)
 * [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
+* [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 
