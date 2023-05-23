@@ -43,8 +43,8 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Most Starred
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 43 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 42 stars
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 37 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 33 stars
 
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
-* [Cocteau Twins](https://musicbrainz.org/artist/000fc734-b7e1-4a01-92d1-f544261b43f5)
+* [Aaron English](https://musicbrainz.org/artist/4204913b-bcdb-4886-841a-e24c9123e233)
+* [Akiyama Kiro](https://musicbrainz.org/search?query=Akiyama%20Kiro&amp;type=artist&amp;method=indexed)
+* [Amanda Palmer &amp; The Grand Theft Orchestra](https://musicbrainz.org/artist/32e55b31-6a0a-492d-bfc0-6c07662a5f60)
 * [Fuki](https://musicbrainz.org/artist/71486b84-6952-4fdd-8b7f-38cb8a16cc25)
 * [goomiey](https://musicbrainz.org/artist/84bc8cf1-7d9f-4bdb-a26c-91ca293635f3)
+* [Kenichi Asai](https://musicbrainz.org/artist/72a9306d-b95b-41b7-9d04-d25768f15290)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
-* [Mychael Danna](https://musicbrainz.org/artist/45926800-aa45-4bfc-a1f1-b25416d75215)
 * [Queen](https://musicbrainz.org/artist/0383dadf-2a4e-4d10-a46a-e9e041da8eb3)
 * [Ryokuoushoku Shakai](https://musicbrainz.org/artist/3ed40054-97ab-4783-b3c3-15c2c7b06546)
-* [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
 * [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 
