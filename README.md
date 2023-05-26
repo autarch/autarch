@@ -74,7 +74,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Aaron English](https://musicbrainz.org/artist/4204913b-bcdb-4886-841a-e24c9123e233)
 * [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
-* [Amanda Palmer &amp; The Grand Theft Orchestra](https://musicbrainz.org/artist/32e55b31-6a0a-492d-bfc0-6c07662a5f60)
+* [Cocteau Twins](https://musicbrainz.org/artist/000fc734-b7e1-4a01-92d1-f544261b43f5)
 * [Fuki](https://musicbrainz.org/artist/71486b84-6952-4fdd-8b7f-38cb8a16cc25)
 * [goomiey](https://musicbrainz.org/artist/84bc8cf1-7d9f-4bdb-a26c-91ca293635f3)
 * [My Brightest Diamond](https://musicbrainz.org/artist/15f835dc-ee52-4b74-b889-113678f54119)
