@@ -20,7 +20,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **48 original repos with commits to the default branch in the last two years**
+- **47 original repos with commits to the default branch in the last two years**
 - 320 total repos
   - 194 are forks
 
@@ -43,8 +43,8 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Most Starred
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 44 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 42 stars
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 38 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 33 stars
 
@@ -73,13 +73,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
+* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [Cocteau Twins](https://musicbrainz.org/artist/000fc734-b7e1-4a01-92d1-f544261b43f5)
 * [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
-* [Led Zeppelin](https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
-* [My Brightest Diamond](https://musicbrainz.org/artist/15f835dc-ee52-4b74-b889-113678f54119)
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
-* [Wednesday Campanella](https://musicbrainz.org/artist/f9f9f6a1-693b-43da-bbeb-70395bb0a66a)
-* [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
+* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
+* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
