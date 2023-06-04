@@ -20,7 +20,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **47 original repos with commits to the default branch in the last two years**
+- **46 original repos with commits to the default branch in the last two years**
 - 320 total repos
   - 194 are forks
 
@@ -29,7 +29,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-05-29              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-06-04              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
 | [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-05-28              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
 | [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-05-20              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
 | [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-05-20              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
@@ -61,25 +61,25 @@ This excludes archived, disabled, empty, and private repos.
 - 553 PRs created
   - of which 412 were merged
 - 487 issues created
-  - of which 297 have been closed
+  - of which 298 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
-| Perl: 62%, 4.4 MiB              | Perl: 62%, 5.5 MiB                |
-| Rust: 34%, 2.4 MiB              | Rust: 31%, 2.8 MiB                |
+| Perl: 61%, 4.4 MiB              | Perl: 62%, 5.5 MiB                |
+| Rust: 34%, 2.5 MiB              | Rust: 31%, 2.8 MiB                |
 | Go: 2%, 158.9 KiB              | Go: 3%, 296.3 KiB                |
 
 
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
-* [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
-* [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
+* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
-* [Peter Gabriel](https://musicbrainz.org/artist/8e66ea2b-b57b-47d9-8df0-df4630aeb8e5)
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
+* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
+* [椎名林檎](https://musicbrainz.org/artist/9e414497-23b7-4ab7-9ec6-8ea9864c9e87)
 * [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
