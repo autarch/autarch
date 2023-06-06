@@ -58,8 +58,8 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## GitHub Activity Stats
-- 553 PRs created
-  - of which 412 were merged
+- 460 PRs created
+  - of which 344 were merged
 - 487 issues created
   - of which 298 have been closed
 
