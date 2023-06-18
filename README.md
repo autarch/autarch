@@ -29,8 +29,8 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-06-11              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-06-04              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-06-17              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-06-11              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
 | [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-05-28              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
 | [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-05-20              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
 | [autarch/list-all-my-repos](https://github.com/autarch/list-all-my-repos) - 2023-05-10              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Arcade Fire](https://musicbrainz.org/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68)
-* [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
+* [Akiyama Kiro](https://musicbrainz.org/search?query=Akiyama%20Kiro&amp;type=artist&amp;method=indexed)
+* [Applesaucer](https://musicbrainz.org/artist/35a4a650-e58c-4ed3-8aa0-b89cff7b3041)
 * [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
+* [bloodthirsty butchers](https://musicbrainz.org/artist/8293299e-5411-4502-aed3-7ed09d37bf38)
 * [Cat Stevens](https://musicbrainz.org/artist/e2345fdf-2be7-47c5-a6dd-be64353ad134)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
+* [Daft Punk](https://musicbrainz.org/artist/056e4f3e-d505-4dad-8ec1-d04f521cbb56)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
-* [Indee Killed the Pop Star](https://musicbrainz.org/search?query=Indee%20Killed%20the%20Pop%20Star&amp;type=artist&amp;method=indexed)
 * [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
 
