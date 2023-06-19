@@ -77,9 +77,9 @@ This excludes archived, disabled, empty, and private repos.
 * [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
 * [bloodthirsty butchers](https://musicbrainz.org/artist/8293299e-5411-4502-aed3-7ed09d37bf38)
 * [Cat Stevens](https://musicbrainz.org/artist/e2345fdf-2be7-47c5-a6dd-be64353ad134)
-* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
-* [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
 * [Daft Punk](https://musicbrainz.org/artist/056e4f3e-d505-4dad-8ec1-d04f521cbb56)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
+* [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
 * [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
+* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 
