@@ -43,7 +43,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Most Starred
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 44 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 45 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 39 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 33 stars
@@ -79,7 +79,7 @@ This excludes archived, disabled, empty, and private repos.
 * [Cat Stevens](https://musicbrainz.org/artist/e2345fdf-2be7-47c5-a6dd-be64353ad134)
 * [Daft Punk](https://musicbrainz.org/artist/056e4f3e-d505-4dad-8ec1-d04f521cbb56)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
+* [Genesis](https://musicbrainz.org/search?query=Genesis&amp;type=artist&amp;method=indexed)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
-* [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 
