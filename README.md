@@ -45,7 +45,7 @@ This excludes archived, disabled, empty, and private repos.
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 45 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 39 stars
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 40 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 33 stars
 
 
@@ -74,12 +74,12 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Akiyama Kiro](https://musicbrainz.org/search?query=Akiyama%20Kiro&amp;type=artist&amp;method=indexed)
 * [Applesaucer](https://musicbrainz.org/artist/35a4a650-e58c-4ed3-8aa0-b89cff7b3041)
-* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
-* [bloodthirsty butchers](https://musicbrainz.org/artist/8293299e-5411-4502-aed3-7ed09d37bf38)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [Daft Punk](https://musicbrainz.org/artist/056e4f3e-d505-4dad-8ec1-d04f521cbb56)
-* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Denis Colin Trio](https://musicbrainz.org/search?query=Denis%20Colin%20Trio&amp;type=artist&amp;method=indexed)
-* [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
+* [Guesch Patti](https://musicbrainz.org/artist/860fe5af-e30b-40e8-80c3-b0482c87c143)
+* [Heliotrope](https://musicbrainz.org/artist/21844295-2df6-4f21-bf2c-613221db0ee7)
+* [I Mean Us](https://musicbrainz.org/artist/e0f0b9af-999c-41af-8e2f-aa6e906af83a)
+* [Lera Lynn](https://musicbrainz.org/artist/758fde07-0a5c-4677-98d2-4dd7894874f5)
 * [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
 
