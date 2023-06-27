@@ -42,7 +42,7 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Most Starred
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 46 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 47 stars
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 42 stars
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 40 stars
@@ -76,7 +76,9 @@ This excludes archived, disabled, empty, and private repos.
 * [Heliotrope](https://musicbrainz.org/artist/21844295-2df6-4f21-bf2c-613221db0ee7)
 * [I Mean Us](https://musicbrainz.org/artist/e0f0b9af-999c-41af-8e2f-aa6e906af83a)
 * [Lera Lynn](https://musicbrainz.org/artist/758fde07-0a5c-4677-98d2-4dd7894874f5)
+* [RADWIMPS](https://musicbrainz.org/artist/6f500293-7396-4903-b4fd-118127d06f9e)
 * [Simon &amp; Garfunkel](https://musicbrainz.org/artist/5d02f264-e225-41ff-83f7-d9b1f0b1874a)
+* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
 * [柚楽弥衣](https://musicbrainz.org/artist/00302a51-04f5-4b2d-8993-fcd1c2ae1cf4)
 
