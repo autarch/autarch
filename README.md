@@ -72,13 +72,13 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
-* [Heliotrope](https://musicbrainz.org/artist/21844295-2df6-4f21-bf2c-613221db0ee7)
-* [I Mean Us](https://musicbrainz.org/artist/e0f0b9af-999c-41af-8e2f-aa6e906af83a)
-* [Lera Lynn](https://musicbrainz.org/artist/758fde07-0a5c-4677-98d2-4dd7894874f5)
+* [Aaron English](https://musicbrainz.org/artist/4204913b-bcdb-4886-841a-e24c9123e233)
+* [Big Hat](https://musicbrainz.org/artist/5c404a8a-abc7-466b-b5ff-08cf3b4cc75c)
+* [Black Pumas](https://musicbrainz.org/artist/dd569857-d15e-4dbe-baad-b46a5ffe34a0)
+* [Evelyn Evelyn](https://musicbrainz.org/search?query=Evelyn%20Evelyn&amp;type=artist&amp;method=indexed)
+* [Houston](https://musicbrainz.org/artist/7b856335-76b2-4787-86ea-c2619383cbb7)
+* [King Crimson](https://musicbrainz.org/artist/b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3)
 * [RADWIMPS](https://musicbrainz.org/artist/6f500293-7396-4903-b4fd-118127d06f9e)
-* [Simon &amp; Garfunkel](https://musicbrainz.org/artist/5d02f264-e225-41ff-83f7-d9b1f0b1874a)
+* [The Police](https://musicbrainz.org/artist/9e0e2b01-41db-4008-bd8b-988977d6019a)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
-* [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
-* [柚楽弥衣](https://musicbrainz.org/artist/00302a51-04f5-4b2d-8993-fcd1c2ae1cf4)
 
