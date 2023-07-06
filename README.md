@@ -29,10 +29,10 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-06-21              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-06-11              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-05-28              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-05-20              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-07-05              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-07-05              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-06-11              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-05-28              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
 | [autarch/list-all-my-repos](https://github.com/autarch/list-all-my-repos) - 2023-05-10              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
 | [autarch/autarch](https://github.com/autarch/autarch) - 2023-04-30              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
 | [houseabsolute/Time-Local](https://github.com/houseabsolute/Time-Local) - 2023-04-29              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Aaron English](https://musicbrainz.org/artist/4204913b-bcdb-4886-841a-e24c9123e233)
 * [Ani DiFranco](https://musicbrainz.org/artist/a7bdc71f-697a-45d9-92b2-a01fbbe50272)
-* [Big Hat](https://musicbrainz.org/artist/5c404a8a-abc7-466b-b5ff-08cf3b4cc75c)
+* [Arcade Fire](https://musicbrainz.org/search?query=Arcade%20Fire&amp;type=artist&amp;method=indexed)
 * [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
 * [CHVRCHΞS](https://musicbrainz.org/artist/6a93afbb-257f-4166-b389-9f2a1e5c5df8)
 * [Dionne Farris](https://musicbrainz.org/artist/b03fc204-7564-4ceb-8b9a-aaac372a8911)
-* [Houston](https://musicbrainz.org/artist/7b856335-76b2-4787-86ea-c2619383cbb7)
+* [FERN PLANET](https://musicbrainz.org/artist/d338731a-1ed3-4b76-bc13-de72c2080f8f)
 * [My Scarlet Life](https://musicbrainz.org/artist/ab608a14-05c3-42e6-80f0-57e238011058)
-* [the brilliant green](https://musicbrainz.org/artist/768ecb0b-bcc8-4c99-9f2d-54a13f33c5f6)
+* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
+* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 
