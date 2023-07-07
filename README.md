@@ -73,13 +73,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [Ani DiFranco](https://musicbrainz.org/artist/a7bdc71f-697a-45d9-92b2-a01fbbe50272)
-* [Arcade Fire](https://musicbrainz.org/search?query=Arcade%20Fire&amp;type=artist&amp;method=indexed)
-* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
+* [Arcade Fire](https://musicbrainz.org/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68)
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
+* [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [CHVRCHΞS](https://musicbrainz.org/artist/6a93afbb-257f-4166-b389-9f2a1e5c5df8)
 * [Dionne Farris](https://musicbrainz.org/artist/b03fc204-7564-4ceb-8b9a-aaac372a8911)
 * [FERN PLANET](https://musicbrainz.org/artist/d338731a-1ed3-4b76-bc13-de72c2080f8f)
 * [My Scarlet Life](https://musicbrainz.org/artist/ab608a14-05c3-42e6-80f0-57e238011058)
-* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
+* [the brilliant green](https://musicbrainz.org/artist/768ecb0b-bcc8-4c99-9f2d-54a13f33c5f6)
 * [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 
