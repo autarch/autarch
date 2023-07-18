@@ -29,28 +29,28 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/intro-to-go-class-exercises](https://github.com/autarch/intro-to-go-class-exercises) - 2023-07-14              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-07-14              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
-| [autarch/presentations](https://github.com/autarch/presentations) - 2023-07-08              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
-| [autarch/intro-to-go-class](https://github.com/autarch/intro-to-go-class) - 2023-07-07              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-07-05              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-07-05              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-05-28              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [autarch/list-all-my-repos](https://github.com/autarch/list-all-my-repos) - 2023-05-10              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2023-04-30              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [houseabsolute/Time-Local](https://github.com/houseabsolute/Time-Local) - 2023-04-29              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-07-15              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [autarch/intro-to-go-class-exercises](https://github.com/autarch/intro-to-go-class-exercises) - 2023-07-14              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-07-14              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
+| [autarch/presentations](https://github.com/autarch/presentations) - 2023-07-08              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
+| [autarch/intro-to-go-class](https://github.com/autarch/intro-to-go-class) - 2023-07-07              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-07-05              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-07-05              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-05-28              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [autarch/list-all-my-repos](https://github.com/autarch/list-all-my-repos) - 2023-05-10              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2023-04-30              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
 
 
 ## Most Starred
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 47 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 48 stars
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 42 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 41 stars
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 41 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 32 stars
 
 
 ## Most Forked
-- [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 46 forks
+- [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 47 forks
 - [houseabsolute/test-class-moose](https://github.com/houseabsolute/test-class-moose) - 32 forks
 - [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 29 forks
 - [houseabsolute/Log-Dispatch](https://github.com/houseabsolute/Log-Dispatch) - 28 forks
@@ -60,7 +60,7 @@ This excludes archived, disabled, empty, and private repos.
 ## GitHub Activity Stats
 - 553 PRs created
   - of which 412 were merged
-- 487 issues created
+- 488 issues created
   - of which 298 have been closed
 
 ## Language Stats
@@ -72,4 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [Anna Calvi](https://musicbrainz.org/artist/462a9ce0-e1f3-4cbc-a21e-0998003d9386)
+* [Applesaucer](https://musicbrainz.org/artist/35a4a650-e58c-4ed3-8aa0-b89cff7b3041)
+* [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
+* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
+* [Do As Infinity](https://musicbrainz.org/artist/b128a994-2400-432d-b26a-8feede87daa8)
+* [Eggs @ 8:14](https://musicbrainz.org/search?query=Eggs%20%40%208%3A14&amp;type=artist&amp;method=indexed)
+* [Kamishiraishi Mone](https://musicbrainz.org/search?query=Kamishiraishi%20Mone&amp;type=artist&amp;method=indexed)
+* [Kate Bush](https://musicbrainz.org/artist/4b585938-f271-45e2-b19a-91c634b5e396)
+* [Lera Lynn](https://musicbrainz.org/artist/758fde07-0a5c-4677-98d2-4dd7894874f5)
+* [Low &amp; Spring Heel Jack](https://musicbrainz.org/artist/42faad37-8aaa-42e4-a300-5a7dae79ed24)
 
