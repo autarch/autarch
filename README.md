@@ -78,8 +78,8 @@ This excludes archived, disabled, empty, and private repos.
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Do As Infinity](https://musicbrainz.org/artist/b128a994-2400-432d-b26a-8feede87daa8)
 * [Eggs @ 8:14](https://musicbrainz.org/search?query=Eggs%20%40%208%3A14&amp;type=artist&amp;method=indexed)
+* [Heavy Weighs the King](https://musicbrainz.org/artist/a7d20d48-3df8-41a2-8e73-463d382129ef)
 * [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
 * [Into Another](https://musicbrainz.org/artist/c235e5fd-4144-4e53-95ff-b33dc5f239c8)
 * [Kamishiraishi Mone](https://musicbrainz.org/search?query=Kamishiraishi%20Mone&amp;type=artist&amp;method=indexed)
-* [Kate Bush](https://musicbrainz.org/artist/4b585938-f271-45e2-b19a-91c634b5e396)
 
