@@ -74,6 +74,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Anna Calvi](https://musicbrainz.org/artist/462a9ce0-e1f3-4cbc-a21e-0998003d9386)
 * [Applesaucer](https://musicbrainz.org/artist/35a4a650-e58c-4ed3-8aa0-b89cff7b3041)
+* [Arcade Fire](https://musicbrainz.org/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Do As Infinity](https://musicbrainz.org/artist/b128a994-2400-432d-b26a-8feede87daa8)
@@ -81,5 +82,4 @@ This excludes archived, disabled, empty, and private repos.
 * [Heavy Weighs the King](https://musicbrainz.org/artist/a7d20d48-3df8-41a2-8e73-463d382129ef)
 * [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
 * [Into Another](https://musicbrainz.org/artist/c235e5fd-4144-4e53-95ff-b33dc5f239c8)
-* [Kamishiraishi Mone](https://musicbrainz.org/search?query=Kamishiraishi%20Mone&amp;type=artist&amp;method=indexed)
 
