@@ -29,16 +29,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-07-21              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-07-15              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
-| [autarch/intro-to-go-class-exercises](https://github.com/autarch/intro-to-go-class-exercises) - 2023-07-14              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-07-14              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
-| [autarch/presentations](https://github.com/autarch/presentations) - 2023-07-08              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
-| [autarch/intro-to-go-class](https://github.com/autarch/intro-to-go-class) - 2023-07-07              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-07-05              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-07-05              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-05-28              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [autarch/list-all-my-repos](https://github.com/autarch/list-all-my-repos) - 2023-05-10              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-07-22              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-07-21              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-07-15              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
+| [autarch/intro-to-go-class-exercises](https://github.com/autarch/intro-to-go-class-exercises) - 2023-07-14              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-07-14              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [autarch/presentations](https://github.com/autarch/presentations) - 2023-07-08              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [autarch/intro-to-go-class](https://github.com/autarch/intro-to-go-class) - 2023-07-07              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-07-05              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-07-05              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-05-28              | [gin-gonic/gin](https://github.com/gin-gonic/gin) - 2022-08-31                |
 
 
 ## Most Starred
@@ -73,13 +73,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [Anna Calvi](https://musicbrainz.org/artist/462a9ce0-e1f3-4cbc-a21e-0998003d9386)
-* [Applesaucer](https://musicbrainz.org/artist/35a4a650-e58c-4ed3-8aa0-b89cff7b3041)
-* [Arcade Fire](https://musicbrainz.org/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
+* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Do As Infinity](https://musicbrainz.org/artist/b128a994-2400-432d-b26a-8feede87daa8)
-* [Eggs @ 8:14](https://musicbrainz.org/search?query=Eggs%20%40%208%3A14&amp;type=artist&amp;method=indexed)
-* [Heavy Weighs the King](https://musicbrainz.org/artist/a7d20d48-3df8-41a2-8e73-463d382129ef)
-* [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
-* [Into Another](https://musicbrainz.org/artist/c235e5fd-4144-4e53-95ff-b33dc5f239c8)
+* [Ida](https://musicbrainz.org/artist/9ae28aba-ada6-426c-9567-15abc2aa01c9)
+* [Jude](https://musicbrainz.org/search?query=Jude&amp;type=artist&amp;method=indexed)
+* [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
+* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [Miranda Sex Garden](https://musicbrainz.org/artist/ba5d56ac-b8c4-46ef-8c06-1c1f6a35584f)
+* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
