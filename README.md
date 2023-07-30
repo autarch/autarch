@@ -44,7 +44,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Most Starred
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 48 stars
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 42 stars
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 44 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 41 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 32 stars
 
@@ -61,7 +61,7 @@ This excludes archived, disabled, empty, and private repos.
 - 553 PRs created
   - of which 412 were merged
 - 488 issues created
-  - of which 298 have been closed
+  - of which 299 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
-* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
+* [Cold Arizona](https://musicbrainz.org/search?query=Cold%20Arizona&amp;type=artist&amp;method=indexed)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Ida](https://musicbrainz.org/artist/9ae28aba-ada6-426c-9567-15abc2aa01c9)
-* [Jude](https://musicbrainz.org/search?query=Jude&amp;type=artist&amp;method=indexed)
-* [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
-* [Miranda Sex Garden](https://musicbrainz.org/artist/ba5d56ac-b8c4-46ef-8c06-1c1f6a35584f)
+* [Fishbone](https://musicbrainz.org/artist/9f3764c0-c9f4-4e20-b7a8-9993124fb1b2)
+* [Iron Maiden](https://musicbrainz.org/search?query=Iron%20Maiden&amp;type=artist&amp;method=indexed)
+* [Kate Bush](https://musicbrainz.org/artist/4b585938-f271-45e2-b19a-91c634b5e396)
+* [Kitri](https://musicbrainz.org/artist/f3b6bb5d-9bac-41d8-8e7a-5905cba352b7)
+* [Ryokuoushoku Shakai](https://musicbrainz.org/artist/3ed40054-97ab-4783-b3c3-15c2c7b06546)
 * [SEKAI NO OWARI](https://musicbrainz.org/artist/d9dbfe6a-8346-4337-8614-fe96aab63927)
-* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
-* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
