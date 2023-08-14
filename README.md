@@ -20,7 +20,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **45 original repos with commits to the default branch in the last two years**
+- **44 original repos with commits to the default branch in the last two years**
 - 320 total repos
   - 194 are forks
 
@@ -66,20 +66,20 @@ This excludes archived, disabled, empty, and private repos.
 ## Language Stats
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
-| Perl: 61%, 4.3 MiB              | Perl: 62%, 5.5 MiB                |
-| Rust: 35%, 2.5 MiB              | Rust: 31%, 2.8 MiB                |
+| Perl: 60%, 4.1 MiB              | Perl: 62%, 5.5 MiB                |
+| Rust: 36%, 2.5 MiB              | Rust: 31%, 2.8 MiB                |
 | Go: 2%, 158.9 KiB              | Go: 3%, 296.3 KiB                |
 
 
 ## Top Artists for the Past Week
-* [AJICO](https://musicbrainz.org/artist/1f245b43-f9ba-4d02-a70b-cd08a99cd1c9)
-* [Amanda Palmer &amp; The Grand Theft Orchestra](https://musicbrainz.org/artist/32e55b31-6a0a-492d-bfc0-6c07662a5f60)
-* [ANOHNI](https://musicbrainz.org/artist/91b67275-db2c-4fc2-b51f-82978aeb5c41)
-* [Arcade Fire](https://musicbrainz.org/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68)
-* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
-* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
-* [SEKAI NO OWARI](https://musicbrainz.org/artist/d9dbfe6a-8346-4337-8614-fe96aab63927)
-* [The Sweeplings](https://musicbrainz.org/artist/93ba3d71-e55f-4278-b104-6d2483f941f4)
+* [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
+* [Animal Logic](https://musicbrainz.org/artist/22ca9189-12b6-47af-8592-7c61d8b443a8)
+* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
+* [Husking Bee](https://musicbrainz.org/artist/41fd93c6-8f41-4b14-9968-0e13249fa340)
+* [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
+* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [My Brightest Diamond](https://musicbrainz.org/artist/15f835dc-ee52-4b74-b889-113678f54119)
+* [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
+* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
-* [Yo La Tengo](https://musicbrainz.org/artist/3f542031-b054-454d-b57b-812fa2a81b11)
 
