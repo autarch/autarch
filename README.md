@@ -29,16 +29,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2023-08-26              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-08-23              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-08-23              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-08-23              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2023-08-14              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
-| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-07-22              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-07-21              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-07-15              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
-| [autarch/intro-to-go-class-exercises](https://github.com/autarch/intro-to-go-class-exercises) - 2023-07-14              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
-| [autarch/presentations](https://github.com/autarch/presentations) - 2023-07-08              | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 2022-04-11                |
+| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2023-08-26              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-08-23              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-08-23              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-08-23              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2023-08-14              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-07-22              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-07-21              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-07-15              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [autarch/intro-to-go-class-exercises](https://github.com/autarch/intro-to-go-class-exercises) - 2023-07-14              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [autarch/presentations](https://github.com/autarch/presentations) - 2023-07-08              | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - 2022-09-24                |
 
 
 ## Most Starred
@@ -59,7 +59,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## GitHub Activity Stats
 - 554 PRs created
-  - of which 412 were merged
+  - of which 413 were merged
 - 489 issues created
   - of which 302 have been closed
 
