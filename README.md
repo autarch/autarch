@@ -29,16 +29,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-09-10              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-09-10                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-09-10              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-09-09              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2023-08-26              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-08-23              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2023-08-14              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-07-21              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-07-15              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
-| [autarch/intro-to-go-class-exercises](https://github.com/autarch/intro-to-go-class-exercises) - 2023-07-14              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
-| [autarch/presentations](https://github.com/autarch/presentations) - 2023-07-08              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-09-14              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-09-10                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-09-10              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-09-10              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-09-09              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
+| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2023-08-26              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-08-23              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2023-08-14              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-07-21              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-07-15              | [stretchr/objx](https://github.com/stretchr/objx) - 2022-10-28                |
+| [autarch/intro-to-go-class-exercises](https://github.com/autarch/intro-to-go-class-exercises) - 2023-07-14              | [rueckstiess/mtools](https://github.com/rueckstiess/mtools) - 2022-10-26                |
 
 
 ## Most Starred
@@ -75,10 +75,10 @@ This excludes archived, disabled, empty, and private repos.
 * [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
-* [David Byrne](https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9)
 * [Dios](https://musicbrainz.org/search?query=Dios&amp;type=artist&amp;method=indexed)
 * [Houston](https://musicbrainz.org/artist/7b856335-76b2-4787-86ea-c2619383cbb7)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [mol-74](https://musicbrainz.org/artist/c97441d5-46e4-4c7a-8609-97e2dcb7233e)
 * [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
