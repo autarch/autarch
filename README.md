@@ -74,12 +74,12 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [Antony and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
 * [Bat for Lashes](https://musicbrainz.org/artist/10000730-525f-4ed5-aaa8-92888f060f5f)
+* [Big Hat](https://musicbrainz.org/artist/5c404a8a-abc7-466b-b5ff-08cf3b4cc75c)
 * [David Byrne](https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9)
-* [Dios](https://musicbrainz.org/search?query=Dios&amp;type=artist&amp;method=indexed)
 * [Gorky&#39;s Zygotic Mynci](https://musicbrainz.org/artist/4015f3f8-2711-41de-b80b-4fee07373b12)
 * [Hey Ocean!](https://musicbrainz.org/artist/6eae7091-1cca-48de-b535-2c878afff6c7)
 * [Hitomi Takahashi×BEAT CRUSADERS](https://musicbrainz.org/artist/ebb18bc9-9441-45e0-83ea-dac80040d4f1)
 * [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
-* [Houston](https://musicbrainz.org/artist/7b856335-76b2-4787-86ea-c2619383cbb7)
-* [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
+* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
+* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
 
