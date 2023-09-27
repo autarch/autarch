@@ -29,10 +29,10 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-09-14              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-09-10                |
-| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-09-10              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-09-10              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-09-09              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-09-25              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-09-10                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-09-14              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-09-10              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-09-10              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
 | [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2023-08-26              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
 | [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-08-23              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
 | [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2023-08-14              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
@@ -52,8 +52,8 @@ This excludes archived, disabled, empty, and private repos.
 ## Most Forked
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 47 forks
 - [houseabsolute/test-class-moose](https://github.com/houseabsolute/test-class-moose) - 32 forks
+- [houseabsolute/Log-Dispatch](https://github.com/houseabsolute/Log-Dispatch) - 29 forks
 - [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 29 forks
-- [houseabsolute/Log-Dispatch](https://github.com/houseabsolute/Log-Dispatch) - 28 forks
 - [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 22 forks
 
 
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
+* [Anna Calvi](https://musicbrainz.org/artist/462a9ce0-e1f3-4cbc-a21e-0998003d9386)
+* [ANOHNI and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
-* [Big Hat](https://musicbrainz.org/artist/5c404a8a-abc7-466b-b5ff-08cf3b4cc75c)
-* [David Byrne](https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9)
-* [Hitomi Takahashi×BEAT CRUSADERS](https://musicbrainz.org/artist/ebb18bc9-9441-45e0-83ea-dac80040d4f1)
-* [Ivory Wire](https://musicbrainz.org/search?query=Ivory%20Wire&amp;type=artist&amp;method=indexed)
-* [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
-* [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
-* [Natsuko Nisshoku](https://musicbrainz.org/search?query=Natsuko%20Nisshoku&amp;type=artist&amp;method=indexed)
-* [noodles](https://musicbrainz.org/search?query=noodles&amp;type=artist&amp;method=indexed)
+* [Becca Stevens](https://musicbrainz.org/artist/7bbd3cf6-5885-40c7-a3d0-f47d10ef2f4c)
+* [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
+* [Houston](https://musicbrainz.org/artist/7b856335-76b2-4787-86ea-c2619383cbb7)
+* [Square Enix Music](https://musicbrainz.org/artist/63bcc03f-8c18-4884-b390-8a4a1be161e2)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [Už Jsme Doma](https://musicbrainz.org/artist/d98e3d40-ccc3-4c3b-a840-bff8d761f5df)
 
