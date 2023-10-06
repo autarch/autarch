@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
+* [Akire Bubar](https://musicbrainz.org/artist/f17eab41-bd27-40c5-99c8-3c65be918413)
+* [Ani DiFranco](https://musicbrainz.org/artist/a7bdc71f-697a-45d9-92b2-a01fbbe50272)
+* [ANOHNI](https://musicbrainz.org/artist/91b67275-db2c-4fc2-b51f-82978aeb5c41)
 * [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
 * [FERN PLANET](https://musicbrainz.org/artist/d338731a-1ed3-4b76-bc13-de72c2080f8f)
 * [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [My Brightest Diamond](https://musicbrainz.org/artist/15f835dc-ee52-4b74-b889-113678f54119)
-* [Queen](https://musicbrainz.org/artist/0383dadf-2a4e-4d10-a46a-e9e041da8eb3)
-* [Sting](https://musicbrainz.org/artist/7944ed53-2a58-4035-9b93-140a71e41c34)
-* [Superfly](https://musicbrainz.org/search?query=Superfly&amp;type=artist&amp;method=indexed)
-* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
 * [Yes](https://musicbrainz.org/artist/8353f93f-163e-48c2-bb75-9f18987a3d46)
+* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
