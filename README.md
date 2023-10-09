@@ -20,7 +20,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **42 original repos with commits to the default branch in the last two years**
+- **41 original repos with commits to the default branch in the last two years**
 - 321 total repos
   - 195 are forks
 
@@ -29,7 +29,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-09-25              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-09-10                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-09-25              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
 | [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-09-14              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
 | [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-09-10              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-09-10              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
@@ -42,9 +42,9 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Most Starred
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 51 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 52 stars
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 46 stars
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 45 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 41 stars
 - [autarch/autarch](https://github.com/autarch/autarch) - 32 stars
 
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [Aaron English](https://musicbrainz.org/artist/4204913b-bcdb-4886-841a-e24c9123e233)
 * [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
 * [Akire Bubar](https://musicbrainz.org/artist/f17eab41-bd27-40c5-99c8-3c65be918413)
-* [Ani DiFranco](https://musicbrainz.org/artist/a7bdc71f-697a-45d9-92b2-a01fbbe50272)
-* [ANOHNI](https://musicbrainz.org/artist/91b67275-db2c-4fc2-b51f-82978aeb5c41)
-* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
-* [FERN PLANET](https://musicbrainz.org/artist/d338731a-1ed3-4b76-bc13-de72c2080f8f)
-* [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
-* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Yes](https://musicbrainz.org/artist/8353f93f-163e-48c2-bb75-9f18987a3d46)
+* [Amanda Palmer](https://musicbrainz.org/artist/3c0eb318-d2ba-45aa-9077-b83746cc56da)
+* [Antony and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
+* [Bat for Lashes](https://musicbrainz.org/artist/10000730-525f-4ed5-aaa8-92888f060f5f)
+* [Florence + the Machine](https://musicbrainz.org/artist/5fee3020-513b-48c2-b1f7-4681b01db0c6)
+* [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
+* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
