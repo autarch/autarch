@@ -73,13 +73,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
-* [Aaron English](https://musicbrainz.org/artist/4204913b-bcdb-4886-841a-e24c9123e233)
+* [Anna Calvi](https://musicbrainz.org/artist/462a9ce0-e1f3-4cbc-a21e-0998003d9386)
+* [ANOHNI](https://musicbrainz.org/artist/91b67275-db2c-4fc2-b51f-82978aeb5c41)
+* [Antony and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
+* [Becca Stevens &amp; Attacca Quartet](https://musicbrainz.org/search?query=Becca%20Stevens%20%26%20Attacca%20Quartet&amp;type=artist&amp;method=indexed)
 * [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
-* [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
-* [Kenichi Asai](https://musicbrainz.org/artist/72a9306d-b95b-41b7-9d04-d25768f15290)
-* [Sound Horizon](https://musicbrainz.org/artist/b042defc-4d12-414d-a678-0dcabefffa26)
-* [The Beatles](https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d)
+* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
+* [CHOCOLATE CHIP COOKIES](https://musicbrainz.org/search?query=CHOCOLATE%20CHIP%20COOKIES&amp;type=artist&amp;method=indexed)
+* [Kokoro Toshokan](https://musicbrainz.org/search?query=Kokoro%20Toshokan&amp;type=artist&amp;method=indexed)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
-* [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
-* [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
