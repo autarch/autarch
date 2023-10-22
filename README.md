@@ -43,10 +43,10 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Most Starred
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 53 stars
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 50 stars
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 51 stars
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 40 stars
-- [autarch/autarch](https://github.com/autarch/autarch) - 32 stars
+- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 34 stars
 
 
 ## Most Forked
@@ -73,13 +73,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
-* [Anna Calvi](https://musicbrainz.org/artist/462a9ce0-e1f3-4cbc-a21e-0998003d9386)
+* [Amanda Palmer &amp; Edward Ka-Spel](https://musicbrainz.org/artist/3c0eb318-d2ba-45aa-9077-b83746cc56da)
 * [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
 * [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
+* [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Kokoro Toshokan](https://musicbrainz.org/search?query=Kokoro%20Toshokan&amp;type=artist&amp;method=indexed)
+* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Queen](https://musicbrainz.org/artist/0383dadf-2a4e-4d10-a46a-e9e041da8eb3)
-* [Superfly](https://musicbrainz.org/search?query=Superfly&amp;type=artist&amp;method=indexed)
-* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [Yes](https://musicbrainz.org/artist/8353f93f-163e-48c2-bb75-9f18987a3d46)
 * [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
