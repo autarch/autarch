@@ -42,11 +42,11 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Most Starred
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 53 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 54 stars
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 52 stars
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 40 stars
-- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 34 stars
+- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 36 stars
 
 
 ## Most Forked
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
+* [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
+* [Billy Joel](https://musicbrainz.org/artist/64b94289-9474-4d43-8c93-918ccc1920d1)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
-* [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
-* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Nina Simone](https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f)
-* [Queen](https://musicbrainz.org/artist/0383dadf-2a4e-4d10-a46a-e9e041da8eb3)
+* [mol-74](https://musicbrainz.org/artist/c97441d5-46e4-4c7a-8609-97e2dcb7233e)
+* [Sigur Rós](https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8)
 * [Talking Heads](https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a)
-* [Yes](https://musicbrainz.org/artist/8353f93f-163e-48c2-bb75-9f18987a3d46)
+* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [YUKI](https://musicbrainz.org/artist/379866cd-980d-4d20-81f2-37986fd766fc)
 * [王菲](https://musicbrainz.org/artist/692e367d-2846-442d-b13d-1177c3681c65)
 
