@@ -21,20 +21,20 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 ## Repo Stats
 - **41 original repos with commits to the default branch in the last two years**
-- 321 total repos
-  - 195 are forks
+- 322 total repos
+  - 196 are forks
 
 This excludes archived, disabled, empty, and private repos.
 
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-10-22              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-10-22              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-10-19              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-09-14              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
-| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-09-10              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-09-10              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-11-02              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-10-29              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-10-22              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-10-22              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-09-14              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-09-10              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
 | [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2023-08-26              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
 | [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2023-08-14              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
 | [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-07-21              |                 |
@@ -46,11 +46,11 @@ This excludes archived, disabled, empty, and private repos.
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 52 stars
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 40 stars
-- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 36 stars
+- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 38 stars
 
 
 ## Most Forked
-- [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 48 forks
+- [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 49 forks
 - [houseabsolute/test-class-moose](https://github.com/houseabsolute/test-class-moose) - 32 forks
 - [houseabsolute/Log-Dispatch](https://github.com/houseabsolute/Log-Dispatch) - 29 forks
 - [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 29 forks
@@ -58,9 +58,9 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## GitHub Activity Stats
-- 556 PRs created
+- 557 PRs created
   - of which 413 were merged
-- 490 issues created
+- 492 issues created
   - of which 302 have been closed
 
 ## Language Stats
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Billy Joel](https://musicbrainz.org/artist/64b94289-9474-4d43-8c93-918ccc1920d1)
-* [BLANKEY JET CITY](https://musicbrainz.org/search?query=BLANKEY%20JET%20CITY&amp;type=artist&amp;method=indexed)
-* [Boiled in Lead](https://musicbrainz.org/artist/a22d7273-a0ec-4d1d-946b-6deede29886d)
 * [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [Cö shu Nie](https://musicbrainz.org/artist/d38d4afb-3c51-4cd5-b6e9-5d4ec71d2440)
 * [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
-* [Guesch Patti](https://musicbrainz.org/artist/860fe5af-e30b-40e8-80c3-b0482c87c143)
-* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
+* [Kate Bush](https://musicbrainz.org/artist/4b585938-f271-45e2-b19a-91c634b5e396)
+* [Simon &amp; Garfunkel](https://musicbrainz.org/artist/5d02f264-e225-41ff-83f7-d9b1f0b1874a)
+* [THE BACK HORN](https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044)
 * [The Cardigans](https://musicbrainz.org/artist/3e55d51d-687f-4a9d-af96-2fabccf802e5)
 * [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [UA](https://musicbrainz.org/artist/eaa62a46-1ec4-47ac-bd52-2645f75f450e)
+* [Už Jsme Doma](https://musicbrainz.org/artist/d98e3d40-ccc3-4c3b-a840-bff8d761f5df)
 
