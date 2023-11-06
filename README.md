@@ -20,8 +20,8 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **41 original repos with commits to the default branch in the last two years**
-- 322 total repos
+- **42 original repos with commits to the default branch in the last two years**
+- 323 total repos
   - 196 are forks
 
 This excludes archived, disabled, empty, and private repos.
@@ -29,16 +29,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-11-04              | [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit) - 2023-11-02                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-11-04              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-11-04              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-11-04              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-10-22              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-09-14              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
-| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-09-10              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
-| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2023-08-26              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
-| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2023-08-14              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
-| [autarch/houseabsolute.com](https://github.com/autarch/houseabsolute.com) - 2023-07-21              |                 |
+| [houseabsolute/pushd](https://github.com/houseabsolute/pushd) - 2023-11-06              | [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit) - 2023-11-02                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-11-04              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-11-04              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-11-04              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-11-04              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-10-22              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-09-14              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-09-10              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [houseabsolute/dioxus-heroicons](https://github.com/houseabsolute/dioxus-heroicons) - 2023-08-26              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2023-08-14              |                 |
 
 
 ## Most Starred
@@ -46,7 +46,7 @@ This excludes archived, disabled, empty, and private repos.
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 52 stars
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 40 stars
-- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 38 stars
+- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 39 stars
 
 
 ## Most Forked
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
+* [Anna Calvi](https://musicbrainz.org/artist/462a9ce0-e1f3-4cbc-a21e-0998003d9386)
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [CHVRCHΞS](https://musicbrainz.org/artist/6a93afbb-257f-4166-b389-9f2a1e5c5df8)
 * [Genie High](https://musicbrainz.org/search?query=Genie%20High&amp;type=artist&amp;method=indexed)
-* [Gorky&#39;s Zygotic Mynci](https://musicbrainz.org/artist/4015f3f8-2711-41de-b80b-4fee07373b12)
-* [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
 * [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
+* [Massive Attack](https://musicbrainz.org/artist/10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8)
 * [Mrs. GREEN APPLE](https://musicbrainz.org/artist/9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2)
-* [Queen](https://musicbrainz.org/artist/0383dadf-2a4e-4d10-a46a-e9e041da8eb3)
-* [Simon &amp; Garfunkel](https://musicbrainz.org/artist/5d02f264-e225-41ff-83f7-d9b1f0b1874a)
-* [Sound Horizon](https://musicbrainz.org/artist/b042defc-4d12-414d-a678-0dcabefffa26)
+* [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
+* [The Pillows](https://musicbrainz.org/search?query=The%20Pillows&amp;type=artist&amp;method=indexed)
+* [椎名林檎](https://musicbrainz.org/artist/9e414497-23b7-4ab7-9ec6-8ea9864c9e87)
 
