@@ -60,7 +60,7 @@ This excludes archived, disabled, empty, and private repos.
 ## GitHub Activity Stats
 - 557 PRs created
   - of which 414 were merged
-- 493 issues created
+- 494 issues created
   - of which 304 have been closed
 
 ## Language Stats
@@ -74,8 +74,8 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Big Hat](https://musicbrainz.org/artist/5c404a8a-abc7-466b-b5ff-08cf3b4cc75c)
+* [Florence + the Machine](https://musicbrainz.org/artist/5fee3020-513b-48c2-b1f7-4681b01db0c6)
 * [Genie High](https://musicbrainz.org/search?query=Genie%20High&amp;type=artist&amp;method=indexed)
-* [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
 * [Kenichi Asai](https://musicbrainz.org/artist/72a9306d-b95b-41b7-9d04-d25768f15290)
 * [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
 * [Massive Attack](https://musicbrainz.org/artist/10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8)
