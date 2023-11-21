@@ -42,7 +42,7 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Most Starred
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 55 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 56 stars
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 52 stars
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
 - [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 44 stars
@@ -52,8 +52,8 @@ This excludes archived, disabled, empty, and private repos.
 ## Most Forked
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 49 forks
 - [houseabsolute/test-class-moose](https://github.com/houseabsolute/test-class-moose) - 32 forks
+- [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 30 forks
 - [houseabsolute/Log-Dispatch](https://github.com/houseabsolute/Log-Dispatch) - 29 forks
-- [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 29 forks
 - [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 23 forks
 
 
@@ -72,14 +72,14 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [Akiyama Kiro](https://musicbrainz.org/search?query=Akiyama%20Kiro&amp;type=artist&amp;method=indexed)
-* [Arcade Fire](https://musicbrainz.org/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68)
+* [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Big Hat](https://musicbrainz.org/artist/5c404a8a-abc7-466b-b5ff-08cf3b4cc75c)
-* [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
-* [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
-* [JUDY AND MARY](https://musicbrainz.org/artist/63b6dd9a-916d-4076-b898-43763aac6bce)
-* [Kenichi Asai](https://musicbrainz.org/artist/72a9306d-b95b-41b7-9d04-d25768f15290)
-* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Supercar](https://musicbrainz.org/artist/dc5cd3ad-fa36-42e0-acd4-2c9d87f82ea6)
-* [東京事変](https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee)
+* [BLANKEY JET CITY](https://musicbrainz.org/artist/9eab62e8-99f7-4aac-ab10-5192bd8f2807)
+* [Brats](https://musicbrainz.org/artist/10e8c202-26fe-4785-9882-d7f6b55a74f5)
+* [Cocteau Twins](https://musicbrainz.org/artist/000fc734-b7e1-4a01-92d1-f544261b43f5)
+* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
+* [Hitsujibungaku](https://musicbrainz.org/search?query=Hitsujibungaku&amp;type=artist&amp;method=indexed)
+* [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
+* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
+* [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
 
