@@ -361,9 +361,10 @@ async fn get_my_user_repos(client: &Client, stats: &mut UserAndRepoStats) -> Res
         tracing::info!("Skipping user repos");
         return Ok(());
     }
-    tracing::info!("Getting user repos");
+
     let mut after = None;
     loop {
+        tracing::info!("Getting user repos after {after:?}");
         let resp = user_query(client, after).await?;
         tracing::debug!("{resp:#?}");
 
@@ -432,9 +433,10 @@ async fn get_my_org_repos(client: &Client, stats: &mut UserAndRepoStats) -> Resu
         tracing::info!("Skipping organization repos");
         return Ok(());
     }
-    tracing::info!("Getting organization repos");
+
     let mut after = None;
     loop {
+        tracing::info!("Getting organization repos after {after:?}");
         let resp = organization_query(client, after).await?;
         tracing::debug!("{resp:#?}");
 
@@ -573,9 +575,10 @@ async fn get_other_repos(client: &Client, stats: &mut UserAndRepoStats) -> Resul
         tracing::info!("Skipping other repos");
         return Ok(());
     }
-    tracing::info!("Getting other repos with recent contributions");
+
     let mut after = None;
     loop {
+        tracing::info!("Getting other repos with recent contributions after {after:?}");
         let resp = post_graphql::<UserContributedReposQuery, _>(
             client,
             API_URL,
