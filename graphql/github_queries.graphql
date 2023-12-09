@@ -66,6 +66,7 @@ query UserReposQuery($login: String!, $email: String!, $after: String) {
     repositories(
       affiliations: [COLLABORATOR, OWNER],
       after: $after,
+      first: 50,
       orderBy: {
         direction: ASC,
         field: NAME,
@@ -82,6 +83,7 @@ query OrganizationReposQuery($login: String!, $email: String!, $after: String) {
     repositories(
       affiliations: [OWNER],
       after: $after,
+      first: 50,
       orderBy: {
         direction: ASC,
         field: NAME,
