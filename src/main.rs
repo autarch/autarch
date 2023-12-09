@@ -320,7 +320,6 @@ async fn blog_posts() -> Result<Vec<BlogPost>> {
     channel
         .items
         .splice(0..5, None)
-        .into_iter()
         .map(|i| {
             let title = i
                 .title()
