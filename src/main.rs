@@ -52,7 +52,9 @@ const MY_EMAIL: &str = "autarch@urth.org";
 static WORK_REPOS: Lazy<HashSet<&'static str>> = Lazy::new(|| {
     let mut h = HashSet::new();
     h.insert("10gen");
+    h.insert("10gen-archive");
     h.insert("mongodb");
+    h.insert("mongodb-forks");
     h.insert("mongodb-labs");
     h
 });
