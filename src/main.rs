@@ -362,6 +362,11 @@ async fn get_my_user_repos(client: &Client, stats: &mut UserAndRepoStats) -> Res
         let resp = user_query(client, after).await?;
         tracing::debug!("{resp:#?}");
 
+        if let Some(errors) = resp.errors {
+            tracing::error!("Errors in user repos query: {:?}", errors);
+            return Err(anyhow::anyhow!("user repos query returned errors"));
+        }
+
         let user = resp
             .data
             .unwrap_or_else(|| panic!("Response for user repos has no data"))
@@ -433,6 +438,11 @@ async fn get_my_org_repos(client: &Client, stats: &mut UserAndRepoStats) -> Resu
         tracing::info!("Getting organization repos after {after:?}");
         let resp = organization_query(client, after).await?;
         tracing::debug!("{resp:#?}");
+
+        if let Some(errors) = resp.errors {
+            tracing::error!("Errors in organization repos query: {:?}", errors);
+            return Err(anyhow::anyhow!("organization repos query returned errors"));
+        }
 
         let organization = resp
             .data
@@ -584,6 +594,11 @@ async fn get_other_repos(client: &Client, stats: &mut UserAndRepoStats) -> Resul
         )
         .await?;
         tracing::debug!("{resp:#?}");
+
+        if let Some(errors) = resp.errors {
+            tracing::error!("Errors in other repos query: {:?}", errors);
+            return Err(anyhow::anyhow!("other repos query returned errors"));
+        }
 
         let contributions = resp
             .data
@@ -823,6 +838,11 @@ async fn issue_and_pr_stats(client: &Client) -> Result<IssueAndPrStats> {
         post_graphql::<IssuesAndPrsQuery, _>(client, API_URL, issues_and_prs_query::Variables {})
             .await?;
     tracing::debug!("{resp:#?}");
+
+    if let Some(errors) = resp.errors {
+        tracing::error!("Errors in issue and pr query: {:?}", errors);
+        return Err(anyhow::anyhow!("issue and pr query returned errors"));
+    }
 
     let data = resp.data.unwrap();
     Ok(IssueAndPrStats {
