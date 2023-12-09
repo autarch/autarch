@@ -11,19 +11,15 @@ pub(crate) mod gql_types {
 use anyhow::Result;
 use chrono::{DateTime, Datelike, Utc};
 use github_queries::{
-    issues_and_prs_query,
-    organization_repos_query,
-    // Using this very long name in the code causes rustfmt to not format any
-    // block containing this name.
+    issues_and_prs_query, organization_repos_query, user_contributed_repos_query,
     user_contributed_repos_query::{
         UserContributedReposQueryUserRepositoriesContributedToNodes,
+        // Using this very long name in the code causes rustfmt to not format
+        // any block containing this name.
         UserContributedReposQueryUserRepositoriesContributedToNodesDefaultBranchRefTarget as ContributedRefTarget,
     },
     user_repos_query::{self, ReposNodes, ReposNodesLanguages},
-    IssuesAndPrsQuery,
-    OrganizationReposQuery,
-    UserContributedReposQuery,
-    UserReposQuery,
+    IssuesAndPrsQuery, OrganizationReposQuery, UserContributedReposQuery, UserReposQuery,
 };
 use graphql_client::{reqwest::post_graphql, Response};
 use human_bytes::human_bytes;
@@ -41,8 +37,6 @@ use std::{
     path::PathBuf,
 };
 use tinytemplate::TinyTemplate;
-
-use crate::github_queries::user_contributed_repos_query;
 
 const VERSION: &str = env!("CARGO_PKG_VERSION");
 
