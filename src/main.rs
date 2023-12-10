@@ -251,7 +251,7 @@ async fn main() -> Result<()> {
         .expect("You must set the GITHUB_TOKEN env var when running this program");
     let bearer = format!("Bearer {token}");
     let client = Client::builder()
-        .user_agent(format!("autarch-profiler-generator/{VERSION}"))
+        .user_agent(format!("autarch-profile-generator/{VERSION}"))
         .default_headers(
             std::iter::once((
                 reqwest::header::AUTHORIZATION,
