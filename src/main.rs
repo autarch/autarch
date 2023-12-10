@@ -21,7 +21,7 @@ use github_queries::{
     user_repos_query::{self, ReposNodes, ReposNodesLanguages},
     IssuesAndPrsQuery, OrganizationReposQuery, UserContributedReposQuery, UserReposQuery,
 };
-use graphql_client::{reqwest::post_graphql, Response};
+use graphql_client::Response;
 use human_bytes::human_bytes;
 use itertools::{EitherOrBoth, Itertools};
 use once_cell::sync::Lazy;
@@ -920,6 +920,23 @@ fn should_get(what: &str) -> bool {
         return true;
     }
     only == what
+}
+
+use graphql_client::GraphQLQuery;
+
+pub async fn post_graphql<Q: GraphQLQuery, U: reqwest::IntoUrl>(
+    client: &reqwest::Client,
+    url: U,
+    variables: Q::Variables,
+) -> Result<crate::Response<Q::ResponseData>, reqwest::Error> {
+    let body = Q::build_query(variables);
+    let reqwest_response = client.post(url).json(&body).send().await?;
+
+    for (k, v) in reqwest_response.headers() {
+        tracing::debug!("Response header: {}: {:?}", k, v);
+    }
+
+    reqwest_response.json().await
 }
 
 const README_TEMPLATE: &str = r#"
