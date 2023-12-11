@@ -29,16 +29,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/autarch](https://github.com/autarch/autarch) - 2023-12-10              | [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit) - 2023-11-02                |
-| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2023-12-10              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-12-04              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-11-06              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-11-06              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
-| [houseabsolute/pushd](https://github.com/houseabsolute/pushd) - 2023-11-06              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-11-04              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-11-04              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-09-14              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
-| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-09-10              |                 |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2023-12-11              | [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit) - 2023-11-02                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-12-10              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
+| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2023-12-10              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-12-04              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-11-06              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-11-06              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
+| [houseabsolute/pushd](https://github.com/houseabsolute/pushd) - 2023-11-06              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-11-04              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-11-04              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-09-14              |                 |
 
 
 ## Most Starred
@@ -73,13 +73,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
-* [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
-* [Cocteau Twins](https://musicbrainz.org/artist/000fc734-b7e1-4a01-92d1-f544261b43f5)
-* [Gorky&#39;s Zygotic Mynci](https://musicbrainz.org/artist/4015f3f8-2711-41de-b80b-4fee07373b12)
+* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
+* [Dadadah](https://musicbrainz.org/search?query=Dadadah&amp;type=artist&amp;method=indexed)
 * [Led Zeppelin](https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
 * [Superfly](https://musicbrainz.org/search?query=Superfly&amp;type=artist&amp;method=indexed)
-* [The Polyphonic Spree](https://musicbrainz.org/artist/6758601f-6d57-491e-a125-037f382a5ddd)
+* [The Magnetic Fields](https://musicbrainz.org/artist/3ff72a59-f39d-411d-9f93-2d4a86413013)
+* [The Police](https://musicbrainz.org/artist/9e0e2b01-41db-4008-bd8b-988977d6019a)
 
