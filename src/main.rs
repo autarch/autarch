@@ -260,6 +260,8 @@ async fn main() -> Result<()> {
             ))
             .collect(),
         )
+        // Disable connection reuse to see if this fixes the weird failures in cron.
+        .pool_max_idle_per_host(0)
         .build()?;
 
     let blog_posts = blog_posts().await?;
