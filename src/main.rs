@@ -924,19 +924,34 @@ fn should_get(what: &str) -> bool {
 
 use graphql_client::GraphQLQuery;
 
-pub async fn post_graphql<Q: GraphQLQuery, U: reqwest::IntoUrl>(
+pub async fn post_graphql<Q: GraphQLQuery, U: reqwest::IntoUrl + Clone>(
     client: &reqwest::Client,
     url: U,
     variables: Q::Variables,
-) -> Result<crate::Response<Q::ResponseData>, reqwest::Error> {
+) -> Result<crate::Response<Q::ResponseData>> {
     let body = Q::build_query(variables);
-    let reqwest_response = client.post(url).json(&body).send().await?;
+    for i in 1..5 {
+        let reqwest_response = client.post(url.clone()).json(&body).send().await?;
 
-    for (k, v) in reqwest_response.headers() {
-        tracing::debug!("Response header: {}: {:?}", k, v);
+        for (k, v) in reqwest_response.headers() {
+            tracing::debug!("Response header: {}: {:?}", k, v);
+        }
+
+        if let Some(gmt) = reqwest_response.headers().get("x-github-media-type") {
+            if gmt.to_str().unwrap_or_default() == "github.v3; format=json" {
+                tracing::debug!("Got GitHub v3 media type, will retry request (attempt #{i})");
+                let body = reqwest_response.text().await;
+                tracing::debug!("Response body: {:?}", body);
+                continue;
+            }
+        }
+
+        return reqwest_response.json().await.map_err(Into::into);
     }
 
-    reqwest_response.json().await
+    Err(anyhow::anyhow!(
+        "Could not get valid response after 5 attempts"
+    ))
 }
 
 const README_TEMPLATE: &str = r#"
