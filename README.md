@@ -20,7 +20,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **41 original repos with commits to the default branch in the last two years**
+- **40 original repos with commits to the default branch in the last two years**
 - 323 total repos
   - 196 are forks
 
@@ -29,7 +29,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/autarch](https://github.com/autarch/autarch) - 2023-12-11              | [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit) - 2023-11-02                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2023-12-12              | [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit) - 2023-11-02                |
 | [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-12-10              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
 | [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2023-12-10              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-12-04              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
@@ -43,7 +43,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Most Starred
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 56 stars
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 52 stars
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 53 stars
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
 - [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 44 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 40 stars
@@ -60,7 +60,7 @@ This excludes archived, disabled, empty, and private repos.
 ## GitHub Activity Stats
 - 557 PRs created
   - of which 414 were merged
-- 495 issues created
+- 496 issues created
   - of which 305 have been closed
 
 ## Language Stats
@@ -74,9 +74,9 @@ This excludes archived, disabled, empty, and private repos.
 ## Top Artists for the Past Week
 * [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
-* [Cocco](https://musicbrainz.org/artist/7f28f385-a591-4f66-80ea-a81a0f2abb54)
 * [Dadadah](https://musicbrainz.org/search?query=Dadadah&amp;type=artist&amp;method=indexed)
-* [Led Zeppelin](https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3)
+* [David Bowie](https://musicbrainz.org/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50)
+* [Gorky&#39;s Zygotic Mynci](https://musicbrainz.org/artist/4015f3f8-2711-41de-b80b-4fee07373b12)
 * [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
 * [Muse](https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090)
 * [Superfly](https://musicbrainz.org/search?query=Superfly&amp;type=artist&amp;method=indexed)
