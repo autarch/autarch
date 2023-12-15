@@ -43,7 +43,7 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Most Starred
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 56 stars
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 53 stars
+- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 54 stars
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 45 stars
 - [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 44 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 40 stars
@@ -60,7 +60,7 @@ This excludes archived, disabled, empty, and private repos.
 ## GitHub Activity Stats
 - 557 PRs created
   - of which 414 were merged
-- 496 issues created
+- 497 issues created
   - of which 305 have been closed
 
 ## Language Stats
