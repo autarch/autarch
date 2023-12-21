@@ -73,13 +73,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
+* [Aaron English](https://musicbrainz.org/artist/4204913b-bcdb-4886-841a-e24c9123e233)
+* [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
 * [Antony and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
-* [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Kitri](https://musicbrainz.org/artist/f3b6bb5d-9bac-41d8-8e7a-5905cba352b7)
 * [Peter Gabriel](https://musicbrainz.org/artist/8e66ea2b-b57b-47d9-8df0-df4630aeb8e5)
 * [Polkadot Stingray](https://musicbrainz.org/artist/0f0caf6e-e815-4ad3-93db-fb37be9adcc8)
-* [Superfly](https://musicbrainz.org/search?query=Superfly&amp;type=artist&amp;method=indexed)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
 
