@@ -29,7 +29,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-12-19              | [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit) - 2023-11-02                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-12-24              | [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit) - 2023-11-02                |
 | [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-12-17              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
 | [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-12-17              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
 | [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-12-17              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
@@ -73,13 +73,13 @@ This excludes archived, disabled, empty, and private repos.
 
 ## Top Artists for the Past Week
 * [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
-* [Aaron English](https://musicbrainz.org/artist/4204913b-bcdb-4886-841a-e24c9123e233)
-* [Ai Higuchi](https://musicbrainz.org/search?query=Ai%20Higuchi&amp;type=artist&amp;method=indexed)
-* [Amanda Palmer](https://musicbrainz.org/artist/3c0eb318-d2ba-45aa-9077-b83746cc56da)
 * [Antony and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
+* [Applesaucer](https://musicbrainz.org/artist/35a4a650-e58c-4ed3-8aa0-b89cff7b3041)
+* [BEAT CRUSADERS](https://musicbrainz.org/artist/e8575463-1ef4-4fc7-8d63-b8b12fe3c13b)
+* [Billy Joel](https://musicbrainz.org/artist/64b94289-9474-4d43-8c93-918ccc1920d1)
+* [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
 * [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
 * [Kitri](https://musicbrainz.org/artist/f3b6bb5d-9bac-41d8-8e7a-5905cba352b7)
-* [Peter Gabriel](https://musicbrainz.org/artist/8e66ea2b-b57b-47d9-8df0-df4630aeb8e5)
 * [They Might Be Giants](https://musicbrainz.org/artist/183d6ef6-e161-47ff-9085-063c8b897e97)
 * [新居昭乃](https://musicbrainz.org/artist/fac271b8-b340-440a-9938-3d59d0f90b97)
 
