@@ -21,8 +21,8 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 ## Repo Stats
 - **39 original repos with commits to the default branch in the last two years**
-- 324 total repos
-  - 197 are forks
+- 325 total repos
+  - 198 are forks
 
 This excludes archived, disabled, empty, and private repos.
 
@@ -58,10 +58,10 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## GitHub Activity Stats
-- 558 PRs created
+- 560 PRs created
   - of which 414 were merged
 - 497 issues created
-  - of which 306 have been closed
+  - of which 307 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
