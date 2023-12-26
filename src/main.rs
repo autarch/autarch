@@ -52,6 +52,14 @@ static WORK_REPOS: Lazy<HashSet<&'static str>> = Lazy::new(|| {
     h.insert("mongodb-labs");
     h
 });
+// These are repos in other orgs that are my projects. There are others I
+// could add but this is just the ones that I've worked on the last few years.
+static MY_EXTERNAL_REPOS: Lazy<HashSet<&'static str>> = Lazy::new(|| {
+    let mut h = HashSet::new();
+    h.insert("moose/Dist-Zilla-Plugin-Conflicts");
+    h.insert("moose/Package-DeprecationManager");
+    h
+});
 
 const DATE_FORMAT: &str = "%Y-%m-%d";
 
@@ -169,7 +177,7 @@ impl ReposNodes {
     }
 
     fn is_mine(&self) -> bool {
-        repo_is_mine(&self.owner.login)
+        repo_is_mine(&self.owner.login, &self.name_with_owner)
     }
 
     fn is_fork_of_mine(&self) -> bool {
@@ -180,13 +188,13 @@ impl ReposNodes {
             .parent
             .as_ref()
             .unwrap_or_else(|| panic!("Repo {} is a fork but has no parent", self.name_with_owner));
-        repo_is_mine(&parent.owner.login)
+        repo_is_mine(&parent.owner.login, "")
     }
 }
 
 impl UserContributedReposQueryUserRepositoriesContributedToNodes {
     fn is_mine(&self) -> bool {
-        repo_is_mine(&self.owner.login)
+        repo_is_mine(&self.owner.login, &self.name_with_owner)
     }
 
     fn is_fork_of_mine(&self) -> bool {
@@ -197,12 +205,12 @@ impl UserContributedReposQueryUserRepositoriesContributedToNodes {
             .parent
             .as_ref()
             .unwrap_or_else(|| panic!("Repo {} is a fork but has no parent", self.name_with_owner));
-        repo_is_mine(&parent.owner.login)
+        repo_is_mine(&parent.owner.login, "")
     }
 }
 
-fn repo_is_mine(login: &str) -> bool {
-    login == MY_LOGIN || login == MY_ORG
+fn repo_is_mine(login: &str, name_with_owner: &str) -> bool {
+    login == MY_LOGIN || login == MY_ORG || MY_EXTERNAL_REPOS.contains(name_with_owner)
 }
 
 impl OneRepo {
