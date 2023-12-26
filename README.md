@@ -29,15 +29,15 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-12-24              | [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit) - 2023-11-02                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-12-17              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
-| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-12-17              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-12-17              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2023-12-16              | [moose/Dist-Zilla-Plugin-Conflicts](https://github.com/moose/Dist-Zilla-Plugin-Conflicts) - 2023-04-30                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2023-12-12              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-11-06              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
-| [houseabsolute/pushd](https://github.com/houseabsolute/pushd) - 2023-11-06              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-11-04              | [moose/Package-DeprecationManager](https://github.com/moose/Package-DeprecationManager) - 2023-02-19                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2023-12-26              | [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit) - 2023-11-02                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-12-24              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-12-17              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-12-17              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-12-17              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
+| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2023-12-16              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-11-06              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [houseabsolute/pushd](https://github.com/houseabsolute/pushd) - 2023-11-06              |                 |
+| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-11-04              |                 |
 | [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-11-04              |                 |
 
 
@@ -61,7 +61,7 @@ This excludes archived, disabled, empty, and private repos.
 - 558 PRs created
   - of which 414 were merged
 - 497 issues created
-  - of which 305 have been closed
+  - of which 306 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
@@ -72,14 +72,4 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Top Artists for the Past Week
-* [12 Rods](https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024)
-* [Antony and the Johnsons](https://musicbrainz.org/artist/90cc2464-234e-4da0-b39b-576f36e633bc)
-* [Björk](https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb)
-* [Buffalo Daughter](https://musicbrainz.org/artist/c71ae637-cbc5-4f57-9c1a-38d691bd3c43)
-* [Chara](https://musicbrainz.org/artist/94812064-a7c2-49d2-b6b0-b9e76289bf87)
-* [King&#39;s X](https://musicbrainz.org/artist/c8f5272e-8a94-4807-9099-70181e92fc46)
-* [Kitri](https://musicbrainz.org/artist/f3b6bb5d-9bac-41d8-8e7a-5905cba352b7)
-* [Leonard Bernstein](https://musicbrainz.org/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac)
-* [Low](https://musicbrainz.org/artist/92de643f-fa8f-4e68-b627-4376711b7b33)
-* [Neko Case](https://musicbrainz.org/artist/e13d2935-8c42-4c0a-96d7-654062acf106)
 
