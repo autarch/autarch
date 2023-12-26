@@ -13,19 +13,13 @@ jobs:
     environment: "Profile regeneration"
     steps:
       - uses: actions/checkout@v3
-      - uses: FrancisRussell/ferrous-actions@v0.1.0-beta.2
-        name: Cache Cargo home
-        with:
-          command: cache
-      - uses: FrancisRussell/ferrous-actions@v0.1.0-beta.2
-        name: Install Rustup
-        with:
-          command: install-rustup
-          toolchain: stable
-      - uses: FrancisRussell/ferrous-actions@v0.1.0-beta.2
-        name: Cargo build
-        with:
-          command: cargo build
+      - name: Cache cargo & target directories
+        uses: Swatinem/rust-cache@v2
+      - name: Install toolchain
+        uses: dtolnay/rust-toolchain@stable
+      - name: Cargo build
+        run: |
+          cargo build
       - name: Configure Git
         run: |
           git config --global user.email "murderbot@example.com"
