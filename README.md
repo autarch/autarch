@@ -29,16 +29,16 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-12-28              | [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit) - 2023-11-02                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2023-12-27              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-12-24              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
-| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-12-17              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-12-17              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
-| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2023-12-16              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-11-06              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2023-12-30              | [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit) - 2023-11-02                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-12-28              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2023-12-27              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-12-24              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-12-17              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-12-17              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
+| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2023-12-16              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-11-06              |                 |
 | [houseabsolute/pushd](https://github.com/houseabsolute/pushd) - 2023-11-06              |                 |
 | [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-11-04              |                 |
-| [houseabsolute/omegasort](https://github.com/houseabsolute/omegasort) - 2023-11-04              |                 |
 
 
 ## Most Starred
