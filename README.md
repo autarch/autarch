@@ -20,7 +20,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **39 original repos with commits to the default branch in the last two years**
+- **38 original repos with commits to the default branch in the last two years**
 - 325 total repos
   - 198 are forks
 
