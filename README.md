@@ -20,7 +20,7 @@ My (mostly technical) blog lives at https://blog.urth.org/.
 
 
 ## Repo Stats
-- **38 original repos with commits to the default branch in the last two years**
+- **39 original repos with commits to the default branch in the last two years**
 - 325 total repos
   - 198 are forks
 
@@ -29,22 +29,22 @@ This excludes archived, disabled, empty, and private repos.
 ## Recent Commits
 | My Repos | Others |
 |----------|--------|
-| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2023-12-30              | [caramelomartins/awesome-linters](https://github.com/caramelomartins/awesome-linters) - 2024-01-04                |
-| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-12-28              | [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit) - 2023-11-02                |
-| [autarch/autarch](https://github.com/autarch/autarch) - 2023-12-27              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
-| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-12-24              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
-| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-12-17              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
-| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-12-17              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
-| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2023-12-16              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
-| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-11-06              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
-| [houseabsolute/pushd](https://github.com/houseabsolute/pushd) - 2023-11-06              |                 |
-| [houseabsolute/DateTime-Locale](https://github.com/houseabsolute/DateTime-Locale) - 2023-11-04              |                 |
+| [houseabsolute/ci-perl-helpers](https://github.com/houseabsolute/ci-perl-helpers) - 2024-01-08              | [caramelomartins/awesome-linters](https://github.com/caramelomartins/awesome-linters) - 2024-01-04                |
+| [houseabsolute/Devel-StackTrace](https://github.com/houseabsolute/Devel-StackTrace) - 2024-01-08              | [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit) - 2023-11-02                |
+| [houseabsolute/DateTime-TimeZone](https://github.com/houseabsolute/DateTime-TimeZone) - 2023-12-30              | [marlive215/web-development](https://github.com/marlive215/web-development) - 2023-10-08                |
+| [autarch/blog.urth.org](https://github.com/autarch/blog.urth.org) - 2023-12-28              | [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - 2023-09-03                |
+| [autarch/autarch](https://github.com/autarch/autarch) - 2023-12-27              | [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - 2023-05-03                |
+| [houseabsolute/precious](https://github.com/houseabsolute/precious) - 2023-12-24              | [waltzofpearls/dateparser](https://github.com/waltzofpearls/dateparser) - 2023-04-23                |
+| [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 2023-12-17              | [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - 2023-03-31                |
+| [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 2023-12-17              | [tdbgamer/libpg_query-sys](https://github.com/tdbgamer/libpg_query-sys) - 2023-03-25                |
+| [houseabsolute/perl-code-tidyall](https://github.com/houseabsolute/perl-code-tidyall) - 2023-12-16              |                 |
+| [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 2023-11-06              |                 |
 
 
 ## Most Starred
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 57 stars
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 53 stars
-- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 48 stars
+- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 49 stars
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 46 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 40 stars
 
@@ -66,8 +66,8 @@ This excludes archived, disabled, empty, and private repos.
 ## Language Stats
 | Past Two Years        | All Time                |
 |-----------------------|-------------------------|
-| Perl: 58%, 3.9 MiB              | Perl: 63%, 5.7 MiB                |
-| Rust: 38%, 2.5 MiB              | Rust: 31%, 2.8 MiB                |
+| Perl: 59%, 3.9 MiB              | Perl: 63%, 5.7 MiB                |
+| Rust: 37%, 2.5 MiB              | Rust: 31%, 2.8 MiB                |
 | Go: 2%, 158.9 KiB              | Go: 3%, 296.3 KiB                |
 
 
