@@ -42,9 +42,9 @@ This excludes archived, disabled, empty, and private repos.
 
 
 ## Most Starred
-- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 57 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - 58 stars
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 54 stars
-- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 49 stars
+- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 50 stars
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 46 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 40 stars
 
@@ -61,7 +61,7 @@ This excludes archived, disabled, empty, and private repos.
 - 560 PRs created
   - of which 415 were merged
 - 497 issues created
-  - of which 307 have been closed
+  - of which 308 have been closed
 
 ## Language Stats
 | Past Two Years        | All Time                |
