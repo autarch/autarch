@@ -44,7 +44,7 @@ This excludes archived, disabled, empty, and private repos.
 ## Most Starred
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - 58 stars
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - 54 stars
-- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 51 stars
+- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - 53 stars
 - [houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm) - 46 stars
 - [houseabsolute/pg-pretty](https://github.com/houseabsolute/pg-pretty) - 40 stars
 
