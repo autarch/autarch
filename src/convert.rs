@@ -8,7 +8,7 @@ impl From<organization_repos_query::ReposNodes> for user_repos_query::ReposNodes
     fn from(repo: organization_repos_query::ReposNodes) -> Self {
         Self {
             created_at: repo.created_at,
-            default_branch_ref: repo.default_branch_ref.map(|d| d.into()),
+            default_branch_ref: repo.default_branch_ref.map(std::convert::Into::into),
             fork_count: repo.fork_count,
             is_archived: repo.is_archived,
             is_disabled: repo.is_disabled,
@@ -17,10 +17,10 @@ impl From<organization_repos_query::ReposNodes> for user_repos_query::ReposNodes
             is_mirror: repo.is_mirror,
             is_private: repo.is_private,
             name_with_owner: repo.name_with_owner,
-            languages: repo.languages.map(|l| l.into()),
-            license_info: repo.license_info.map(|l| l.into()),
+            languages: repo.languages.map(std::convert::Into::into),
+            license_info: repo.license_info.map(std::convert::Into::into),
             owner: repo.owner.into(),
-            parent: repo.parent.map(|p| p.into()),
+            parent: repo.parent.map(std::convert::Into::into),
             stargazer_count: repo.stargazer_count,
             url: repo.url,
         }
@@ -32,7 +32,7 @@ impl From<organization_repos_query::ReposNodesDefaultBranchRef>
 {
     fn from(ref_: organization_repos_query::ReposNodesDefaultBranchRef) -> Self {
         Self {
-            target: ref_.target.map(|t| t.into()),
+            target: ref_.target.map(std::convert::Into::into),
         }
     }
 }
@@ -69,9 +69,11 @@ impl From<organization_repos_query::ReposNodesDefaultBranchRefTargetOnCommitHist
         history: organization_repos_query::ReposNodesDefaultBranchRefTargetOnCommitHistory,
     ) -> Self {
         Self {
-            nodes: history
-                .nodes
-                .map(|vn| vn.into_iter().map(|n| n.map(|n| n.into())).collect()),
+            nodes: history.nodes.map(|vn| {
+                vn.into_iter()
+                    .map(|n| n.map(std::convert::Into::into))
+                    .collect()
+            }),
         }
     }
 }
@@ -91,12 +93,16 @@ impl From<organization_repos_query::ReposNodesDefaultBranchRefTargetOnCommitHist
 impl From<organization_repos_query::ReposNodesLanguages> for user_repos_query::ReposNodesLanguages {
     fn from(langs: organization_repos_query::ReposNodesLanguages) -> Self {
         Self {
-            edges: langs
-                .edges
-                .map(|ve| ve.into_iter().map(|e| e.map(|e| e.into())).collect()),
-            nodes: langs
-                .nodes
-                .map(|vn| vn.into_iter().map(|n| n.map(|n| n.into())).collect()),
+            edges: langs.edges.map(|ve| {
+                ve.into_iter()
+                    .map(|e| e.map(std::convert::Into::into))
+                    .collect()
+            }),
+            nodes: langs.nodes.map(|vn| {
+                vn.into_iter()
+                    .map(|n| n.map(std::convert::Into::into))
+                    .collect()
+            }),
             total_size: langs.total_size,
         }
     }

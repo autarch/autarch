@@ -6,6 +6,7 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.79"
 chrono = "0.4.33"
+conv = "0.3.3"
 graphql_client = { version = "0.13.0", features = ["reqwest"] }
 human_bytes = "0.4.3"
 itertools = "0.12.1"

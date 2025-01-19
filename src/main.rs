@@ -10,6 +10,7 @@ pub(crate) mod gql_types {
 
 use anyhow::Result;
 use chrono::{DateTime, Datelike, Utc};
+use conv::ValueFrom;
 use github_queries::{
     issues_and_prs_query, organization_repos_query, user_contributed_repos_query,
     user_contributed_repos_query::{
@@ -99,7 +100,7 @@ struct TopRepos<'a> {
 struct LanguageStat<'a> {
     name: &'a str,
     color: &'a str,
-    percentage: i64,
+    percentage: f64,
     bytes: String,
 }
 
@@ -246,7 +247,7 @@ impl From<ReposNodes> for OneRepo {
     }
 }
 
-impl<'a> LanguageStat<'a> {
+impl LanguageStat<'_> {
     fn string_for_template(&self) -> String {
         format!("{}: {}%, {}", self.name, self.percentage, self.bytes)
     }
@@ -277,9 +278,9 @@ async fn main() -> Result<()> {
     tracing::debug!("{user_and_repo_stats:#?}");
     let top_repos = top_repos(&user_and_repo_stats);
     tracing::debug!("{top_repos:#?}");
-    let top_all_time_languages = top_languages(&user_and_repo_stats.all_time_languages);
+    let top_all_time_languages = top_languages(&user_and_repo_stats.all_time_languages)?;
     tracing::debug!("{top_all_time_languages:#?}");
-    let top_recent_languages = top_languages(&user_and_repo_stats.recent_languages);
+    let top_recent_languages = top_languages(&user_and_repo_stats.recent_languages)?;
     tracing::debug!("{top_recent_languages:#?}");
     let issue_and_pr_stats = issue_and_pr_stats(&client).await?;
     tracing::debug!("{issue_and_pr_stats:#?}");
@@ -393,12 +394,12 @@ async fn get_my_user_repos(client: &Client, stats: &mut UserAndRepoStats) -> Res
             // list of repos by querying the org later.
             user.repositories
                 .nodes
-                .unwrap_or_else(|| panic!("Reponse for user repos has no nodes for repositories"))
+                .unwrap_or_else(|| panic!("Response for user repos has no nodes for repositories"))
                 .into_iter()
                 .filter(|r| {
                     r.as_ref()
                         .unwrap_or_else(|| {
-                            panic!("Reponse for user repos has an empty repositories node")
+                            panic!("Response for user repos has an empty repositories node")
                         })
                         .owner
                         .login
@@ -464,9 +465,9 @@ async fn get_my_org_repos(client: &Client, stats: &mut UserAndRepoStats) -> Resu
             organization
                 .repositories
                 .nodes
-                .unwrap_or_else(|| panic!("Reponse for org repos has no nodes for repositories"))
+                .unwrap_or_else(|| panic!("Response for org repos has no nodes for repositories"))
                 .into_iter()
-                .map(|n| n.map(|n| n.into()))
+                .map(|n| n.map(std::convert::Into::into))
                 .collect(),
         )?;
 
@@ -622,59 +623,12 @@ async fn get_other_repos(client: &Client, stats: &mut UserAndRepoStats) -> Resul
             .into_iter()
             .flatten()
         {
-            if repo.is_mine() {
-                tracing::debug!(
-                    "Skipping my own repo returned in other repos query: {}",
-                    repo.name_with_owner,
-                );
-                continue;
-            }
-            if WORK_REPOS.contains(repo.owner.login.as_str()) {
-                tracing::debug!("Skipping work repo owned by {}", repo.owner.login);
-                continue;
-            }
-            if repo.is_fork_of_mine() {
-                tracing::debug!("Skipping fork of my own repo: {}", repo.name_with_owner);
+            if should_skip_other_repo(&repo) {
                 continue;
             }
 
-            let committed_date = match repo
-                .default_branch_ref
-                .unwrap_or_else(|| {
-                    panic!(
-                        "Could not get default branch ref for repo {}",
-                        repo.name_with_owner
-                    )
-                })
-                .target
-            {
-                Some(ContributedRefTarget::Commit(c)) => {
-                    let mut nodes = c.history.nodes.unwrap_or_else(|| {
-                        panic!(
-                            "Could not get history nodes for default target of repo {}",
-                            repo.name_with_owner
-                        )
-                    });
-                    if nodes.is_empty() {
-                        continue;
-                    }
-                    nodes
-                        .pop()
-                        .unwrap_or_else(|| {
-                            panic!(
-                                "History nodes for default target of repo {} is empty",
-                                repo.name_with_owner
-                            )
-                        })
-                        .unwrap_or_else(|| {
-                            panic!(
-                                "Could not get a commit from nodes for default target of repo {}",
-                                repo.name_with_owner
-                            )
-                        })
-                        .committed_date
-                }
-                _ => continue,
+            let Some(committed_date) = committed_date_for_repo(&repo) else {
+                continue;
             };
             let committed_date = DateTime::parse_from_rfc3339(&committed_date)
                 .unwrap_or_else(|e| {
@@ -700,6 +654,75 @@ async fn get_other_repos(client: &Client, stats: &mut UserAndRepoStats) -> Resul
     }
 
     Ok(())
+}
+
+fn should_skip_other_repo(
+    repo: &UserContributedReposQueryUserRepositoriesContributedToNodes,
+) -> bool {
+    if repo.is_mine() {
+        tracing::debug!(
+            "Skipping my own repo returned in other repos query: {}",
+            repo.name_with_owner,
+        );
+        true
+    } else if WORK_REPOS.contains(repo.owner.login.as_str()) {
+        tracing::debug!("Skipping work repo owned by {}", repo.owner.login);
+        true
+    } else if repo.is_fork_of_mine() {
+        tracing::debug!("Skipping fork of my own repo: {}", repo.name_with_owner);
+        true
+    } else {
+        false
+    }
+}
+
+fn committed_date_for_repo(
+    repo: &UserContributedReposQueryUserRepositoriesContributedToNodes,
+) -> Option<&str> {
+    match repo
+        .default_branch_ref
+        .as_ref()
+        .unwrap_or_else(|| {
+            panic!(
+                "Could not get default branch ref for repo {}",
+                repo.name_with_owner
+            )
+        })
+        .target
+        .as_ref()
+    {
+        Some(ContributedRefTarget::Commit(c)) => {
+            let nodes = c.history.nodes.as_ref().unwrap_or_else(|| {
+                panic!(
+                    "Could not get history nodes for default target of repo {}",
+                    repo.name_with_owner
+                )
+            });
+            if nodes.is_empty() {
+                return None;
+            }
+            Some(
+                nodes
+                    .last()
+                    .unwrap_or_else(|| {
+                        panic!(
+                            "History nodes for default target of repo {} is empty",
+                            repo.name_with_owner
+                        )
+                    })
+                    .as_ref()
+                    .unwrap_or_else(|| {
+                        panic!(
+                            "Could not get a commit from nodes for default target of repo {}",
+                            repo.name_with_owner
+                        )
+                    })
+                    .committed_date
+                    .as_str(),
+            )
+        }
+        _ => None,
+    }
 }
 
 const REPOS_TO_IGNORE_FOR_LANGUAGE_STATS: &[&str] = &[
@@ -734,14 +757,13 @@ fn collect_language_stats(
         })
         .collect::<Vec<_>>();
 
-    if lang_sizes.len() != lang_names_and_colors.len() {
-        panic!(
-            "language sizes and names differ in length: {} != {} for {}",
-            lang_sizes.len(),
-            lang_names_and_colors.len(),
-            repo_name,
-        );
-    }
+    assert!(
+        (lang_sizes.len() == lang_names_and_colors.len()),
+        "language sizes and names differ in length: {} != {} for {}",
+        lang_sizes.len(),
+        lang_names_and_colors.len(),
+        repo_name,
+    );
     if !lang_sizes.is_empty() && !REPOS_TO_IGNORE_FOR_LANGUAGE_STATS.contains(&repo_name) {
         for i in 0..lang_sizes.len() - 1 {
             let lang = match (repo_name, lang_names_and_colors[i].0) {
@@ -791,8 +813,8 @@ fn top_repos(stats: &UserAndRepoStats) -> TopRepos<'_> {
     TopRepos {
         my_most_recent,
         other_most_recent,
-        most_forked,
         most_starred,
+        most_forked,
     }
 }
 
@@ -803,7 +825,7 @@ where
     repos.iter().sorted_by(sorter).take(take).collect()
 }
 
-fn top_languages(languages: &HashMap<String, (String, i64)>) -> Vec<LanguageStat> {
+fn top_languages(languages: &HashMap<String, (String, i64)>) -> Result<Vec<LanguageStat>> {
     let total_size: i64 = languages.values().map(|v| v.1).sum();
     let colors: HashMap<&str, &str> = languages
         .iter()
@@ -821,7 +843,7 @@ fn top_languages(languages: &HashMap<String, (String, i64)>) -> Vec<LanguageStat
 
     let mut top = vec![];
     for (name, sum) in language_sums {
-        let pct = (sum as f64 / total_size as f64) * 100.0;
+        let pct = (f64::value_from(sum)? / f64::value_from(total_size)?) * 100.0;
         if pct < 1.0 {
             tracing::debug!("Skipping language {name} with total percentage of {pct}");
             continue;
@@ -829,13 +851,13 @@ fn top_languages(languages: &HashMap<String, (String, i64)>) -> Vec<LanguageStat
         top.push(LanguageStat {
             name,
             color: colors.get(name).unwrap(),
-            percentage: pct.round() as i64,
-            bytes: human_bytes(sum as f64),
-        })
+            percentage: pct.round(),
+            bytes: human_bytes(f64::value_from(sum)?),
+        });
     }
 
-    top.sort_by(|a, b| b.percentage.cmp(&a.percentage));
-    top
+    top.sort_by(|a, b| b.percentage.total_cmp(&a.percentage));
+    Ok(top)
 }
 
 async fn issue_and_pr_stats(client: &Client) -> Result<IssueAndPrStats> {
@@ -964,7 +986,7 @@ pub async fn post_graphql<Q: GraphQLQuery, U: reqwest::IntoUrl + Clone>(
     ))
 }
 
-const README_TEMPLATE: &str = r#"
+const README_TEMPLATE: &str = r"
 # Dave Rolsky
 
 See the [houseabsolute organization](https://github.com/houseabsolute) for the
@@ -1022,4 +1044,4 @@ This excludes archived, disabled, empty, and private repos.
 {{ for artist in top_artists -}}
 * {artist}
 {{ endfor }}
-"#;
+";
