@@ -1,4 +1,4 @@
-exclude = ["README.md", "graphql/github.schema.graphql", "src/github_queries.rs", "target"]
+exclude = ["target"]
 
 [commands.clippy]
 type = "lint"
@@ -17,6 +17,8 @@ cmd = [
     "--",
     "-D",
     "clippy::pedantic",
+    "-D",
+    "warnings",
 ]
 ok_exit_codes = 0
 lint_failure_exit_codes = 101
@@ -58,12 +60,12 @@ labels = ["default", "fast-tidy"]
 [commands.omegasort-gitignore]
 type = "both"
 include = "**/.gitignore"
-cmd = ["omegasort", "--sort=path", "--unique"]
+cmd = ["omegasort", "--sort", "path", "--unique"]
 lint_flags = "--check"
 tidy_flags = "--in-place"
 ok_exit_codes = 0
 lint_failure_exit_codes = 1
-expect_stderr = true
+ignore-stderr = ["The .+ file is not sorted", "The .+ file is not unique"]
 labels = ["default", "fast-tidy"]
 
 [commands.prettier]
@@ -97,6 +99,7 @@ labels = ["default", "fast-tidy"]
 [commands.typos]
 type = "lint"
 include = "**/*"
+exclude = "graphql/**/*.graphql"
 cmd = "typos"
 invoke = "once"
 ok-exit-codes = 0

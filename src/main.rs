@@ -25,7 +25,6 @@ use github_queries::{
 use graphql_client::Response;
 use human_bytes::human_bytes;
 use itertools::{EitherOrBoth, Itertools};
-use once_cell::sync::Lazy;
 use reqwest::Client;
 use rss::Channel;
 use serde_derive::Serialize;
@@ -44,7 +43,7 @@ const VERSION: &str = env!("CARGO_PKG_VERSION");
 const MY_LOGIN: &str = "autarch";
 const MY_ORG: &str = "houseabsolute";
 const MY_EMAIL: &str = "autarch@urth.org";
-static WORK_REPOS: Lazy<HashSet<&'static str>> = Lazy::new(|| {
+static WORK_REPOS: std::sync::LazyLock<HashSet<&'static str>> = std::sync::LazyLock::new(|| {
     let mut h = HashSet::new();
     h.insert("10gen");
     h.insert("10gen-archive");
@@ -55,12 +54,13 @@ static WORK_REPOS: Lazy<HashSet<&'static str>> = Lazy::new(|| {
 });
 // These are repos in other orgs that are my projects. There are others I
 // could add but this is just the ones that I've worked on the last few years.
-static MY_EXTERNAL_REPOS: Lazy<HashSet<&'static str>> = Lazy::new(|| {
-    let mut h = HashSet::new();
-    h.insert("moose/Dist-Zilla-Plugin-Conflicts");
-    h.insert("moose/Package-DeprecationManager");
-    h
-});
+static MY_EXTERNAL_REPOS: std::sync::LazyLock<HashSet<&'static str>> =
+    std::sync::LazyLock::new(|| {
+        let mut h = HashSet::new();
+        h.insert("moose/Dist-Zilla-Plugin-Conflicts");
+        h.insert("moose/Package-DeprecationManager");
+        h
+    });
 
 const DATE_FORMAT: &str = "%Y-%m-%d";
 
@@ -501,7 +501,7 @@ async fn organization_query(
     panic!("Could not get results for organization query after 5 attempts");
 }
 
-static FILTER_DATE: Lazy<DateTime<Utc>> = Lazy::new(|| {
+static FILTER_DATE: std::sync::LazyLock<DateTime<Utc>> = std::sync::LazyLock::new(|| {
     let now = chrono::Utc::now();
     // The chrono::Duration struct cannot represent 2 years, only multiple of
     // weeks, but two years is not 104 weeks.  let two_years_ago =
@@ -630,7 +630,7 @@ async fn get_other_repos(client: &Client, stats: &mut UserAndRepoStats) -> Resul
             let Some(committed_date) = committed_date_for_repo(&repo) else {
                 continue;
             };
-            let committed_date = DateTime::parse_from_rfc3339(&committed_date)
+            let committed_date = DateTime::parse_from_rfc3339(committed_date)
                 .unwrap_or_else(|e| {
                     panic!("Could not parse '{committed_date}' as RFC3339 datetime: {e}")
                 })
@@ -825,7 +825,7 @@ where
     repos.iter().sorted_by(sorter).take(take).collect()
 }
 
-fn top_languages(languages: &HashMap<String, (String, i64)>) -> Result<Vec<LanguageStat>> {
+fn top_languages(languages: &HashMap<String, (String, i64)>) -> Result<Vec<LanguageStat<'_>>> {
     let total_size: i64 = languages.values().map(|v| v.1).sum();
     let colors: HashMap<&str, &str> = languages
         .iter()
@@ -956,6 +956,7 @@ fn should_get(what: &str) -> bool {
 
 use graphql_client::GraphQLQuery;
 
+#[doc(hidden)]
 pub async fn post_graphql<Q: GraphQLQuery, U: reqwest::IntoUrl + Clone>(
     client: &reqwest::Client,
     url: U,
