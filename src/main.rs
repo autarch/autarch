@@ -505,7 +505,7 @@ static FILTER_DATE: std::sync::LazyLock<DateTime<Utc>> = std::sync::LazyLock::ne
     let now = chrono::Utc::now();
     // The chrono::Duration struct cannot represent 2 years, only multiple of
     // weeks, but two years is not 104 weeks.  let two_years_ago =
-    let two_years_ago = format!("{}-{}", now.year() - 2, now.format("%m-%dT%H:%M:%SZ"),);
+    let two_years_ago = format!("{}-{}", now.year() - 2, now.format("%m-%dT%H:%M:%SZ"));
     chrono::DateTime::parse_from_rfc3339(&two_years_ago)
         .unwrap_or_else(|e| panic!("Could not parse `{two_years_ago}` as an RFC3339 date: {e}"))
         .with_timezone(&Utc)
