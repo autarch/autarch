@@ -1,0 +1,16 @@
+# The GitHub GraphQL schema and the queries written against it use GitHub's own
+# field names. Allowed per file so the rest of the repo stays spell-checked.
+# Globs are matched against the file name, not the directory it lives in. This
+# file gets its own type because it quotes the words it allows.
+
+[type.typos-config]
+extend-glob = [".typos.toml"]
+[type.typos-config.extend-words]
+mergable = "mergable"
+referencable = "referencable"
+
+[type.graphql]
+extend-glob = ["**/*.graphql"]
+[type.graphql.extend-words]
+mergable = "mergable"
+referencable = "referencable"

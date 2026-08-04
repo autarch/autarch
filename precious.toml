@@ -102,7 +102,6 @@ labels = ["default", "fast-tidy"]
 [commands.typos]
 type = "both"
 include = "**/*"
-exclude = "graphql/**/*.graphql"
 cmd = "typos"
 tidy_flags = "--write-changes"
 invoke = "once"
