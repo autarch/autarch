@@ -7,10 +7,12 @@
 extend-glob = [".typos.toml"]
 [type.typos-config.extend-words]
 mergable = "mergable"
+releast = "releast"
 referencable = "referencable"
 
 [type.graphql]
 extend-glob = ["**/*.graphql"]
 [type.graphql.extend-words]
 mergable = "mergable"
+releast = "releast"
 referencable = "referencable"
